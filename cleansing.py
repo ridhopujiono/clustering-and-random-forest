@@ -30,7 +30,7 @@ print("\n>>> 3. Menangani Nilai Kosong...")
 
 # Daftar kolom numerik dan kategorikal
 numeric_cols = ['rt', 'rw', 'berat', 'tinggi', 'lila', 'zs_bb_u', 'zs_tb_u', 'zs_bb_tb']
-categorical_cols = ['jk', 'desa_kel', 'status_gizi', 'stunting', 'nama_ortu']
+categorical_cols = ['jk', 'desa_kel', 'status_gizi', 'status_stunting', 'nama_ortu']
 
 # Isi nilai kosong pada kolom numerik dengan median
 for col in numeric_cols:
@@ -87,7 +87,7 @@ if 'jk' in df.columns:
     print(f"- Kolom 'jk' distandarisasi. Nilai unik: {df['jk'].unique()}")
 
 # Standarisasi kolom teks lainnya (menjadi huruf kapital)
-for col in ['desa_kel', 'status_gizi', 'stunting']:
+for col in ['desa_kel', 'status_gizi', 'status_stunting']:
     if col in df.columns:
         df[col] = df[col].astype(str).str.upper().str.strip()
         print(f"- Kolom '{col}' distandarisasi (uppercase).")
@@ -103,7 +103,7 @@ df.drop(columns=kolom_tidak_perlu, inplace=True)
 print(f"- Kolom {kolom_tidak_perlu} dihapus.")
 
 # Simpan ke file CSV baru
-output_file = './data/stunting_bersih_final.csv'
+output_file = './data/stunting_bersih.csv'
 df.to_csv(output_file, index=False)
 print(f"\nProses cleansing selesai! Data bersih disimpan di: '{output_file}'")
 
