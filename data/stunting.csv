@@ -1,4 +1,4 @@
-nama,jk,tgl_lahir,nama_ortu,desa_kel,rt,rw,berat,tinggi,lila,zs_bb_u,zs_tb_u,zs_bb_tb,status_gizi,stunting
+nama,jk,tgl_lahir,nama_ortu,desa_kel,rt,rw,berat,tinggi,lila,zs_bb_u,zs_tb_u,zs_bb_tb,status_gizi,status_stunting
 Balita 1 ,P ,04/09/20,aji dimas ,PALEBON ,1,2,8.3,79.5,0,-1.62,-0.16,-2.15,Gizi Kurang,Tidak Stunting
 Balita 2,P ,18/11/19,SARTONO ,PALEBON ,4,1,9.7,85.6,0,-1.83,-0.78,-2.02,Gizi Kurang,Tidak Stunting
 Balita 3,L ,20/06/19,TOMMY ,PALEBON ,1,2,11,92.5,14.4,-1.81,-0.21,-2.62,Gizi Kurang,Tidak Stunting
