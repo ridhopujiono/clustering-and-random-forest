@@ -45,15 +45,15 @@ def tebak_usia_bulan(jk, tinggi_cm, berat_kg, target_zs_tb_u):
 print(">>> 2. Memuat data bersih...")
 try:
     # Ganti dengan nama file hasil cleansing Anda jika berbeda
-    df = pd.read_csv('stunting_bersih.csv') 
+    df = pd.read_csv('./data/stunting_bersih.csv') 
     # Pastikan kolom tanggal lahir adalah tipe datetime
-    df['tgl lahir'] = pd.to_datetime(df['tgl lahir'], errors='coerce')
-    df.dropna(subset=['tgl lahir'], inplace=True) # Hapus baris jika tgl lahir tidak valid
+    df['tgl_lahir'] = pd.to_datetime(df['tgl_lahir'], errors='coerce')
+    df.dropna(subset=['tgl_lahir'], inplace=True) # Hapus baris jika tgl lahir tidak valid
 except FileNotFoundError:
-    print("Error: File 'stunting_bersih.csv' tidak ditemukan.")
+    print("Error: File 'data/stunting_bersih.csv' tidak ditemukan.")
     exit()
 except KeyError:
-    print("Error: Pastikan file CSV memiliki kolom 'jk', 'tinggi', 'berat', 'tgl lahir', dan 'zs_tb_u'.")
+    print("Error: Pastikan file CSV memiliki kolom 'jk', 'tinggi', 'berat', 'tgl_lahir', dan 'zs_tb_u'.")
     exit()
 
 # ==============================================================================
@@ -82,7 +82,7 @@ df['usia_terkoreksi'] = df['usia_terkoreksi'].astype(int)
 # --- Membuat kolom tanggal pengecekan ---
 # Menambahkan usia (dalam bulan) ke tanggal lahir
 df['tanggal_pengecekan_dt'] = df.apply(
-    lambda row: row['tgl lahir'] + DateOffset(months=row['usia_terkoreksi']),
+    lambda row: row['tgl_lahir'] + DateOffset(months=row['usia_terkoreksi']),
     axis=1
 )
 
@@ -107,10 +107,10 @@ print(">>> 4. Finalisasi dan menyimpan data...")
 
 # Memilih dan mengatur urutan kolom untuk file final
 kolom_final = [
-    'jk', 'tgl lahir', 'berat', 'tinggi', 
+    'jk', 'tgl_lahir', 'berat', 'tinggi', 
     'usia_terkoreksi', 'tanggal_pengecekan',
     'zs_bb_u', 'zs_tb_u', 'zs_bb_tb', 
-    'status_gizi', 'status_stunting', 'desa'
+    'status_gizi', 'status_stunting', 'desa_kel'
 ]
 # Ambil hanya kolom yang ada di dataframe awal untuk menghindari error
 kolom_tersedia = [kol for kol in kolom_final if kol in df.columns]
