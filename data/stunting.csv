@@ -1,0 +1,1289 @@
+nama,jk,tgl_lahir,nama_ortu,desa_kel,rt,rw,berat,tinggi,lila,zs_bb_u,zs_tb_u,zs_bb_tb,status_gizi,stunting
+Balita 1 ,P ,04/09/20,aji dimas ,PALEBON ,1,2,8.3,79.5,0,-1.62,-0.16,-2.15,Gizi Kurang,Tidak Stunting
+Balita 2,P ,18/11/19,SARTONO ,PALEBON ,4,1,9.7,85.6,0,-1.83,-0.78,-2.02,Gizi Kurang,Tidak Stunting
+Balita 3,L ,20/06/19,TOMMY ,PALEBON ,1,2,11,92.5,14.4,-1.81,-0.21,-2.62,Gizi Kurang,Tidak Stunting
+Balita 4,L ,08/10/21,subakti ghufron ,PALEBON ,7,1,5.7,57,,-0.94,-2.15,1.23,Resiko Gizi Lebih,Stunting
+Balita 5,P ,18/07/19,ALDY P. ,PALEBON ,1,2,8.6,78.4,13.5,-3.26,-3.67,-1.47,Gizi Baik,Stunting
+Balita 6,L ,29/04/20,MUGIYONO ,PALEBON ,5,8,8.9,78,14,-2.2,-2.02,-1.69,Gizi Baik,Stunting
+Balita 7,L ,21/11/19,SURADI ,PALEBON ,4,7,8.2,75,14,-3.58,-4.26,-2.01,Gizi Kurang,Stunting
+Balita 8,P ,13/11/19,RIYANTO ,PALEBON ,1,8,8.2,79,13.5,-3.12,-2.48,-2.34,Gizi Kurang,Stunting
+Balita 9,L ,17/08/20,ILHAM TEGUH ARDIANTO ,PEDURUNGAN KIDUL ,8,1,9.6,85,14.5,-1.15,1.08,-2.28,Gizi Kurang,Tidak Stunting
+Balita 10,L ,10/09/21,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,7.1,70.3,15.5,-0.56,2,-2.24,Gizi Kurang,Tidak Stunting
+Balita 11,L ,10/12/21,DONI SETIAWAN ,PEDURUNGAN LOR ,2,4,5,60,12,-1.13,0.46,-2.24,Gizi Kurang,Tidak Stunting
+Balita 12,L ,23/07/19,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,9.7,85,0,-2.77,-2.36,-2.15,Gizi Kurang,Stunting
+Balita 13,P ,07/01/18,Muhammad Misbachul Anam ,PLAMONGAN SARI ,3,10,13.5,105,,-1.38,0.37,-2.45,Gizi Kurang,Tidak Stunting
+Balita 14,P ,04/03/21,agus nugroho ,TLOGOMULYO ,9,9,6.8,71,,-2.09,-0.74,-2.38,Gizi Kurang,Tidak Stunting
+Balita 15,L ,06/03/19,MUSTABA BABISYADHI ,TLOGOMULYO ,5.3,61,10.6,88.5,0,-2.45,-1.93,-2.14,Gizi Kurang,Tidak Stunting
+Balita 16,P ,14/02/22,RIDHO HARYATI ,TLOGOMULYO ,1,2,2.3,48,,-2.91,-1.48,-3.45,Gizi Buruk,Tidak Stunting
+Balita 17,P ,19/05/19,SRI LESTARININGSIH ,TLOGOMULYO ,2,2,8.3,84.8,12.3,-3.88,-2.28,-3.66,Gizi Buruk,Stunting
+Balita 18,P ,21/07/20,wahyu prapto handoko ,TLOGOMULYO ,2,9,9,84,,-3.62,-3.27,-2.32,Gizi Kurang,Stunting
+Balita 19,L ,01/01/21,TOMI SANJAYA ,TLOGOMULYO ,6,9,7.9,75,0,-2.09,-0.93,-2.3,Gizi Kurang,Tidak Stunting
+Balita 20,L ,26/01/21,asroh ,TLOGOMULYO ,4,5,7.9,77.5,13,-1.93,0.46,-2.94,Gizi Kurang,Tidak Stunting
+Balita 21,L ,23/05/18,aulad satria gibraltar ,TLOGOMULYO ,1,9,11.9,96.7,14.3,-2.28,-1.15,-2.51,Gizi Kurang,Tidak Stunting
+Balita 22,P ,24/09/18,KASMURI ,TLOGOMULYO ,3,7,11.4,94,15.6,-1.99,-1.01,-2.07,Gizi Kurang,Tidak Stunting
+Balita 23,P ,10/12/21,ricard ,TLOGOMULYO ,2,11,3.5,56.5,14,-2.85,-0.24,-3.95,Gizi Buruk,Tidak Stunting
+Balita 24,P ,19/10/18,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,12.5,100,15,-1.18,0.62,-2.25,Gizi Kurang,Tidak Stunting
+Balita 25,P ,29/06/19,desinta/agus ,TLOGOSARI WETAN ,5,3,8.4,81.3,13.5,-3.62,-2.94,-2.63,Gizi Kurang,Stunting
+Balita 26,P ,20/08/21,ZULMI ,PALEBON ,2,2,6.25,68,16,-1.18,1.16,-2.46,Gizi Kurang,Tidak Stunting
+Balita 27,P ,01/04/18,SONY N ,PALEBON ,1,2,8.9,86.5,,-4.3,-3.61,-3.29,Gizi Buruk,Stunting
+Balita 28,L ,19/02/22,KUKUH A. ,PALEBON ,1,2,2.7,49,,-2.65,-1.77,-2.21,Gizi Kurang,Tidak Stunting
+Balita 29,L ,09/11/20,TEGUH A ,PALEBON ,1,2,7,70,0,-3.43,-3.57,-2.32,Gizi Kurang,Stunting
+Balita 30,P ,05/11/21,GALUH ,PALEBON ,2,2,5.3,63.8,0,-0.8,1.87,-2.87,Gizi Kurang,Tidak Stunting
+Balita 31,P ,18/10/17,TOMMY ,PALEBON ,1,2,16,113,0,-0.38,1.71,-2.34,Gizi Kurang,Tidak Stunting
+Balita 32,P ,07/12/17,ADI WALUYO ,PALEBON ,1,2,13,110,0,-1.8,1.26,-3.95,Gizi Buruk,Tidak Stunting
+Balita 33,L ,04/05/18,EKO A.S ,PALEBON ,1,2,14,112,0,-1.07,2.38,-3.7,Gizi Buruk,Tidak Stunting
+Balita 34,P ,13/05/18,ARIS CAHYA ,PALEBON ,2,2,12,109,0,-2.03,1.81,-4.55,Gizi Buruk,Tidak Stunting
+Balita 35,P ,25/06/18,EKO S. ,PALEBON ,4,9,13,108,0,-1.28,1.8,-3.54,Gizi Buruk,Tidak Stunting
+Balita 36,L ,20/06/19,evi abdul ,PALEBON ,3,9,11,107,0,-1.88,3.75,-5.34,Gizi Buruk,Tidak Stunting
+Balita 37,P ,21/04/20,WAHYU KRISTIYANTO ,PEDURUNGAN KIDUL ,1,8,9,84,0,-1.79,-0.32,-2.32,Gizi Kurang,Tidak Stunting
+Balita 38,P ,06/10/20,BAGUS A ,PEDURUNGAN KIDUL ,4,8,8,78,0,-2.55,-1.79,-2.23,Gizi Kurang,Tidak Stunting
+Balita 39,L ,06/09/21,RIZA ,PEDURUNGAN KIDUL ,2,8,6,68,0,-2.47,0.24,-3.58,Gizi Buruk,Tidak Stunting
+Balita 40,P ,29/01/18,suyanto ,PEDURUNGAN KIDUL ,8,1,14,105,0,-1.13,0.33,-2.03,Gizi Kurang,Tidak Stunting
+Balita 41,L ,31/01/18,lukas jimmy ,PEDURUNGAN KIDUL ,3,8,13,103,0,-1.92,-0.26,-2.75,Gizi Kurang,Tidak Stunting
+Balita 42,P ,13/05/19,HENDRA SETYAWAN ,PEDURUNGAN KIDUL ,4,5,10,89,14,-2.47,-1.28,-2.52,Gizi Kurang,Tidak Stunting
+Balita 43,L ,02/12/17,TRI BUDI UTOMO ,PEDURUNGAN KIDUL ,3,6,13.8,103.1,,-1.58,-0.47,-2.01,Gizi Kurang,Tidak Stunting
+Balita 44,L ,12/12/17,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,13.8,103.1,,-1.55,-0.43,-2.01,Gizi Kurang,Tidak Stunting
+Balita 45,L ,13/12/17,ILHAM TEGUH ARDIANTO ,PEDURUNGAN KIDUL ,8,1,13.8,103.1,,-1.55,-0.42,-2.01,Gizi Kurang,Tidak Stunting
+Balita 46,P ,14/02/18,mulyono ,PEDURUNGAN LOR ,3,8,11.6,86.6,14.8,-2.41,-3.64,-0.19,Gizi Baik,Stunting
+Balita 47,L ,21/12/17,SUGIONO  ,PEDURUNGAN LOR ,3,7,13.8,103.1,,-1.53,-0.39,-2.01,Gizi Kurang,Tidak Stunting
+Balita 48,L ,28/08/18,WAHYU ADI NUGROHO ,PEDURUNGAN LOR ,8,1,10.1,90.7,13.2,-3.32,-2.18,-3.32,Gizi Buruk,Stunting
+Balita 49,L ,28/12/17,moch. zainul afandi ,PEDURUNGAN LOR ,8,1,13.8,103.1,,-1.52,-0.36,-2.01,Gizi Kurang,Tidak Stunting
+Balita 50,L ,04/06/20,yosi bagus ,PEDURUNGAN LOR ,,1,11.5,77,15,0.24,-2.35,1.76,Resiko Gizi Lebih,Stunting
+Balita 51,L ,31/12/17,komang ,PEDURUNGAN TENGAH ,6,8,13.8,103.1,,-1.51,-0.35,-2.01,Gizi Kurang,Tidak Stunting
+Balita 52,L ,06/03/19,m. mansyur ,PEDURUNGAN TENGAH ,2,8,10.7,89,0,-2.46,-1.93,-2.14,Gizi Kurang,Tidak Stunting
+Balita 53,P ,04/03/21,NUCH ROZIKAN ,PEDURUNGAN TENGAH ,5,8,7,71.5,,-2.09,-1.06,-2.18,Gizi Kurang,Tidak Stunting
+Balita 54,L ,26/01/21,KRIS DWI HANDOKO ,PEDURUNGAN TENGAH ,0,0,7.2,67.9,15,-2.55,-3.08,-1.22,Gizi Baik,Stunting
+Balita 55,L ,24/04/17,ali sukron ,PEDURUNGAN TENGAH ,3,8,11.6,92.2,0,-3.28,-3.52,-1.84,Gizi Baik,Stunting
+Balita 56,L ,25/10/17,MOH QOSTHOLANI ,PEDURUNGAN TENGAH ,3,8,14.2,104.8,,-1.44,-0.24,-2.03,Gizi Kurang,Tidak Stunting
+Balita 57,L ,06/12/17,aryo ,PEDURUNGAN TENGAH ,1,12,13.8,103.1,,-1.57,-0.46,-2.01,Gizi Kurang,Tidak Stunting
+Balita 58,L ,13/12/17,DHEDHI NATALIA ,PEDURUNGAN TENGAH ,1,12,13.8,103.1,,-1.55,-0.43,-2.01,Gizi Kurang,Tidak Stunting
+Balita 59,L ,18/12/17,irfan ,PEDURUNGAN TENGAH ,2,12,13.8,103.1,,-1.54,-0.41,-2.01,Gizi Kurang,Tidak Stunting
+Balita 60,P ,19/03/22,feysal ,PEDURUNGAN TENGAH ,3,12,2.5,49,,-2.76,-1.3,-3.19,Gizi Buruk,Tidak Stunting
+Balita 61,L ,11/06/17,bowo ,PEDURUNGAN TENGAH ,3,8,14,104,0,-1.87,-0.98,-2.03,Gizi Kurang,Tidak Stunting
+Balita 62,P ,05/08/17,WINDARTO ADJI PRASETYO ,PEDURUNGAN TENGAH ,1,8,15,109,0,-1.06,0.44,-2.15,Gizi Kurang,Tidak Stunting
+Balita 63,L ,09/01/18,AHMAD MUZANI ,PEDURUNGAN TENGAH ,2,8,13.5,103.5,0,-1.68,-0.26,-2.38,Gizi Kurang,Tidak Stunting
+Balita 64,L ,20/01/18,MUHAMMAD RIYANTO ,PEDURUNGAN TENGAH ,2,4,13,100,0,-1.96,-1.03,-2.09,Gizi Kurang,Tidak Stunting
+Balita 65,L ,08/06/18,ADITYA SUSWANTO ,PEDURUNGAN TENGAH ,1,8,11,93,0,-2.98,-2.15,-2.73,Gizi Kurang,Stunting
+Balita 66,P ,08/04/18,FERI KURNIAWAN ,PEDURUNGAN TENGAH ,1,13,10,93,0,-3.31,-1.69,-3.42,Gizi Buruk,Tidak Stunting
+Balita 67,L ,10/12/19,AGUNG ,PEDURUNGAN TENGAH ,1,13,9,87,14,-3.04,-1.09,-3.66,Gizi Buruk,Tidak Stunting
+Balita 68,P ,17/08/21,ari hardianto ,PEDURUNGAN TENGAH ,4,13,6,68,14,-2.02,0.29,-2.95,Gizi Kurang,Tidak Stunting
+Balita 69,P ,26/04/21,abdullah riza ,PEDURUNGAN TENGAH ,4,13,9,87,16,0.31,5.81,-3.12,Gizi Buruk,Tidak Stunting
+Balita 70,L ,26/11/20,sujoko ,PEDURUNGAN TENGAH ,4,13,9,81,16,-1.36,0.43,-2.07,Gizi Kurang,Tidak Stunting
+Balita 71,P ,05/10/19,rudy dwi ,PEDURUNGAN TENGAH ,4,13,10,93,0,-1.9,0.79,-3.42,Gizi Buruk,Tidak Stunting
+Balita 72,L ,19/10/20,rheinanto ,PEDURUNGAN TENGAH ,4,13,9,81,0,-1.58,-0.08,-2.07,Gizi Kurang,Tidak Stunting
+Balita 73,P ,23/06/19,editiya jefrianto ,PEDURUNGAN TENGAH ,4,13,10,89,0,-2.32,-1.04,-2.52,Gizi Kurang,Tidak Stunting
+Balita 74,L ,08/08/19,bagus ,PEDURUNGAN TENGAH ,4,13,9,84,0,-3.44,-2.56,-3.04,Gizi Buruk,Stunting
+Balita 75,P ,10/08/19,ARIEF PRABOWO ,TLOGOMULYO ,3,2,10,88,0,-2.13,-1.02,-2.27,Gizi Kurang,Tidak Stunting
+Balita 76,L ,13/03/18,rahmad setiabudi ,TLOGOMULYO ,4,1,12,95,0,-2.46,-1.98,-2.02,Gizi Kurang,Tidak Stunting
+Balita 77,L ,20/05/20,pujiono ,TLOGOMULYO ,11,3,8,80,0,-3.33,-1.98,-3.34,Gizi Buruk,Tidak Stunting
+Balita 78,L ,25/06/17,INDRIYA DEDI PRATAMA ,TLOGOMULYO ,5,11,12,109,0,-3.03,0.21,-4.79,Gizi Buruk,Tidak Stunting
+Balita 79,L ,26/11/20,KASMURI ,TLOGOMULYO ,3,7,8,77,0,-2.37,-1.03,-2.66,Gizi Kurang,Tidak Stunting
+Balita 80,L ,11/12/21,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,6,65,0,-0.47,1.81,-2.41,Gizi Kurang,Tidak Stunting
+Balita 81,P ,20/08/20,desinta/agus ,TLOGOSARI WETAN ,5,3,13,102,0,1.78,7.01,-2.07,Gizi Kurang,Tidak Stunting
+Balita 82,P ,21/02/20,KISWANTO ,PALEBON ,4,8,10,88,0,-1.23,0.32,-2.09,Gizi Kurang,Tidak Stunting
+Balita 83,P ,18/06/20,SURADI ,PALEBON ,4,7,9,84,0,-1.52,0.19,-2.32,Gizi Kurang,Tidak Stunting
+Balita 84,P ,14/11/18,TOMMY ,PALEBON ,1,2,10,90,0,-3.03,-2.1,-2.59,Gizi Kurang,Stunting
+Balita 85,P ,20/11/19,ARIS CAHYA ,PEDURUNGAN KIDUL ,2,2,9.1,80.5,13,-2.22,-2.05,-1.47,Gizi Baik,Stunting
+Balita 86,L ,04/05/19,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,10,82.7,14.3,-2.69,-3.12,-1.32,Gizi Baik,Stunting
+Balita 87,P ,23/01/20,REVI K. ,PEDURUNGAN KIDUL ,4,8,8.7,82,13,-2.55,-1.51,-2.38,Gizi Kurang,Tidak Stunting
+Balita 88,L ,03/10/17,ILHAM TEGUH ARDIANTO ,PEDURUNGAN KIDUL ,8,1,14,104,0,-1.6,-0.51,-2.03,Gizi Kurang,Tidak Stunting
+Balita 89,L ,29/10/17,STEFANIE ,PEDURUNGAN KIDUL ,3,4,14,104,0,-1.55,-0.41,-2.03,Gizi Kurang,Tidak Stunting
+Balita 90,L ,04/05/17,EKO SULISTYO PUTRO ,PEDURUNGAN KIDUL ,5,10,15.3,110,0,-1.25,0.22,-2.24,Gizi Kurang,Tidak Stunting
+Balita 91,L ,25/01/22,SUHELNERI ,PEDURUNGAN KIDUL ,2,1,2.8,49,,-2.9,-2.2,-1.78,Gizi Baik,Stunting
+Balita 92,P ,01/04/18,SEPTI ,PEDURUNGAN KIDUL ,4,4,8.6,86,0,-4.55,-3.98,-3.39,Gizi Buruk,Stunting
+Balita 93,L ,09/11/20,NUR CHOLIS ,PEDURUNGAN KIDUL ,4,12,7,70.5,0,-3.6,-3.75,-2.49,Gizi Kurang,Stunting
+Balita 94,L ,13/01/18,IWAN ,PEDURUNGAN KIDUL ,3,10,13.6,98,15,-2.26,-2.57,-1.07,Gizi Baik,Stunting
+Balita 95,P ,05/11/21,JEMMY SETIAWAN ,PEDURUNGAN KIDUL ,4,12,5.4,64.2,0,-1.36,1.03,-2.81,Gizi Kurang,Tidak Stunting
+Balita 96,P ,05/05/17,DENY ,PEDURUNGAN KIDUL ,4,4,14,107,0,-1.76,-0.34,-2.48,Gizi Kurang,Tidak Stunting
+Balita 97,P ,26/04/21,BAMBANG ,PEDURUNGAN KIDUL ,3,10,8,75,13,-2.5,-2.7,-1.53,Gizi Baik,Stunting
+Balita 98,L ,23/07/19,MUHAMMAD CHANIF ,PEDURUNGAN KIDUL ,7,12,10,86,15.5,-2.71,-2.41,-2.03,Gizi Kurang,Stunting
+Balita 99,L ,20/06/19,WIBOWO ,PEDURUNGAN KIDUL ,4,4,11.3,94.3,,-1.77,-0.06,-2.66,Gizi Kurang,Tidak Stunting
+Balita 100,L ,06/09/21,AGUS NUR SAHID ,PEDURUNGAN KIDUL ,4,1,7.1,70.4,,-1.45,0.5,-2.28,Gizi Kurang,Tidak Stunting
+Balita 101,L ,06/03/19,YULIA ,PEDURUNGAN KIDUL ,4,4,10.8,90,0,-2.47,-1.83,-2.27,Gizi Kurang,Tidak Stunting
+Balita 102,L ,01/07/19,PUJI ,PEDURUNGAN KIDUL ,4,4,11.7,90,14.5,-2.24,-2.53,-1.22,Gizi Baik,Stunting
+Balita 103,L ,29/04/20,SYAIFUDIN ,PEDURUNGAN KIDUL ,5,12,9.2,83.5,13.2,-2.35,-1.01,-2.61,Gizi Kurang,Tidak Stunting
+Balita 104,P ,04/03/21,SITI ,PEDURUNGAN KIDUL ,4,4,7.2,72.9,,-2.06,-0.97,-2.24,Gizi Kurang,Tidak Stunting
+Balita 105,P ,17/03/18,ALI I ,PEDURUNGAN KIDUL ,4,4,13.2,102.3,0,-1.56,-0.27,-2.11,Gizi Kurang,Tidak Stunting
+Balita 106,L ,22/03/18,ETIK ,PEDURUNGAN KIDUL ,4,4,13.2,102,0,-1.78,-0.46,-2.34,Gizi Kurang,Tidak Stunting
+Balita 107,L ,30/03/18,UNGGUL ,PEDURUNGAN KIDUL ,3,10,13.5,102.6,0,-1.58,-0.28,-2.18,Gizi Kurang,Tidak Stunting
+Balita 108,L ,07/04/18,M SHOLIKHUL HUDA ,PEDURUNGAN KIDUL ,5,12,12.9,101.8,0,-1.92,-0.44,-2.59,Gizi Kurang,Tidak Stunting
+Balita 109,L ,15/04/18,BINTANG AW ,PEDURUNGAN KIDUL ,7,12,13,102,0,-1.84,-0.36,-2.53,Gizi Kurang,Tidak Stunting
+Balita 110,L ,06/05/18,DENY ,PEDURUNGAN KIDUL ,4,4,13.2,101.6,0,-1.67,-0.36,-2.25,Gizi Kurang,Tidak Stunting
+Balita 111,L ,22/05/18,RUDI WIBOWO ,PEDURUNGAN KIDUL ,5,12,13,101,0,-1.75,-0.43,-2.31,Gizi Kurang,Tidak Stunting
+Balita 112,L ,25/05/18,YULIA ,PEDURUNGAN KIDUL ,4,4,13.4,102,0,-1.5,-0.18,-2.14,Gizi Kurang,Tidak Stunting
+Balita 113,P ,16/06/18,KAHAR ,PEDURUNGAN LOR ,5,12,13.1,101.6,0,-1.38,-0.02,-2.05,Gizi Kurang,Tidak Stunting
+Balita 114,L ,18/08/18,RIFYANTO / MASLICHATIN NIAM ,PEDURUNGAN LOR ,,3,12.6,102.4,0,-1.78,0.31,-3.02,Gizi Buruk,Tidak Stunting
+Balita 115,L ,10/09/18,ACHMAD RIF\'AI ,PEDURUNGAN LOR ,1,1,13.4,101.6,0,-1.22,0.22,-2.05,Gizi Kurang,Tidak Stunting
+Balita 116,P ,24/09/18,Mohamad khuzaeri ,PEDURUNGAN LOR ,5,1,12.7,101.7,0,-1.35,0.5,-2.44,Gizi Kurang,Tidak Stunting
+Balita 117,L ,09/10/18,aris ,PEDURUNGAN LOR ,4,6,13.1,102,0,-1.32,0.47,-2.43,Gizi Kurang,Tidak Stunting
+Balita 118,L ,03/11/18,IRWAN S ,PEDURUNGAN LOR ,1,7,12.7,101.1,0,-1.51,0.37,-2.63,Gizi Kurang,Tidak Stunting
+Balita 119,P ,14/11/18,kirbani ,PEDURUNGAN LOR ,,,12.9,101,0,-1.08,0.6,-2.1,Gizi Kurang,Tidak Stunting
+Balita 120,P ,10/06/19,DANU DINUTO ,PEDURUNGAN LOR ,4,9,11,93.2,0,-1.69,-0.21,-2.33,Gizi Kurang,Tidak Stunting
+Balita 121,L ,24/06/19,Andi waluyo ,PEDURUNGAN LOR ,3,1,11.2,94,0,-1.87,-0.21,-2.71,Gizi Kurang,Tidak Stunting
+Balita 122,L ,28/07/19,Angela vanessa ,PEDURUNGAN LOR ,4,2,11.8,94.3,0,-1.32,0.09,-2.09,Gizi Kurang,Tidak Stunting
+Balita 123,L ,30/08/19,FEISY ,PEDURUNGAN LOR ,3,6,11.5,94.3,0,-1.43,0.3,-2.43,Gizi Kurang,Tidak Stunting
+Balita 124,P ,10/10/19,abdul muis ,PEDURUNGAN LOR ,9,1,11.5,94.3,0,-0.86,0.92,-2.03,Gizi Kurang,Tidak Stunting
+Balita 125,L ,20/10/19,totok ,PEDURUNGAN LOR ,6,7,11.3,93.2,0,-1.4,0.34,-2.42,Gizi Kurang,Tidak Stunting
+Balita 126,L ,13/11/19,MOCH ,PEDURUNGAN LOR ,2,8,11.6,94,0,-1.09,0.76,-2.25,Gizi Kurang,Tidak Stunting
+Balita 127,L ,19/11/19,AEP ,PEDURUNGAN TENGAH ,2,8,11.5,93.1,0,-1.14,0.54,-2.16,Gizi Kurang,Tidak Stunting
+Balita 128,P ,03/12/19,martius ,PEDURUNGAN TENGAH ,8,5,11,94,0,-1,1.26,-2.5,Gizi Kurang,Tidak Stunting
+Balita 129,P ,21/12/21,ACHMED RIFAI ,PEDURUNGAN TENGAH ,5,5,5.5,63,0,-1.3,0.35,-2.09,Gizi Kurang,Tidak Stunting
+Balita 130,L ,13/08/19,aris k ,PEDURUNGAN TENGAH ,4,9,13,112,17,-0.4,5.33,-4.48,Gizi Buruk,Tidak Stunting
+Balita 131,P ,03/01/19,soleh aljailani ,PEDURUNGAN TENGAH ,4,12,10.6,92,14.7,-2.48,-1.32,-2.51,Gizi Kurang,Tidak Stunting
+Balita 132,L ,09/06/17,Frans ,PEDURUNGAN TENGAH ,1,9,13.5,103,,-2.2,-1.29,-2.27,Gizi Kurang,Tidak Stunting
+Balita 133,P ,12/07/18,fikrie ,PEDURUNGAN TENGAH ,5,5,11.5,90,0,-2.99,-3.58,-1.09,Gizi Baik,Stunting
+Balita 134,P ,18/01/18,M. ROFIQ ,PEDURUNGAN TENGAH ,3,9,15.5,110,,-0.47,1.29,-2.01,Gizi Kurang,Tidak Stunting
+Balita 135,L ,09/09/19,tri wibowo ,PEDURUNGAN TENGAH ,4,9,10,84,0,-3.34,-3.79,-1.67,Gizi Baik,Stunting
+Balita 136,L ,11/12/18,ASWANDI ,PEDURUNGAN TENGAH ,1,15,13,100,,-1.17,0.36,-2.09,Gizi Kurang,Tidak Stunting
+Balita 137,P ,13/12/18,ferianto ,PEDURUNGAN TENGAH ,7,10,11,93,,-2.23,-1.18,-2.28,Gizi Kurang,Tidak Stunting
+Balita 138,P ,05/05/20,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,10.3,81,0,-2,-3.14,-0.16,Gizi Baik,Stunting
+Balita 139,L ,09/10/19,ilham ,PEDURUNGAN TENGAH ,6,9,10.3,89,0,-2.18,-0.87,-2.65,Gizi Kurang,Tidak Stunting
+Balita 140,L ,18/12/19,stefanus dicky christiawan ,PEDURUNGAN TENGAH ,2,15,12,95,,-0.61,1.46,-2.02,Gizi Kurang,Tidak Stunting
+Balita 141,L ,06/06/20,FERRY DWI NURCAHYO ,PEDURUNGAN TENGAH ,7,3,10.6,90,,-0.93,1.31,-2.34,Gizi Kurang,Tidak Stunting
+Balita 142,L ,06/06/20,FARAJ KINANTAN ADILUHUNG ,PEDURUNGAN TENGAH ,1,16,14.8,110,,2.02,8.11,-2.5,Gizi Kurang,Tidak Stunting
+Balita 143,L ,11/10/20,IRWAN ,PLAMONGAN SARI ,5,10,8.4,77,,-2.36,-1.93,-2.03,Gizi Kurang,Tidak Stunting
+Balita 144,L ,10/11/21,Syaiful ,TLOGOMULYO ,4,2,7.5,72,,0.01,2.92,-2.09,Gizi Kurang,Tidak Stunting
+Balita 145,L ,10/03/18,ARYADI ,TLOGOMULYO ,2,4,13,101,0,-1.93,-0.74,-2.31,Gizi Kurang,Tidak Stunting
+Balita 146,P ,09/11/19,asroh ,TLOGOMULYO ,4,5,11.5,94.3,0,-0.74,1.15,-2.03,Gizi Kurang,Tidak Stunting
+Balita 147,L ,15/04/21,INDRIYA DEDI PRATAMA ,TLOGOMULYO ,5,11,9,91,16,-0.64,6.4,-4.6,Gizi Buruk,Tidak Stunting
+Balita 148,P ,05/04/20,KASMURI ,TLOGOMULYO ,3,7,11.2,99,18,-0.25,4,-3.34,Gizi Buruk,Tidak Stunting
+Balita 149,L ,30/07/21,FAKHRI ISA M ,TLOGOMULYO ,1,6,7.5,75,0,-1.37,1.77,-2.98,Gizi Kurang,Tidak Stunting
+Balita 150,L ,08/11/18,0 ,TLOGOMULYO ,2,5,13.2,101,,-1.14,0.44,-2.11,Gizi Kurang,Tidak Stunting
+Balita 151,P ,27/01/19,samuel ,TLOGOMULYO ,6,10,12,100,,-1.38,0.85,-2.74,Gizi Kurang,Tidak Stunting
+Balita 152,P ,10/10/19,slamet ansori ,TLOGOMULYO ,3,10,12,98,,-0.46,2.07,-2.31,Gizi Kurang,Tidak Stunting
+Balita 153,L ,09/11/20,bukhori ,TLOGOMULYO ,3,5,9.2,82,,-1.38,0.29,-2.03,Gizi Kurang,Tidak Stunting
+Balita 154,L ,22/10/21,REZA ARI PERDANA ,TLOGOMULYO ,2,8,6.8,69,,-1.2,0.97,-2.35,Gizi Kurang,Tidak Stunting
+Balita 155,P ,19/12/19,ahlul pudyastawa ,TLOGOMULYO ,5,9,9.5,87,0,-2.11,-0.54,-2.64,Gizi Kurang,Tidak Stunting
+Balita 156,L ,30/01/23,YULI PURWANTO ,TLOGOMULYO ,2,9,3,50,,-2.81,-2.04,-1.7,Gizi Baik,Stunting
+Balita 157,L ,10/10/17,Sinar Hubtrian. A ,TLOGOMULYO ,4,11,13.8,104.2,18,-1.77,-0.57,-2.26,Gizi Kurang,Tidak Stunting
+Balita 158,L ,21/01/18,agus t. ,TLOGOMULYO ,7,7,14.5,96,15,-1.74,-2.97,0.17,Gizi Baik,Stunting
+Balita 159,P ,04/03/22,DINTAKA ,TLOGOMULYO ,6,9,5.5,62,13,-3.64,-3.91,-1.66,Gizi Baik,Stunting
+Balita 160,P ,19/05/19,ARIEF PRABOWO ,TLOGOMULYO ,3,2,9.01,87.1,12.9,-3.42,-1.93,-3.3,Gizi Buruk,Tidak Stunting
+Balita 161,L ,23/11/18,ARI PRASETYO ,TLOGOMULYO ,8,3,13.5,103,0,-0.96,0.95,-2.27,Gizi Kurang,Tidak Stunting
+Balita 162,P ,30/09/20,RIZKI FAHRUL SETIASI ,TLOGOMULYO ,4,11,8.1,76,13,-3.41,-3.68,-1.78,Gizi Baik,Stunting
+Balita 163,L ,03/05/19,TEGAR ,TLOGOMULYO ,4,11,12.5,98.5,0,-1.12,0.7,-2.26,Gizi Kurang,Tidak Stunting
+Balita 164,L ,05/02/20,MIFTAKHUL IMANNUR KHAKIM ,TLOGOMULYO ,12,7,11.4,92.5,0,-0.91,0.99,-2.14,Gizi Kurang,Tidak Stunting
+Balita 165,L ,02/03/20,DJUDI NURSINGGIH ,TLOGOMULYO ,1,3,10.9,86,14,-2.12,-2.45,-1.12,Gizi Baik,Stunting
+Balita 166,L ,20/06/18,NUR SHOLEH ,TLOGOMULYO ,8,3,13.2,101.4,0,-1.56,-0.21,-2.2,Gizi Kurang,Tidak Stunting
+Balita 167,P ,09/01/18,KHOLISON ,TLOGOMULYO ,2,4,18,96,16,-0.08,-2.82,2.56,Gizi Lebih,Stunting
+Balita 168,P ,19/02/18,stepani g ,TLOGOSARI WETAN ,2,11,11.9,85.5,16,-3.01,-4.93,0.36,Gizi Baik,Stunting
+Balita 169,L ,14/02/18,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,13,98,0,-2.54,-2.46,-1.64,Gizi Baik,Stunting
+Balita 170,P ,30/06/19,desinta/agus ,TLOGOSARI WETAN ,5,3,11,95.2,0,-1.62,0.46,-2.76,Gizi Kurang,Tidak Stunting
+Balita 171,L ,12/11/21,MOCH ABDUR ROZAK ,,7,2,7.5,72,,0.05,2.98,-2.09,Gizi Kurang,Tidak Stunting
+Balita 172,L ,17/07/18,WAHYU ,,6,12,9.3,87,14,-4.16,-3.75,-3.26,Gizi Buruk,Stunting
+Balita 173,P ,29/06/19,BAGUS ,,1,1,8.7,82.3,0,-3.53,-2.95,-2.46,Gizi Kurang,Stunting
+Balita 174,L ,04/05/17,nur ,PEDURUNGAN KIDUL ,7,2,15.3,110,,-1.31,0.1,-2.24,Gizi Kurang,Tidak Stunting
+Balita 175,P ,01/04/18,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,8.8,86.3,12.5,-4.46,-4.01,-3.2,Gizi Buruk,Stunting
+Balita 176,L ,11/10/18,PURWANTO ,PEDURUNGAN KIDUL ,1,12,13.5,102,,-1.04,0.55,-2.05,Gizi Kurang,Tidak Stunting
+Balita 177,L ,21/01/21,HARTONO ,PEDURUNGAN KIDUL ,1,12,13.35,80,19,0.87,-2.25,2.69,Gizi Lebih,Stunting
+Balita 178,L ,22/10/18,NIKO EKO SAPUTRO ,PEDURUNGAN KIDUL ,6,5,13.5,102,,-1,0.61,-2.05,Gizi Kurang,Tidak Stunting
+Balita 179,L ,31/03/21,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,8.8,79,0,-2.45,-2.21,-1.9,Gizi Baik,Stunting
+Balita 180,L ,24/10/18,AHMAD ,PEDURUNGAN KIDUL ,9,12,13.5,102,,-1,0.62,-2.05,Gizi Kurang,Tidak Stunting
+Balita 181,L ,25/10/18,ari ,PEDURUNGAN LOR ,2,7,13.5,102,,-1,0.62,-2.05,Gizi Kurang,Tidak Stunting
+Balita 182,L ,24/06/21,ARIF BUDIMAN ,PEDURUNGAN TENGAH ,4,2,9,76.4,16.5,-1.85,-2.36,-1.02,Gizi Baik,Stunting
+Balita 183,L ,02/11/18,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,13.2,101,,-1.16,0.41,-2.11,Gizi Kurang,Tidak Stunting
+Balita 184,L ,03/11/18,BUDI PRAYITNO ,PEDURUNGAN TENGAH ,4,2,13.2,101,,-1.15,0.42,-2.11,Gizi Kurang,Tidak Stunting
+Balita 185,L ,08/11/18,eli ,PEDURUNGAN TENGAH ,8,5,13.2,101,,-1.14,0.44,-2.11,Gizi Kurang,Tidak Stunting
+Balita 186,L ,19/11/18,ferianto ,PEDURUNGAN TENGAH ,7,10,13.2,101,,-1.11,0.5,-2.11,Gizi Kurang,Tidak Stunting
+Balita 187,L ,29/11/18,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,13.2,101,,-1.08,0.55,-2.11,Gizi Kurang,Tidak Stunting
+Balita 188,L ,09/12/18,ASWANDI ,PEDURUNGAN TENGAH ,1,15,13,100,,-1.18,0.35,-2.09,Gizi Kurang,Tidak Stunting
+Balita 189,L ,24/12/18,Frans ,PEDURUNGAN TENGAH ,1,9,13,100,,-1.13,0.43,-2.09,Gizi Kurang,Tidak Stunting
+Balita 190,P ,23/01/20,MOCHAMAD YUSUF ,PLAMONGAN SARI ,2,9,8.9,84,13,-2.48,-1.1,-2.64,Gizi Kurang,Tidak Stunting
+Balita 191,P ,29/05/18,sumaryanto ,PLAMONGAN SARI ,2,2,13,102.2,0,-1.49,0.04,-2.27,Gizi Kurang,Tidak Stunting
+Balita 192,L ,02/08/18,ARYADI ,TLOGOMULYO ,2,4,12.9,102,0,-1.63,0.13,-2.63,Gizi Kurang,Tidak Stunting
+Balita 193,P ,28/12/18,ARIEF PRABOWO ,TLOGOMULYO ,3,2,13,101.2,0,-0.88,0.89,-2.05,Gizi Kurang,Tidak Stunting
+Balita 194,P ,28/02/19,KASMURI ,TLOGOMULYO ,3,7,11.4,94.3,0,-1.74,-0.51,-2.14,Gizi Kurang,Tidak Stunting
+Balita 195,L ,17/09/19,asroh ,TLOGOMULYO ,4,5,11.2,94,0,-1.59,0.34,-2.71,Gizi Kurang,Tidak Stunting
+Balita 196,L ,25/09/19,AGUS MUSTAQFIRIN ,TLOGOSARI WETAN ,3,4,11.2,93.1,0,-1.57,0.14,-2.51,Gizi Kurang,Tidak Stunting
+Balita 197,L ,22/04/22,SARIFAH/ZAIAL ,TLOGOSARI WETAN ,2,3,2.2,48,,-4.06,-2.51,-3.86,Gizi Buruk,Stunting
+Balita 198,L ,06/04/22,TEGAR PRAHANTO ,PALEBON ,6,1,2.5,48,,-2.13,-1.18,-2.39,Gizi Kurang,Tidak Stunting
+Balita 199,L ,09/11/20,BUDI ,PALEBON ,5,3,8.5,78.5,0,-2.1,-1.04,-2.23,Gizi Kurang,Tidak Stunting
+Balita 200,P ,05/11/21,ASLIM WALADAN ,PALEBON ,4,3,5.4,64.2,,-2.07,-0.02,-2.81,Gizi Kurang,Tidak Stunting
+Balita 201,L ,07/04/22,renaldi f ,PALEBON ,6,4,2.9,50,,-1.24,-0.22,-2.1,Gizi Kurang,Tidak Stunting
+Balita 202,P ,10/04/17,AHMAD MUZAIDIN ,PEDURUNGAN KIDUL ,1,12,15,110,0,-1.39,0.07,-2.38,Gizi Kurang,Tidak Stunting
+Balita 203,L ,29/11/19,IKA WAHYUNING TYAS ,PEDURUNGAN KIDUL ,4,8,11.2,94.3,0,-1.33,0.98,-2.78,Gizi Kurang,Tidak Stunting
+Balita 204,L ,25/04/18,SYAIFUL MASHADI ,PEDURUNGAN KIDUL ,4,1,13.1,102,0,-1.82,-0.42,-2.43,Gizi Kurang,Tidak Stunting
+Balita 205,L ,01/05/21,bambang kisworo ,PEDURUNGAN KIDUL ,4,1,2.3,47,,-2.36,-1.25,-2.66,Gizi Kurang,Tidak Stunting
+Balita 206,L ,06/03/19,herry setyo mukti ,PEDURUNGAN KIDUL ,4,3,11,91,0,-2.41,-1.71,-2.27,Gizi Kurang,Tidak Stunting
+Balita 207,P ,02/06/17,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,14.3,106,0,-1.66,-0.65,-2.01,Gizi Kurang,Tidak Stunting
+Balita 208,P ,17/03/18,BAGUS A. ,PEDURUNGAN KIDUL ,4,8,13.2,102.3,0,-1.64,-0.4,-2.11,Gizi Kurang,Tidak Stunting
+Balita 209,L ,22/03/18,DEWI FITRIANI ,PEDURUNGAN KIDUL ,7,1,13.2,102,0,-1.85,-0.58,-2.34,Gizi Kurang,Tidak Stunting
+Balita 210,L ,30/03/18,AGUS MARTIN ,PEDURUNGAN KIDUL ,4,1,13.5,102.6,0,-1.65,-0.41,-2.18,Gizi Kurang,Tidak Stunting
+Balita 211,L ,07/04/18,NURIRFAN ,PEDURUNGAN KIDUL ,8,1,12.9,101.8,0,-1.99,-0.56,-2.59,Gizi Kurang,Tidak Stunting
+Balita 212,L ,15/04/18,usman ,PEDURUNGAN KIDUL ,4,12,13,102,0,-1.91,-0.48,-2.53,Gizi Kurang,Tidak Stunting
+Balita 213,L ,06/05/18,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,13.2,101.6,0,-1.74,-0.49,-2.25,Gizi Kurang,Tidak Stunting
+Balita 214,L ,22/05/18,REVI K. ,PEDURUNGAN KIDUL ,4,8,13,101,0,-1.82,-0.56,-2.31,Gizi Kurang,Tidak Stunting
+Balita 215,L ,25/05/18,AZIZ DULRAHMAN ,PEDURUNGAN KIDUL ,8,1,13.4,102,0,-1.57,-0.31,-2.14,Gizi Kurang,Tidak Stunting
+Balita 216,P ,16/06/18,JEMI MANSUR ,PEDURUNGAN KIDUL ,8,12,13.1,101.6,0,-1.46,-0.16,-2.05,Gizi Kurang,Tidak Stunting
+Balita 217,L ,18/08/18,SUYADI ,PEDURUNGAN KIDUL ,1,12,12.6,102.4,0,-1.86,0.17,-3.02,Gizi Buruk,Tidak Stunting
+Balita 218,L ,01/05/20,NIKO EKO SAPUTRO ,PEDURUNGAN KIDUL ,6,5,11.7,73.6,0,-0.3,-4.6,2.77,Gizi Lebih,Stunting
+Balita 219,L ,01/05/20,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,11.4,73.2,0,-0.52,-4.74,2.58,Gizi Lebih,Stunting
+Balita 220,L ,15/07/20,DAMAR ,PEDURUNGAN KIDUL ,6,2,12,73.2,0,0.3,-4.22,3.16,Obesitas,Stunting
+Balita 221,L ,23/07/20,AFI AMINUDIN ,PEDURUNGAN KIDUL ,1,12,11.9,73.1,0,0.26,-4.19,3.09,Obesitas,Stunting
+Balita 222,L ,05/08/20,PRASOJO ,PEDURUNGAN KIDUL ,1,12,11,74.2,0,-0.37,-3.71,1.92,Resiko Gizi Lebih,Stunting
+Balita 223,L ,31/08/18,PURWANTO ,PEDURUNGAN KIDUL ,1,12,13.3,102.2,0,-1.39,0.18,-2.28,Gizi Kurang,Tidak Stunting
+Balita 224,L ,10/09/18,puteri rizki ,PEDURUNGAN KIDUL ,7,1,13.4,101.6,0,-1.3,0.08,-2.05,Gizi Kurang,Tidak Stunting
+Balita 225,P ,24/09/18,ABDULLAH ,PEDURUNGAN LOR ,1,1,12.7,101.7,0,-1.44,0.34,-2.44,Gizi Kurang,Tidak Stunting
+Balita 226,L ,09/10/18,anjar ,PEDURUNGAN TENGAH ,9,8,13.1,102,0,-1.41,0.32,-2.43,Gizi Kurang,Tidak Stunting
+Balita 227,L ,03/11/18,Frans ,PEDURUNGAN TENGAH ,1,9,12.7,101.1,0,-1.59,0.22,-2.63,Gizi Kurang,Tidak Stunting
+Balita 228,P ,14/11/18,ASWANDI ,PEDURUNGAN TENGAH ,1,15,12.9,101,0,-1.17,0.44,-2.1,Gizi Kurang,Tidak Stunting
+Balita 229,P ,10/06/19,eli ,PEDURUNGAN TENGAH ,8,5,11,93.2,0,-1.79,-0.39,-2.33,Gizi Kurang,Tidak Stunting
+Balita 230,L ,24/06/19,ferianto ,PEDURUNGAN TENGAH ,7,10,11.2,94,0,-1.97,-0.39,-2.71,Gizi Kurang,Tidak Stunting
+Balita 231,L ,28/07/19,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,11.8,94.3,0,-1.42,-0.1,-2.09,Gizi Kurang,Tidak Stunting
+Balita 232,L ,30/08/19,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,11.5,94.3,0,-1.53,0.11,-2.43,Gizi Kurang,Tidak Stunting
+Balita 233,P ,10/10/19,N EKA PRASADANA ,PENGGARON KIDUL ,2,5,11.5,94.3,0,-0.98,0.7,-2.03,Gizi Kurang,Tidak Stunting
+Balita 234,L ,20/10/19,SHOFUWAN ,PENGGARON KIDUL ,1,1,11.3,93.2,0,-1.51,0.13,-2.42,Gizi Kurang,Tidak Stunting
+Balita 235,L ,13/11/19,M TEGUH SETIAWAN ,PENGGARON KIDUL ,3,5,11.6,94,0,-1.2,0.53,-2.25,Gizi Kurang,Tidak Stunting
+Balita 236,L ,19/11/19,saekhudin ,PLAMONGAN SARI ,3,2,11.5,93.1,0,-1.25,0.31,-2.16,Gizi Kurang,Tidak Stunting
+Balita 237,P ,03/12/19,sumaryanto ,PLAMONGAN SARI ,2,2,11,94,0,-1.13,1.02,-2.5,Gizi Kurang,Tidak Stunting
+Balita 238,P ,21/12/21,KASMURI ,TLOGOMULYO ,3,7,5.5,63,0,-1.89,-0.51,-2.09,Gizi Kurang,Tidak Stunting
+Balita 239,P ,19/01/21,ARYADI ,TLOGOMULYO ,2,4,8,85,0,-1.71,2.27,-3.94,Gizi Buruk,Tidak Stunting
+Balita 240,L ,15/05/20,asroh ,TLOGOMULYO ,4,5,9.8,90,0,-1.91,0.65,-3.37,Gizi Buruk,Tidak Stunting
+Balita 241,P ,13/10/20,GANANG WIDIANTANTRA / RINA BUDIASTUTI  ,TLOGOMULYO ,2,4,8,80,0,-2.27,-0.63,-2.71,Gizi Kurang,Tidak Stunting
+Balita 242,L ,29/04/20,SONY N ,PALEBON ,1,2,9,81,0,-2.72,-2.38,-2.07,Gizi Kurang,Stunting
+Balita 243,L ,22/02/18,M. ZAINI ,PALEBON ,1,6,13.4,102,0,-1.78,-0.68,-2.14,Gizi Kurang,Tidak Stunting
+Balita 244,L ,24/02/18,HENDRI KUSANDRIYANTO ,PALEBON ,7,7,12.6,102,0,-2.27,-0.67,-2.94,Gizi Kurang,Tidak Stunting
+Balita 245,L ,10/03/18,TEGAR PRAHANTO ,PALEBON ,6,1,12.4,102,0,-2.37,-0.62,-3.14,Gizi Buruk,Tidak Stunting
+Balita 246,L ,18/04/18,BUDI ,PALEBON ,5,3,12.6,103,0,-2.15,-0.22,-3.15,Gizi Buruk,Tidak Stunting
+Balita 247,L ,12/06/18,ADIYANTO ,PALEBON ,1,6,13,102,0,-1.76,-0.22,-2.53,Gizi Kurang,Tidak Stunting
+Balita 248,P ,15/06/18,afrian julianto ,PALEBON ,2,7,12.7,103,0,-1.7,0.18,-2.73,Gizi Kurang,Tidak Stunting
+Balita 249,L ,23/06/18,rama wirawan ,PALEBON ,2,7,13.1,103,0,-1.67,0.07,-2.66,Gizi Kurang,Tidak Stunting
+Balita 250,P ,04/09/18,kasmani ,PALEBON ,1,7,12.7,102,0,-1.48,0.33,-2.5,Gizi Kurang,Tidak Stunting
+Balita 251,P ,07/09/18,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,13.1,103,0,-1.23,0.59,-2.36,Gizi Kurang,Tidak Stunting
+Balita 252,L ,22/11/18,usman ,PEDURUNGAN KIDUL ,4,12,12.6,102.4,0,-1.59,0.66,-3.02,Gizi Buruk,Tidak Stunting
+Balita 253,P ,02/12/18,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,12.6,102.8,0,-1.29,1,-2.78,Gizi Kurang,Tidak Stunting
+Balita 254,L ,17/12/18,NURIRFAN ,PEDURUNGAN KIDUL ,8,1,12.5,102.2,0,-1.59,0.74,-3.08,Gizi Buruk,Tidak Stunting
+Balita 255,L ,03/11/19,RIFAN SETIAWAN  ,PEDURUNGAN KIDUL ,5,5,11.8,94,0,-1.08,0.49,-2.02,Gizi Kurang,Tidak Stunting
+Balita 256,L ,09/04/18,AHMAD MUZAIDIN ,PEDURUNGAN KIDUL ,1,12,13.7,103.6,0,-1.5,-0.11,-2.22,Gizi Kurang,Tidak Stunting
+Balita 257,L ,25/12/18,herry setyo mukti ,PEDURUNGAN KIDUL ,4,3,13,103.6,0,-1.25,1.14,-2.89,Gizi Kurang,Tidak Stunting
+Balita 258,L ,11/09/19,KHAERONI ,PEDURUNGAN KIDUL ,8,1,9.8,87,0,-2.84,-1.86,-2.78,Gizi Kurang,Tidak Stunting
+Balita 259,P ,26/10/19,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,12.4,99.9,0,-0.29,2.42,-2.33,Gizi Kurang,Tidak Stunting
+Balita 260,L ,10/11/19,M. IFTAR ,PEDURUNGAN KIDUL ,3,8,10,87,0,-2.47,-1.5,-2.51,Gizi Kurang,Tidak Stunting
+Balita 261,L ,09/12/19,SYAIFUL MASHADI ,PEDURUNGAN KIDUL ,4,1,12.3,99.7,0,-0.59,2.45,-2.74,Gizi Kurang,Tidak Stunting
+Balita 262,L ,15/12/19,DEWI FITRIANI ,PEDURUNGAN KIDUL ,7,1,12.7,99.6,0,-0.29,2.47,-2.3,Gizi Kurang,Tidak Stunting
+Balita 263,L ,25/01/22,BAGUS A. ,PEDURUNGAN KIDUL ,4,8,8,77.5,0,1.35,6.81,-2.78,Gizi Kurang,Tidak Stunting
+Balita 264,L ,20/02/22,AZIZ DULRAHMAN ,PEDURUNGAN KIDUL ,8,1,7.8,74,0,1.82,6.26,-2.19,Gizi Kurang,Tidak Stunting
+Balita 265,P ,13/04/22,DAMAR ,PEDURUNGAN KIDUL ,6,2,5,60.8,0,0.93,3.2,-2.22,Gizi Kurang,Tidak Stunting
+Balita 266,L ,26/04/22,REVI K. ,PEDURUNGAN KIDUL ,4,8,5.1,60.4,0,1.47,3.4,-2.22,Gizi Kurang,Tidak Stunting
+Balita 267,L ,19/08/17,JEMI MANSUR ,PEDURUNGAN KIDUL ,8,12,14,105.3,0,-1.84,-0.64,-2.32,Gizi Kurang,Tidak Stunting
+Balita 268,L ,09/10/19,KUSWANTO ,PEDURUNGAN KIDUL ,4,12,10.5,90,14,-2.16,-0.84,-2.64,Gizi Kurang,Tidak Stunting
+Balita 269,L ,11/12/18,ARIS ,PEDURUNGAN KIDUL ,6,12,13,100,0,-1.27,0.19,-2.09,Gizi Kurang,Tidak Stunting
+Balita 270,P ,18/07/19,SUYADI ,PEDURUNGAN KIDUL ,1,12,12,97,0,-0.9,0.94,-2.1,Gizi Kurang,Tidak Stunting
+Balita 271,P ,14/11/18,SATRIYO ADI A ,PEDURUNGAN KIDUL ,1,8,13,101,0,-1.07,0.49,-2.01,Gizi Kurang,Tidak Stunting
+Balita 272,L ,10/03/18,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,13,101,0,-2,-0.86,-2.31,Gizi Kurang,Tidak Stunting
+Balita 273,P ,09/11/19,FATUR ,PEDURUNGAN KIDUL ,4,8,11.5,94.3,0,-0.86,0.92,-2.03,Gizi Kurang,Tidak Stunting
+Balita 274,L ,25/11/18,revi k. ,PEDURUNGAN KIDUL ,4,8,13.5,102.5,0,-1.02,0.7,-2.16,Gizi Kurang,Tidak Stunting
+Balita 275,P ,17/02/19,RIFAN SETIAWAN ,PEDURUNGAN KIDUL ,5,5,12.3,99.5,0,-1.24,0.61,-2.34,Gizi Kurang,Tidak Stunting
+Balita 276,L ,08/03/19,AGUS NURJIONO ,PEDURUNGAN KIDUL ,7,2,12.9,99.9,0,-1.1,0.59,-2.16,Gizi Kurang,Tidak Stunting
+Balita 277,L ,09/12/19,WAWAN ,PEDURUNGAN LOR ,2,5,12.4,99.9,0,-0.52,2.51,-2.68,Gizi Kurang,Tidak Stunting
+Balita 278,P ,27/01/19,HIDAYATULLAH ,PEDURUNGAN LOR ,6,7,12,100,,-1.5,0.62,-2.74,Gizi Kurang,Tidak Stunting
+Balita 279,P ,03/10/21,ARIEF ,PEDURUNGAN LOR ,3,5,6.3,69,,-1.76,0.44,-2.69,Gizi Kurang,Tidak Stunting
+Balita 280,P ,14/10/20,FADIL ASROR ,PEDURUNGAN LOR ,1,7,9,87,,-1.24,1.75,-3.12,Gizi Buruk,Tidak Stunting
+Balita 281,P ,19/12/19,MUTIARA NOOR WIDIASHRI ,PEDURUNGAN TENGAH ,1,12,10,89,,-1.84,-0.45,-2.34,Gizi Kurang,Tidak Stunting
+Balita 282,L ,10/10/17,ALI SUKRON ,PEDURUNGAN TENGAH ,3,8,14,105,,-1.74,-0.53,-2.25,Gizi Kurang,Tidak Stunting
+Balita 283,L ,20/06/18,AGUS SRIYANTO ,PEDURUNGAN TENGAH ,0,0,13.2,101.4,0,-1.63,-0.34,-2.2,Gizi Kurang,Tidak Stunting
+Balita 284,P ,30/06/19,ferianto ,PEDURUNGAN TENGAH ,7,10,11,95.2,0,-1.72,0.26,-2.76,Gizi Kurang,Tidak Stunting
+Balita 285,P ,19/05/19,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,8.7,87,0,-3.77,-2.12,-3.67,Gizi Buruk,Stunting
+Balita 286,P ,04/02/18,ASWANDI ,PEDURUNGAN TENGAH ,1,15,13,102,0,-1.84,-0.62,-2.23,Gizi Kurang,Tidak Stunting
+Balita 287,L ,28/02/18,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,13.7,103,0,-1.59,-0.42,-2.08,Gizi Kurang,Tidak Stunting
+Balita 288,P ,02/03/18,imam ,PEDURUNGAN TENGAH ,2,15,13.4,103,0,-1.55,-0.28,-2.09,Gizi Kurang,Tidak Stunting
+Balita 289,P ,21/08/18,IMAM KUSWOYO ,PENGGARON KIDUL ,2,3,12.7,102,0,-1.52,0.27,-2.5,Gizi Kurang,Tidak Stunting
+Balita 290,L ,12/09/18,SHOFUWAN ,PENGGARON KIDUL ,1,1,13.4,102.9,0,-1.28,0.43,-2.34,Gizi Kurang,Tidak Stunting
+Balita 291,P ,06/10/18,EKO SETIAWAN ,PENGGARON KIDUL ,4,6,13,102.4,0,-1.21,0.59,-2.32,Gizi Kurang,Tidak Stunting
+Balita 292,L ,19/10/18,M TEGUH SETIAWAN ,PENGGARON KIDUL ,3,5,13.6,103,0,-1.06,0.64,-2.18,Gizi Kurang,Tidak Stunting
+Balita 293,L ,23/11/18,RUBIATUN ,PENGGARON KIDUL ,2,1,13,102.3,0,-1.33,0.64,-2.6,Gizi Kurang,Tidak Stunting
+Balita 294,L ,26/01/19,EKO SETIAWAN ,PENGGARON KIDUL ,4,6,12,95,0,-1.81,-0.9,-2.02,Gizi Kurang,Tidak Stunting
+Balita 295,L ,04/06/18,Nur Rofik ,PENGGARON KIDUL ,5,2,13.5,103.2,0,-1.48,0.04,-2.31,Gizi Kurang,Tidak Stunting
+Balita 296,L ,16/06/18,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,13,102.9,0,-1.75,0.02,-2.73,Gizi Kurang,Tidak Stunting
+Balita 297,L ,16/01/19,Haryanto ,PENGGARON KIDUL ,2,2,12.7,99.8,0,-1.38,0.29,-2.34,Gizi Kurang,Tidak Stunting
+Balita 298,P ,02/03/19,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,12.4,100,0,-1.14,0.81,-2.35,Gizi Kurang,Tidak Stunting
+Balita 299,L ,01/05/19,Ikhsan Noor Hidayat ,PENGGARON KIDUL ,3,2,12.7,99.7,0,-1.07,0.86,-2.32,Gizi Kurang,Tidak Stunting
+Balita 300,P ,06/08/19,Jumardi ,PENGGARON KIDUL ,3,3,12.4,99.9,0,-0.6,1.8,-2.33,Gizi Kurang,Tidak Stunting
+Balita 301,L ,17/10/19,CHISTINA SABNA WULANDARI ,PENGGARON KIDUL ,1,3,12.4,100,0,-0.72,2.1,-2.7,Gizi Kurang,Tidak Stunting
+Balita 302,L ,26/06/19,Bayu Wijianto ,PENGGARON KIDUL ,8,3,12.9,100,0,-0.76,1.29,-2.19,Gizi Kurang,Tidak Stunting
+Balita 303,L ,04/08/18,M Furqon Haqiqi ,PENGGARON KIDUL ,5,3,13.5,103,0,-1.33,0.27,-2.27,Gizi Kurang,Tidak Stunting
+Balita 304,L ,04/05/17,MASKURI ,PENGGARON KIDUL ,1,5,15.5,110.2,0,-1.27,0.02,-2.13,Gizi Kurang,Tidak Stunting
+Balita 305,P ,01/04/18,KISMIATI ,PENGGARON KIDUL ,3,5,8.9,86.5,12.5,-4.44,-4.07,-3.12,Gizi Buruk,Stunting
+Balita 306,P ,29/06/19,M. SUHARI ,PENGGARON KIDUL ,1,6,8.7,82.8,0,-3.63,-2.98,-2.6,Gizi Kurang,Stunting
+Balita 307,P ,29/05/18,WONO BASUKI ,PLAMONGAN SARI ,4,2,13,102.2,0,-1.57,-0.1,-2.27,Gizi Kurang,Tidak Stunting
+Balita 308,L ,02/08/18,heni ,PLAMONGAN SARI ,1,11,12.9,102,0,-1.71,-0.01,-2.63,Gizi Kurang,Tidak Stunting
+Balita 309,P ,28/12/18,BUDI ,PLAMONGAN SARI ,2,11,13,101.2,0,-0.97,0.72,-2.05,Gizi Kurang,Tidak Stunting
+Balita 310,P ,28/02/19,erina ,PLAMONGAN SARI ,2,11,11.4,94.3,0,-1.84,-0.68,-2.14,Gizi Kurang,Tidak Stunting
+Balita 311,L ,17/09/19,saekhudin ,PLAMONGAN SARI ,3,2,11.2,94,0,-1.7,0.14,-2.71,Gizi Kurang,Tidak Stunting
+Balita 312,L ,25/09/19,sumaryanto ,PLAMONGAN SARI ,2,2,11.2,93.1,0,-1.67,-0.07,-2.51,Gizi Kurang,Tidak Stunting
+Balita 313,L ,17/07/18,abdi ,PLAMONGAN SARI ,2,11,8.8,84,0,-4.58,-4.45,-3.32,Gizi Buruk,Stunting
+Balita 314,P ,26/03/18,BUDI ,PLAMONGAN SARI ,1,11,12.7,102,0,-1.9,-0.41,-2.5,Gizi Kurang,Tidak Stunting
+Balita 315,L ,21/06/18,handoyo ,PLAMONGAN SARI ,3,11,12.6,102,0,-1.99,-0.18,-2.94,Gizi Kurang,Tidak Stunting
+Balita 316,L ,16/11/18,asroh ,TLOGOMULYO ,4,5,12.3,102.9,0,-1.81,0.76,-3.42,Gizi Buruk,Tidak Stunting
+Balita 317,L ,17/12/18,KASMURI ,TLOGOMULYO ,3,7,13.7,103.8,0,-0.84,1.15,-2.26,Gizi Kurang,Tidak Stunting
+Balita 318,L ,03/12/19,kiswanto ,TLOGOMULYO ,3,7,11.7,93.6,0,-1.04,0.6,-2.05,Gizi Kurang,Tidak Stunting
+Balita 319,P ,05/11/21,SURYA N ,TLOGOMULYO ,7,7,6,65.5,,-1.73,-0.29,-2.06,Gizi Kurang,Tidak Stunting
+Balita 320,L ,25/08/18,SLAMET MARYONO ,TLOGOMULYO ,3,4,13,102,0,-1.58,0.12,-2.53,Gizi Kurang,Tidak Stunting
+Balita 321,L ,29/11/19,MUHAMMAD CHOIRUDDIN ,TLOGOMULYO ,1,4,11.2,94.3,0,-1.44,0.74,-2.78,Gizi Kurang,Tidak Stunting
+Balita 322,P ,02/06/17,ARYADI ,TLOGOMULYO ,2,4,14.3,106,0,-1.73,-0.75,-2.01,Gizi Kurang,Tidak Stunting
+Balita 323,L ,06/03/19,ARIEF PRABOWO ,TLOGOMULYO ,3,2,11,91,0,-2.49,-1.86,-2.27,Gizi Kurang,Tidak Stunting
+Balita 324,L ,11/09/19,AHMAD KHOIRUR ROKHIM ,TLOGOMULYO ,1,4,10,88,17,-2.72,-1.67,-2.78,Gizi Kurang,Tidak Stunting
+Balita 325,P ,26/10/19,FATUROHMAN ,TLOGOMULYO ,1,4,12.5,100,0,-0.29,2.32,-2.25,Gizi Kurang,Tidak Stunting
+Balita 326,L ,21/11/20,saikun ,TLOGOMULYO ,1,4,9,81,0,-1.88,-0.49,-2.24,Gizi Kurang,Tidak Stunting
+Balita 327,P ,13/10/20,SITI MAONAH / FANDHOLIR ,TLOGOSARI WETAN ,3,3,8.2,80,0,-2.21,-0.69,-2.59,Gizi Kurang,Tidak Stunting
+Balita 328,L ,12/10/21,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,6.7,68,13,-2.32,-1.25,-2.17,Gizi Kurang,Tidak Stunting
+Balita 329,P ,18/07/19,AHMAD NAIM ,TLOGOSARI WETAN ,3,2,12.2,97.8,0,-0.85,1,-2.07,Gizi Kurang,Tidak Stunting
+Balita 330,P ,06/10/18,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,13.3,103.3,0,-1.08,0.72,-2.25,Gizi Kurang,Tidak Stunting
+Balita 331,L ,19/10/18,BAYU APRIL SETIANTO ,TLOGOSARI WETAN ,3,4,13.7,103.4,0,-1.05,0.65,-2.17,Gizi Kurang,Tidak Stunting
+Balita 332,L ,23/11/18,FENDI PRANATA ,TLOGOSARI WETAN ,3,4,13.5,102.5,0,-1.08,0.6,-2.16,Gizi Kurang,Tidak Stunting
+Balita 333,P ,14/10/20,SONY N ,PALEBON ,1,2,9.4,87.8,0,-1.05,1.65,-2.8,Gizi Kurang,Tidak Stunting
+Balita 334,L ,10/10/17,ASMUI ,PALEBON ,2,1,14.2,105.2,0,-1.69,-0.59,-2.12,Gizi Kurang,Tidak Stunting
+Balita 335,P ,19/05/19,ZUBAIDI ,PALEBON ,1,7,8.9,87.2,,-3.7,-2.25,-3.46,Gizi Buruk,Stunting
+Balita 336,P ,19/12/19,Jouhar ,PALEBON ,3,11,10.2,89.2,,-1.83,-0.46,-2.32,Gizi Kurang,Tidak Stunting
+Balita 337,P ,27/01/19,deny suryanata ,PALEBON ,5,3,12.2,100.2,,-1.48,0.46,-2.59,Gizi Kurang,Tidak Stunting
+Balita 338,L ,04/08/18,TRI FEBRIYANTO ,PALEBON ,7,10,13.7,103.5,0,-1.25,0.3,-2.19,Gizi Kurang,Tidak Stunting
+Balita 339,L ,18/01/20,DAVID R. ,PALEBON ,8,10,9,81,13.5,-3.2,-3.01,-2.24,Gizi Kurang,Stunting
+Balita 340,L ,17/07/18,DANI MUSTOFA ,PALEBON ,5,9,9,84.2,0,-4.46,-4.45,-3.1,Gizi Buruk,Stunting
+Balita 341,P ,23/01/20,GERRYS GUSFIANO ROLIANSYAH ,PALEBON ,3,6,9.1,82.7,14.2,-2.62,-2,-2.03,Gizi Kurang,Tidak Stunting
+Balita 342,P ,01/04/18,m rusli ,PALEBON ,1,7,9.2,86.7,0,-4.29,-4.12,-2.77,Gizi Kurang,Stunting
+Balita 343,P ,29/06/19,TEGUH SUNARJO ,PALEBON ,12,9,8.9,83,0,-3.55,-3.27,-2.19,Gizi Kurang,Stunting
+Balita 344,L ,25/08/18,ILYAS ,PALEBON ,1,8,13.2,103,0,-1.5,0.28,-2.56,Gizi Kurang,Tidak Stunting
+Balita 345,L ,04/06/22,PARYONO ,PALEBON ,1,8,2.7,49,,-1.51,-0.47,-2.21,Gizi Kurang,Tidak Stunting
+Balita 346,L ,18/06/21,FENDI ANDREAS HANAFI ,PALEBON ,4,1,8,76.5,13.5,-2.04,-0.46,-2.53,Gizi Kurang,Tidak Stunting
+Balita 347,L ,19/02/22,DEDY ,PALEBON ,2,1,6.1,66,14,-1.73,0.23,-2.61,Gizi Kurang,Tidak Stunting
+Balita 348,L ,29/07/22,KHAIRUL AZMI ,PALEBON ,2,5,2.8,50,,-3.19,-1.97,-2.53,Gizi Kurang,Tidak Stunting
+Balita 349,P ,06/07/22,septa muda ,PALEBON ,4,7,2.4,48,,-2.1,-0.78,-2.97,Gizi Kurang,Tidak Stunting
+Balita 350,L ,13/04/18,afrian julianto ,PALEBON ,2,7,14,104,0,-1.44,-0.22,-2.03,Gizi Kurang,Tidak Stunting
+Balita 351,P ,15/07/17,tomi jayadi ,PALEBON ,2,7,15.3,112.8,0,-1.2,0.73,-2.8,Gizi Kurang,Tidak Stunting
+Balita 352,L ,11/05/19,rama wirawan ,PALEBON ,2,7,11.8,96,0,-1.8,-0.36,-2.46,Gizi Kurang,Tidak Stunting
+Balita 353,P ,21/08/18,SONY N. ,PALEBON ,1,2,14.3,107,0,-0.75,1.2,-2.24,Gizi Kurang,Tidak Stunting
+Balita 354,L ,04/07/18,M. SEPTIAN IKHWANTO ,PALEBON ,3,7,13.6,103,0,-1.47,-0.1,-2.18,Gizi Kurang,Tidak Stunting
+Balita 355,L ,06/03/19,ANDI TRI A ,PALEBON ,1,10,11,92,0,-2.57,-1.73,-2.5,Gizi Kurang,Tidak Stunting
+Balita 356,P ,26/06/19,syamsu n ,PALEBON ,5,4,11.7,96.4,0,-1.39,0.27,-2.27,Gizi Kurang,Tidak Stunting
+Balita 357,L ,08/06/19,sutriyono ,PEDURUNGAN KIDUL ,1,1,11.6,94,0,-1.86,-0.74,-2.25,Gizi Kurang,Tidak Stunting
+Balita 358,P ,07/02/19,suharwanto ,PEDURUNGAN KIDUL ,4,1,12.2,98.5,0,-1.5,0.02,-2.22,Gizi Kurang,Tidak Stunting
+Balita 359,L ,04/02/18,DWI NOVIANTO ,PEDURUNGAN KIDUL ,2,5,14.5,108,0,-1.32,0.41,-2.47,Gizi Kurang,Tidak Stunting
+Balita 360,P ,24/12/17,didik cahyono ,PEDURUNGAN KIDUL ,7,5,14,105,0,-1.5,-0.32,-2.03,Gizi Kurang,Tidak Stunting
+Balita 361,P ,30/12/18,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,13,104,0,-2.05,-0.52,-2.67,Gizi Kurang,Tidak Stunting
+Balita 362,L ,29/04/20,hermawan ,PEDURUNGAN KIDUL ,2,8,9.4,83.2,0,-2.55,-1.84,-2.25,Gizi Kurang,Tidak Stunting
+Balita 363,P ,13/11/19,BAGUS A. ,PEDURUNGAN KIDUL ,4,8,9.4,92,15,-2.74,-0.03,-3.9,Gizi Buruk,Tidak Stunting
+Balita 364,L ,08/09/20,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,10,86,0,-1.43,-0.02,-2.03,Gizi Kurang,Tidak Stunting
+Balita 365,P ,07/12/21,Beita ,PEDURUNGAN KIDUL ,,,7.3,75,0,-0.46,3.17,-2.62,Gizi Kurang,Tidak Stunting
+Balita 366,L ,21/11/20,IWAN S. ,PEDURUNGAN KIDUL ,4,8,9.1,81,0,-1.93,-0.81,-2.1,Gizi Kurang,Tidak Stunting
+Balita 367,P ,13/10/20,YOGA R. ,PEDURUNGAN KIDUL ,4,8,8.2,80,0,-2.36,-0.97,-2.59,Gizi Kurang,Tidak Stunting
+Balita 368,L ,09/12/19,REVI K. ,PEDURUNGAN KIDUL ,4,8,10.4,89,0,-2.21,-1.06,-2.52,Gizi Kurang,Tidak Stunting
+Balita 369,L ,09/04/18,AZIZ DULRAHMAN ,PEDURUNGAN KIDUL ,8,1,14,104,0,-1.45,-0.24,-2.03,Gizi Kurang,Tidak Stunting
+Balita 370,L ,25/12/18,ARIYANTI ,PEDURUNGAN KIDUL ,6,1,14,104,0,-0.78,0.97,-2.03,Gizi Kurang,Tidak Stunting
+Balita 371,L ,11/09/19,ETIK ,PEDURUNGAN KIDUL ,4,4,11,90,0,-2.02,-1.31,-2.03,Gizi Kurang,Tidak Stunting
+Balita 372,L ,25/07/22,PUJI ,PEDURUNGAN KIDUL ,4,4,2.4,48,,-3.81,-2.72,-2.89,Gizi Kurang,Stunting
+Balita 373,L ,17/07/19,YULIA ,PEDURUNGAN KIDUL ,4,4,12,95,0,-1.48,-0.29,-2.02,Gizi Kurang,Tidak Stunting
+Balita 374,L ,01/03/21,NURUL ,PEDURUNGAN KIDUL ,4,4,10,86,0,-0.57,1.98,-2.03,Gizi Kurang,Tidak Stunting
+Balita 375,P ,27/01/19,SITI ,PEDURUNGAN KIDUL ,4,4,12.4,100.5,0,-1.42,0.41,-2.46,Gizi Kurang,Tidak Stunting
+Balita 376,P ,19/12/19,KURNIAWAN ,PEDURUNGAN KIDUL ,4,4,10.4,89.5,0,-1.76,-0.54,-2.16,Gizi Kurang,Tidak Stunting
+Balita 377,P ,14/10/20,AGUS ,PEDURUNGAN KIDUL ,4,4,9.6,88.1,0,-1.03,1.42,-2.62,Gizi Kurang,Tidak Stunting
+Balita 378,L ,10/10/17,KHAMDI BAGAS ARDHIANTO ,PEDURUNGAN KIDUL ,4,12,14.4,105.5,0,-1.65,-0.65,-2.01,Gizi Kurang,Tidak Stunting
+Balita 379,P ,19/05/19,ZAENWAR ARIF WIBOWO ,PEDURUNGAN KIDUL ,4,12,9.1,87.5,0,-3.6,-2.29,-3.28,Gizi Buruk,Stunting
+Balita 380,L ,19/10/18,M SUPRIYANTO ,PEDURUNGAN KIDUL ,5,12,13.8,104.1,0,-1.08,0.66,-2.23,Gizi Kurang,Tidak Stunting
+Balita 381,P ,24/11/17,EDHO ANGGIE SAPUTRA ,PEDURUNGAN KIDUL ,8,1,14,105,0,-1.55,-0.41,-2.03,Gizi Kurang,Tidak Stunting
+Balita 382,P ,19/10/17,MUHAMAD DWI M ,PEDURUNGAN KIDUL ,2,1,14,105.3,0,-1.64,-0.48,-2.1,Gizi Kurang,Tidak Stunting
+Balita 383,L ,07/02/18,JOKO YULIANTO ,PEDURUNGAN KIDUL ,8,1,14,105,0,-1.23,0.39,-2.25,Gizi Kurang,Tidak Stunting
+Balita 384,L ,12/07/21,MUCHLISIN ,PEDURUNGAN KIDUL ,3,12,7.4,73,13,-2.4,-1.14,-2.57,Gizi Kurang,Tidak Stunting
+Balita 385,L ,18/01/20,M. ALIF HAFIZH SHIDQI ,PEDURUNGAN KIDUL ,3,11,9.2,81.2,0,-3.13,-3.12,-2.01,Gizi Kurang,Stunting
+Balita 386,P ,01/04/18,YOGIE ,PEDURUNGAN KIDUL ,9,12,9.4,87,0,-4.2,-3.99,-2.77,Gizi Kurang,Stunting
+Balita 387,L ,17/07/18,RISTIAWAN ,PEDURUNGAN KIDUL ,6,12,9.2,84.5,0,-4.39,-4.49,-2.9,Gizi Kurang,Stunting
+Balita 388,P ,29/06/19,TURMUDI ,PEDURUNGAN KIDUL ,6,12,9.1,83.3,0,-3.45,-3.13,-2.18,Gizi Kurang,Stunting
+Balita 389,P ,01/08/20,ARIS ,PEDURUNGAN KIDUL ,6,12,8.4,80.9,12.3,-2.55,-1.35,-2.52,Gizi Kurang,Tidak Stunting
+Balita 390,P ,07/12/17,FAJAR ,PEDURUNGAN KIDUL ,6,12,14,105,15.5,-1.61,-0.5,-2.03,Gizi Kurang,Tidak Stunting
+Balita 391,P ,09/04/20,BENY ARYA IRAWAN ,PEDURUNGAN KIDUL ,5,12,10,88,14.5,-1.68,-0.26,-2.27,Gizi Kurang,Tidak Stunting
+Balita 392,P ,10/02/21,WAHYU KRISTIYANTO ,PEDURUNGAN KIDUL ,1,8,8,78,0,-2.01,-0.58,-2.4,Gizi Kurang,Tidak Stunting
+Balita 393,L ,18/06/21,JOKO HARY P. ,PEDURUNGAN KIDUL ,3,5,8,76.5,13.5,-2.25,-0.94,-2.53,Gizi Kurang,Tidak Stunting
+Balita 394,L ,19/02/22,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,6.2,66,16,-1.94,-0.31,-2.4,Gizi Kurang,Tidak Stunting
+Balita 395,L ,17/02/22,BAYU TRISETYO ,PEDURUNGAN KIDUL ,2,5,6,66,14,-2.22,-0.31,-2.83,Gizi Kurang,Tidak Stunting
+Balita 396,L ,16/05/21,LUQMAN RIFAI MAHMUD ,PEDURUNGAN KIDUL ,3,3,7.9,76,0,-2.32,-1.06,-2.57,Gizi Kurang,Tidak Stunting
+Balita 397,L ,05/07/20,DENNY ,PEDURUNGAN KIDUL ,3,2,10.5,89,0,-1.4,0.36,-2.39,Gizi Kurang,Tidak Stunting
+Balita 398,L ,11/06/21,SUWARTI ,PEDURUNGAN KIDUL ,1,12,8.6,78.5,0,-1.4,0.6,-2.24,Gizi Kurang,Tidak Stunting
+Balita 399,P ,01/11/19,SETYO ADI P ,PEDURUNGAN KIDUL ,1,8,9.5,87,13,-2.83,-1.7,-2.64,Gizi Kurang,Tidak Stunting
+Balita 400,P ,24/12/17,yuda ,PEDURUNGAN KIDUL ,1,12,14,105,0,-1.58,-0.46,-2.03,Gizi Kurang,Tidak Stunting
+Balita 401,P ,30/12/18,M. SAYUTI ,PEDURUNGAN KIDUL ,8,12,13.2,104,0,-2.01,-0.66,-2.49,Gizi Kurang,Tidak Stunting
+Balita 402,L ,04/02/18,ACHMADUN ,PEDURUNGAN KIDUL ,8,12,14.6,108,0,-1.35,0.26,-2.38,Gizi Kurang,Tidak Stunting
+Balita 403,P ,14/02/18,ABDUL GOFUR ,PEDURUNGAN KIDUL ,1,12,10.5,91,17,-3.62,-3.35,-2.4,Gizi Kurang,Stunting
+Balita 404,L ,13/04/18,DANNY ,PEDURUNGAN KIDUL ,8,12,14,104,0,-1.52,-0.37,-2.03,Gizi Kurang,Tidak Stunting
+Balita 405,L ,04/07/18,DANAR ,PEDURUNGAN KIDUL ,8,12,13.7,103,0,-1.5,-0.26,-2.08,Gizi Kurang,Tidak Stunting
+Balita 406,L ,19/01/19,HERU ,PEDURUNGAN KIDUL ,2,12,13,100,0,-1.42,-0.09,-2.09,Gizi Kurang,Tidak Stunting
+Balita 407,L ,06/03/19,SISWANTO ,PEDURUNGAN KIDUL ,2,12,11.3,93,14.5,-2.45,-1.64,-2.37,Gizi Kurang,Tidak Stunting
+Balita 408,P ,01/05/19,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,13.2,102,14,-0.73,1.15,-2.05,Gizi Kurang,Tidak Stunting
+Balita 409,L ,11/05/19,FATUR ,PEDURUNGAN KIDUL ,4,8,12,96,0,-1.77,-0.55,-2.24,Gizi Kurang,Tidak Stunting
+Balita 410,L ,08/06/19,revi k. ,PEDURUNGAN KIDUL ,4,8,12,95,0,-1.69,-0.67,-2.02,Gizi Kurang,Tidak Stunting
+Balita 411,P ,26/06/19,RIFAN SETIAWAN ,PEDURUNGAN KIDUL ,5,5,11.6,97.2,12.5,-1.58,0.26,-2.55,Gizi Kurang,Tidak Stunting
+Balita 412,P ,13/11/19,MUKTOHARUN ,PEDURUNGAN KIDUL ,6,5,10,87,13.5,-2.34,-1.63,-2.02,Gizi Kurang,Tidak Stunting
+Balita 413,L ,09/12/19,SUKOCO ,PEDURUNGAN KIDUL ,8,5,10.5,90,0,-2.25,-1,-2.64,Gizi Kurang,Tidak Stunting
+Balita 414,L ,29/04/20,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,9.2,84,13.5,-2.89,-1.86,-2.75,Gizi Kurang,Tidak Stunting
+Balita 415,L ,08/09/20,NOVA DWI PRASETYO ,PEDURUNGAN KIDUL ,8,5,10,86,0,-1.6,-0.38,-2.03,Gizi Kurang,Tidak Stunting
+Balita 416,L ,13/04/19,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,14.2,105,0,-0.46,1.62,-2.07,Gizi Kurang,Tidak Stunting
+Balita 417,L ,20/08/19,AFIFAH RIZQIANA ,PEDURUNGAN KIDUL ,7,5,14.3,105.1,0,-0.01,2.46,-2.01,Gizi Kurang,Tidak Stunting
+Balita 418,P ,07/12/21,DARMAWAN ,PEDURUNGAN KIDUL ,3,5,7.5,75,0,-0.56,2.46,-2.29,Gizi Kurang,Tidak Stunting
+Balita 419,L ,24/12/21,moh juari ,PEDURUNGAN KIDUL ,8,1,7.9,74,14,-0.69,1.75,-2.02,Gizi Kurang,Tidak Stunting
+Balita 420,P ,13/10/20,WAWAN ,PEDURUNGAN LOR ,2,5,8.3,80,0,-2.4,-1.22,-2.44,Gizi Kurang,Tidak Stunting
+Balita 421,L ,19/05/18,FADIL ASROR ,PEDURUNGAN LOR ,1,7,12.4,97,15.5,-2.41,-1.85,-2.03,Gizi Kurang,Tidak Stunting
+Balita 422,L ,19/11/21,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,7,69.2,12,-2.14,-1.14,-2.04,Gizi Kurang,Tidak Stunting
+Balita 423,P ,30/09/20,didik tri ariyanto ,PEDURUNGAN TENGAH ,8,9,7,73,0,-3.9,-3.61,-2.79,Gizi Kurang,Stunting
+Balita 424,P ,24/08/22,SAEFUL ,PEDURUNGAN TENGAH ,3,10,2.25,47,,-3.74,-2.67,-3.03,Gizi Buruk,Stunting
+Balita 425,L ,12/04/21,ASWANDI ,PEDURUNGAN TENGAH ,1,15,8.2,77,0,-2.26,-1.26,-2.34,Gizi Kurang,Tidak Stunting
+Balita 426,L ,31/03/21,ferianto ,PEDURUNGAN TENGAH ,7,10,8,76,0,-2.54,-1.79,-2.4,Gizi Kurang,Tidak Stunting
+Balita 427,L ,09/12/19,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,14.7,110.6,,0.6,4.87,-2.86,Gizi Kurang,Tidak Stunting
+Balita 428,L ,22/06/20,AGUS DARMAWAN ,PEDURUNGAN TENGAH ,5,2,8.5,81,13,-3.28,-2.53,-2.81,Gizi Kurang,Stunting
+Balita 429,P ,11/01/18,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,14,107,0,-1.54,0.06,-2.48,Gizi Kurang,Tidak Stunting
+Balita 430,L ,06/08/18,SUPRIYONO ,PEDURUNGAN TENGAH ,3,9,14.4,105.5,,-1.02,0.49,-2.01,Gizi Kurang,Tidak Stunting
+Balita 431,L ,16/08/18,SITI ZAENATUN ,PENGGARON KIDUL ,1,2,14.4,105.5,,-0.99,0.53,-2.01,Gizi Kurang,Tidak Stunting
+Balita 432,L ,10/10/17,SITI CHOIRIYAH ,PENGGARON KIDUL ,2,2,14.4,106,,-1.7,-0.64,-2.12,Gizi Kurang,Tidak Stunting
+Balita 433,P ,19/05/19,SITI AZAH ,PENGGARON KIDUL ,5,2,10.2,90.6,0,-2.82,-1.71,-2.66,Gizi Kurang,Tidak Stunting
+Balita 434,P ,19/12/19,SUNARIYAH ,PENGGARON KIDUL ,1,3,10.4,90,,-1.86,-0.57,-2.28,Gizi Kurang,Tidak Stunting
+Balita 435,L ,19/10/18,muhammad sugiarto ,PENGGARON KIDUL ,6,3,14.2,105.3,0,-0.93,0.8,-2.14,Gizi Kurang,Tidak Stunting
+Balita 436,P ,31/08/22,AFRI PUJIANTO ,PENGGARON KIDUL ,1,5,2.1,48,,-4.5,-2.59,-4.41,Gizi Buruk,Stunting
+Balita 437,L ,03/10/17,MUHTAROM ,PENGGARON KIDUL ,1,5,14,105,0,-1.95,-0.91,-2.25,Gizi Kurang,Tidak Stunting
+Balita 438,P ,19/10/17,ari santoso ,PENGGARON KIDUL ,8,3,14.1,105.5,0,-1.68,-0.61,-2.06,Gizi Kurang,Tidak Stunting
+Balita 439,L ,08/04/18,SHOFUWAN ,PENGGARON KIDUL ,1,1,12.3,98,0,-2.57,-1.78,-2.36,Gizi Kurang,Tidak Stunting
+Balita 440,L ,07/02/18,SUGENG PRIHANTO ,PENGGARON KIDUL ,3,5,14.2,105,0,-1.23,0.19,-2.07,Gizi Kurang,Tidak Stunting
+Balita 441,L ,22/02/22,M. SUHARI ,PENGGARON KIDUL ,1,6,8.5,74,,-1.82,-2.19,-1.1,Gizi Baik,Stunting
+Balita 442,P ,25/08/21,EKO SETIAWAN ,PENGGARON KIDUL ,4,6,8.4,74.5,0,-2.21,-3.08,-0.85,Gizi Baik,Stunting
+Balita 443,P ,22/03/21,RUBIATUN ,PENGGARON KIDUL ,2,1,8.5,78.3,13.2,-2.91,-2.85,-1.74,Gizi Baik,Stunting
+Balita 444,P ,10/03/21,Sutiyono ,PENGGARON KIDUL ,3,2,9,81.3,0,-2.47,-2.04,-1.8,Gizi Baik,Stunting
+Balita 445,L ,22/01/19,Ikhsan Noor Hidayat ,PENGGARON KIDUL ,3,2,14.5,96.5,15,-1.27,-2.12,0.06,Gizi Baik,Stunting
+Balita 446,P ,08/05/19,Septian Widi Nugroho ,PENGGARON KIDUL ,5,2,12.5,93,16,-1.97,-2.38,-0.78,Gizi Baik,Stunting
+Balita 447,P ,17/03/21,Jumardi ,PENGGARON KIDUL ,3,3,8.4,76.5,13.5,-3.04,-3.62,-1.31,Gizi Baik,Stunting
+Balita 448,L ,25/02/21,Nurdiansyah ,PENGGARON KIDUL ,7,3,8.2,79,12.5,-3.78,-3.36,-2.97,Gizi Kurang,Stunting
+Balita 449,L ,06/01/22,Jumardi ,PENGGARON KIDUL ,3,3,7.7,72,15,-2.99,-3.51,-1.76,Gizi Baik,Stunting
+Balita 450,P ,30/04/20,AHMAD FARID ,PENGGARON KIDUL ,3,5,11.4,84,15,-1.67,-3.06,0.25,Gizi Baik,Stunting
+Balita 451,L ,15/10/20,MASKURI ,PENGGARON KIDUL ,1,5,9.4,80,14.6,-3.13,-3.76,-1.45,Gizi Baik,Stunting
+Balita 452,P ,26/10/20,MACHRUSIN ,PENGGARON KIDUL ,1,5,9,84,13,-3.05,-2.13,-2.5,Gizi Kurang,Stunting
+Balita 453,P ,30/06/19,SRIYANTO ,PENGGARON KIDUL ,3,5,13,92,15.4,-1.52,-2.4,-0.12,Gizi Baik,Stunting
+Balita 454,L ,27/02/20,AHMAD FIRMAN ,PENGGARON KIDUL ,1,5,8.9,85.3,11.8,-4.1,-3.34,-3.53,Gizi Buruk,Stunting
+Balita 455,L ,18/01/20,ACHMAD SOLIKIN ,PENGGARON KIDUL ,2,1,10.3,87.5,14.3,-3.16,-2.96,-2.25,Gizi Kurang,Stunting
+Balita 456,P ,22/12/19,EKO PRASTIYO ,PENGGARON KIDUL ,3,1,8.9,85.1,11.8,-4.02,-3.39,-2.94,Gizi Kurang,Stunting
+Balita 457,L ,21/08/18,EDI ,PENGGARON KIDUL ,3,1,13.05,96.7,15.3,-2.44,-2.63,-1.31,Gizi Baik,Stunting
+Balita 458,P ,24/11/22,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,6.6,61,14,-0.97,-2.31,0.8,Gizi Baik,Stunting
+Balita 459,L ,12/07/21,PRIHATIN ,PENGGARON KIDUL ,7,1,7.6,74,0,-2.42,-1.3,-2.52,Gizi Kurang,Tidak Stunting
+Balita 460,L ,18/01/20,Zaenal Arifin ,PENGGARON KIDUL ,2,2,8.9,83,13.5,-3.49,-2.79,-2.91,Gizi Kurang,Stunting
+Balita 461,P ,16/10/20,Rojab Kurniawan ,PENGGARON KIDUL ,4,2,9,83.2,15,-1.73,-0.46,-2.11,Gizi Kurang,Tidak Stunting
+Balita 462,P ,03/03/20,Fandi Ahmad Husain ,PENGGARON KIDUL ,7,2,9.5,85,14,-2.35,-1.51,-2.12,Gizi Kurang,Tidak Stunting
+Balita 463,P ,22/12/19,ADITYA KURNIAWAN ,PENGGARON KIDUL ,1,5,7.5,78.5,11.5,-4.46,-3.76,-3.29,Gizi Buruk,Stunting
+Balita 464,P ,29/06/19,IMAM GOzALI ,PENGGARON KIDUL ,1,5,9.3,84.5,0,-3.38,-2.96,-2.24,Gizi Kurang,Stunting
+Balita 465,P ,01/04/18,KHAFIDHON ,PENGGARON KIDUL ,2,5,8.6,88,11.5,-4.77,-4.01,-3.86,Gizi Buruk,Stunting
+Balita 466,L ,07/07/18,erina ,PLAMONGAN SARI ,2,11,12.1,95.5,15,-2.48,-2,-2.02,Gizi Kurang,Tidak Stunting
+Balita 467,L ,26/08/19,heni ,PLAMONGAN SARI ,1,11,9.3,87.5,11.5,-3.53,-2.25,-3.57,Gizi Buruk,Stunting
+Balita 468,L ,22/12/17,BUDI ,PLAMONGAN SARI ,2,11,12.85,101.5,14.1,-2.44,-1.36,-2.57,Gizi Kurang,Tidak Stunting
+Balita 469,L ,27/05/19,WONO BASUKI ,PLAMONGAN SARI ,4,2,10.85,89.7,13.4,-2.55,-2.1,-2.13,Gizi Kurang,Stunting
+Balita 470,L ,17/07/18,saekhudin ,PLAMONGAN SARI ,3,2,10.3,88.5,13.5,-3.69,-3.62,-2.52,Gizi Kurang,Stunting
+Balita 471,P ,23/01/20,sumaryanto ,PLAMONGAN SARI ,2,2,9.3,84.5,0,-2.68,-1.87,-2.24,Gizi Kurang,Tidak Stunting
+Balita 472,P ,18/07/19,RIBUT ,PLAMONGAN SARI ,1,11,10.6,90,0,-2.26,-1.48,-2.05,Gizi Kurang,Tidak Stunting
+Balita 473,P ,04/03/19,handoyo ,PLAMONGAN SARI ,3,11,10.8,91,14.2,-2.5,-1.86,-2.06,Gizi Kurang,Tidak Stunting
+Balita 474,L ,15/12/20,SONY CAHYO GUMILAR ,PLAMONGAN SARI ,6,14,8.7,80.2,13.5,-2.33,-1.34,-2.32,Gizi Kurang,Tidak Stunting
+Balita 475,L ,17/06/21,anton swarsono ,PLAMONGAN SARI ,2,13,9.1,78.6,14,-2.48,-2.92,-1.39,Gizi Baik,Stunting
+Balita 476,P ,11/12/21,SLAMET MARYONO ,TLOGOMULYO ,3,4,8.5,72.4,15,-1.5,-2.79,-0.19,Gizi Baik,Stunting
+Balita 477,L ,22/11/21,KASMURI ,TLOGOMULYO ,3,7,8.24,73.3,13.5,-2.6,-3.44,-1.29,Gizi Baik,Stunting
+Balita 478,P ,29/04/19,ARYADI ,TLOGOMULYO ,2,4,10.4,84.7,13,-3.41,-4.31,-0.97,Gizi Baik,Stunting
+Balita 479,P ,10/06/20,asroh ,TLOGOMULYO ,4,5,11.35,85,13.2,-1.57,-2.61,-0.04,Gizi Baik,Stunting
+Balita 480,P ,10/06/20,SURYA N ,TLOGOMULYO ,7,7,10.4,83.4,14,-2.3,-3.03,-0.64,Gizi Baik,Stunting
+Balita 481,L ,11/01/20,ARIEF PRABOWO ,TLOGOMULYO ,3,2,11.2,91,14.5,-2.47,-2.07,-2.03,Gizi Kurang,Stunting
+Balita 482,L ,21/09/18,saikun ,TLOGOMULYO ,1,4,11.5,86.6,15,-3.33,-4.75,-0.6,Gizi Baik,Stunting
+Balita 483,L ,17/07/18,rizal ,TLOGOMULYO ,2,3,11.2,94.5,14.2,-3.62,-3.21,-2.83,Gizi Kurang,Stunting
+Balita 484,L ,13/07/19,dimas ,TLOGOMULYO ,1,8,12.2,92,14.7,-2.24,-2.56,-1.14,Gizi Baik,Stunting
+Balita 485,L ,30/06/23,dimas ,TLOGOMULYO ,1,8,3.5,50,,-1.75,-2.04,0.09,Gizi Baik,Stunting
+Balita 486,L ,23/06/21,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,8.6,79.4,14.8,-2.98,-2.44,-2.45,Gizi Kurang,Stunting
+Balita 487,P ,04/09/21,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,8.8,75.5,12.1,-1.78,-2.48,-0.71,Gizi Baik,Stunting
+Balita 488,L ,10/04/21,AHMAD NAIM ,TLOGOSARI WETAN ,3,2,9.7,72.1,0,-2.24,-5.26,0.84,Gizi Baik,Stunting
+Balita 489,L ,09/11/20,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,8.9,78,14.5,-3.5,-4.25,-1.69,Gizi Baik,Stunting
+Balita 490,L ,19/03/20,devia/septyan ,TLOGOSARI WETAN ,4,3,11.1,88.2,14.2,-2.35,-2.48,-1.46,Gizi Baik,Stunting
+Balita 491,P ,30/11/19,JELLI SETIAWATI ,PALEBON ,6,1,11.9,89,15.1,-1.82,-2.52,-0.46,Gizi Baik,Stunting
+Balita 492,L ,04/05/19,suyono ,PALEBON ,4,4,11.9,91.7,14.5,-2.63,-2.91,-1.4,Gizi Baik,Stunting
+Balita 493,L ,17/07/20,FENDI ANDREAS HANAFI ,PALEBON ,4,1,11.4,92,0,-0.78,1.11,-2.03,Gizi Kurang,Tidak Stunting
+Balita 494,P ,26/04/21,mauli pramudia ,PALEBON ,9,1,7.2,73,13,-2.72,-2.19,-2.26,Gizi Kurang,Stunting
+Balita 495,L ,01/05/21,DEDY ,PALEBON ,2,1,9,80.5,14,-1.48,0.23,-2.12,Gizi Kurang,Tidak Stunting
+Balita 496,L ,17/10/20,suharwanto ,PEDURUNGAN KIDUL ,4,1,9.6,85,15,-1.95,-0.69,-2.28,Gizi Kurang,Tidak Stunting
+Balita 497,L ,24/09/21,ARI H ,PEDURUNGAN KIDUL ,1,7,8.7,80,0,-0.8,2.14,-2.28,Gizi Kurang,Tidak Stunting
+Balita 498,L ,16/05/21,RONY ,PEDURUNGAN KIDUL ,4,2,8.2,76.5,14,-2.21,-1.36,-2.21,Gizi Kurang,Tidak Stunting
+Balita 499,L ,14/11/20,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,8.6,81,14,-2.73,-1.67,-2.66,Gizi Kurang,Tidak Stunting
+Balita 500,L ,05/07/20,HERI SULISTIYONO ,PEDURUNGAN KIDUL ,7,2,10.7,89,0,-1.38,0.07,-2.14,Gizi Kurang,Tidak Stunting
+Balita 501,L ,08/10/20,IWAN S. ,PEDURUNGAN KIDUL ,4,8,9,81.5,14.5,-2.47,-1.77,-2.19,Gizi Kurang,Tidak Stunting
+Balita 502,L ,30/06/20,ILHAM TEGUH ARDIANTO ,PEDURUNGAN KIDUL ,8,1,9.75,85,0,-2.21,-1.45,-2.08,Gizi Kurang,Tidak Stunting
+Balita 503,P ,08/09/22,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,2.7,50,,-1.48,0.11,-3,Gizi Kurang,Tidak Stunting
+Balita 504,L ,08/09/22,AZIZ DULRAHMAN ,PEDURUNGAN KIDUL ,8,1,2.7,49,,-1.78,-0.84,-2.21,Gizi Kurang,Tidak Stunting
+Balita 505,L ,22/02/19,SUHELNERI ,PEDURUNGAN KIDUL ,2,1,14,105,0,-0.78,1.23,-2.25,Gizi Kurang,Tidak Stunting
+Balita 506,P ,10/06/19,OCKY ,PEDURUNGAN KIDUL ,1,12,13.9,105,0,-0.26,2.03,-2.11,Gizi Kurang,Tidak Stunting
+Balita 507,P ,27/09/17,RICKY ,PEDURUNGAN KIDUL ,3,9,12.7,101,16,-2.57,-1.73,-2.28,Gizi Kurang,Tidak Stunting
+Balita 508,P ,21/09/18,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,14,105,0,-0.97,0.6,-2.03,Gizi Kurang,Tidak Stunting
+Balita 509,L ,06/03/19,BAGUS ARDI SAPUTRA ,PEDURUNGAN KIDUL ,7,5,11.3,93,14.5,-2.5,-1.74,-2.37,Gizi Kurang,Tidak Stunting
+Balita 510,P ,01/11/18,AGUNG ,PEDURUNGAN KIDUL ,3,2,13.9,105,0,-0.92,0.8,-2.11,Gizi Kurang,Tidak Stunting
+Balita 511,P ,26/06/19,DAMAR ,PEDURUNGAN KIDUL ,6,2,11.8,97.4,12.8,-1.51,0.19,-2.39,Gizi Kurang,Tidak Stunting
+Balita 512,L ,21/11/19,ASHADI ,PEDURUNGAN KIDUL ,8,12,9.3,84.5,13,-3.38,-2.78,-2.75,Gizi Kurang,Stunting
+Balita 513,L ,09/01/19,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,14.2,105,0,-0.78,1,-2.07,Gizi Kurang,Tidak Stunting
+Balita 514,L ,30/09/20,RIFAN SETIAWAN ,PEDURUNGAN KIDUL ,5,5,10.2,87,13,-1.42,0.2,-2.25,Gizi Kurang,Tidak Stunting
+Balita 515,L ,10/08/20,SUKOCO ,PEDURUNGAN KIDUL ,8,5,9.4,84,13,-2.37,-1.24,-2.47,Gizi Kurang,Tidak Stunting
+Balita 516,L ,29/04/20,BAGUS ARDI S. ,PEDURUNGAN KIDUL ,7,5,9.5,85,12,-2.69,-1.7,-2.62,Gizi Kurang,Tidak Stunting
+Balita 517,P ,13/11/19,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,9.8,87.5,14,-2.6,-1.63,-2.39,Gizi Kurang,Tidak Stunting
+Balita 518,L ,11/10/18,SUTARNO ,PEDURUNGAN KIDUL ,4,1,14,105,0,-1.14,0.56,-2.25,Gizi Kurang,Tidak Stunting
+Balita 519,L ,28/07/19,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,14.2,105,0,-0.21,2.15,-2.07,Gizi Kurang,Tidak Stunting
+Balita 520,L ,03/11/18,fadhila rizka ,PEDURUNGAN KIDUL ,3,2,14.2,105,0,-0.96,0.67,-2.07,Gizi Kurang,Tidak Stunting
+Balita 521,L ,09/10/18,ANGGA PRANANDA ,PEDURUNGAN LOR ,4,4,14.1,105,0,-1.08,0.55,-2.16,Gizi Kurang,Tidak Stunting
+Balita 522,L ,22/11/18,ALDY ,PEDURUNGAN LOR ,6,6,14,105,0,-1.03,0.76,-2.25,Gizi Kurang,Tidak Stunting
+Balita 523,P ,10/06/19,AGUS IKWANTO / SURTIANINGSIH ,PEDURUNGAN LOR ,7,3,14,105,0,-0.21,2.03,-2.03,Gizi Kurang,Tidak Stunting
+Balita 524,L ,06/06/20,FADIL ASROR ,PEDURUNGAN LOR ,1,7,11.4,92,0,-0.96,0.74,-2.03,Gizi Kurang,Tidak Stunting
+Balita 525,L ,06/04/19,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,14.2,105,0,-0.54,1.47,-2.07,Gizi Kurang,Tidak Stunting
+Balita 526,L ,04/12/18,didik tri ariyanto ,PEDURUNGAN TENGAH ,8,9,14,105,0,-1,0.82,-2.25,Gizi Kurang,Tidak Stunting
+Balita 527,P ,22/08/19,FAJAR ,PEDURUNGAN TENGAH ,4,1,14,105,0,0.03,2.51,-2.03,Gizi Kurang,Tidak Stunting
+Balita 528,L ,01/05/20,ADI BASKORO ,PEDURUNGAN TENGAH ,4,1,11.3,92,0,-1.18,0.44,-2.14,Gizi Kurang,Tidak Stunting
+Balita 529,L ,27/03/20,BAMBANG ,PEDURUNGAN TENGAH ,4,1,11.3,92,0,-1.31,0.17,-2.14,Gizi Kurang,Tidak Stunting
+"Balita 530,L ,23/09/19,""JOKO W, "",PEDURUNGAN TENGAH ,4,1,14,105,0,-0.14,2.53,-2.25,Gizi Kurang,Tidak Stunting"
+Balita 531,L ,20/05/20,SAEFUL ,PEDURUNGAN TENGAH ,3,10,11.3,92,0,-1.1,0.6,-2.14,Gizi Kurang,Tidak Stunting
+Balita 532,L ,05/08/20,RICKY ,PEDURUNGAN TENGAH ,1,1,11.4,92,0,-0.7,1.29,-2.03,Gizi Kurang,Tidak Stunting
+Balita 533,L ,02/10/20,ASWANDI ,PEDURUNGAN TENGAH ,1,15,11,90,15,-0.76,1.18,-2.03,Gizi Kurang,Tidak Stunting
+Balita 534,L ,12/06/20,ferianto ,PEDURUNGAN TENGAH ,7,10,11.4,92,0,-0.93,0.79,-2.03,Gizi Kurang,Tidak Stunting
+Balita 535,P ,03/04/19,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,14,105,0,-0.42,1.62,-2.03,Gizi Kurang,Tidak Stunting
+Balita 536,L ,20/03/19,AGUS DARMAWAN ,PEDURUNGAN TENGAH ,5,2,14.2,105,0,-0.59,1.37,-2.07,Gizi Kurang,Tidak Stunting
+Balita 537,L ,20/08/19,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,14,105,0,-0.25,2.3,-2.25,Gizi Kurang,Tidak Stunting
+Balita 538,L ,27/05/19,wahyu nugroho ,PEDURUNGAN TENGAH ,3,12,14,105,0,-0.51,1.76,-2.25,Gizi Kurang,Tidak Stunting
+Balita 539,P ,09/10/18,AMAT GUNAWAN / EVI MAIS ,PEDURUNGAN TENGAH ,,1,13.9,105,0,-0.98,0.69,-2.11,Gizi Kurang,Tidak Stunting
+Balita 540,P ,13/05/19,AGUS SAHLAN / ERAWATI ,PEDURUNGAN TENGAH ,,1,14,105,0,-0.3,1.86,-2.03,Gizi Kurang,Tidak Stunting
+Balita 541,P ,08/07/21,HERWANSYAH / IDA ,PEDURUNGAN TENGAH ,,1,7.3,72.9,16,-2.16,-1.4,-2.07,Gizi Kurang,Tidak Stunting
+Balita 542,P ,13/10/20,SYAIUN M HAIDAR ,PENGGARON KIDUL ,7,1,8.4,80,19,-2.49,-1.54,-2.3,Gizi Kurang,Tidak Stunting
+Balita 543,P ,13/05/19,SITI CHOIRIYAH ,PENGGARON KIDUL ,2,2,13.9,105,0,-0.35,1.86,-2.11,Gizi Kurang,Tidak Stunting
+Balita 544,L ,17/12/18,novi hermawan ,PENGGARON KIDUL ,5,3,14.2,105,0,-0.85,0.89,-2.07,Gizi Kurang,Tidak Stunting
+Balita 545,L ,08/08/20,M. SUHARI ,PENGGARON KIDUL ,1,6,11.2,92,0,-0.84,1.32,-2.26,Gizi Kurang,Tidak Stunting
+Balita 546,L ,29/07/20,EKO SETIAWAN ,PENGGARON KIDUL ,4,6,11,92,0,-1.04,1.22,-2.5,Gizi Kurang,Tidak Stunting
+Balita 547,L ,15/03/22,AHMAD FARID ,PENGGARON KIDUL ,3,5,6,64.1,43,-2.39,-1.46,-2.01,Gizi Kurang,Tidak Stunting
+Balita 548,L ,18/05/19,AHMAD FIRMAN ,PENGGARON KIDUL ,1,5,14,105,0,-0.54,1.71,-2.25,Gizi Kurang,Tidak Stunting
+Balita 549,L ,01/07/18,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,14.2,105,0,-1.27,0.11,-2.07,Gizi Kurang,Tidak Stunting
+Balita 550,L ,17/01/20,Adi Dwi Cahyo Utomo ,PENGGARON KIDUL ,7,2,11.4,92,0,-1.48,-0.31,-2.03,Gizi Kurang,Tidak Stunting
+Balita 551,L ,08/03/19,Wardiyono ,PENGGARON KIDUL ,4,3,14,105,0,-0.74,1.31,-2.25,Gizi Kurang,Tidak Stunting
+Balita 552,L ,15/10/18,MUSLIHIN ,PENGGARON KIDUL ,4,3,14.1,105,0,-1.07,0.58,-2.16,Gizi Kurang,Tidak Stunting
+Balita 553,L ,21/04/20,slamet ,PENGGARON KIDUL ,5,3,11.3,92,0,-1.22,0.36,-2.14,Gizi Kurang,Tidak Stunting
+Balita 554,L ,11/05/20,dimas prasetyo ,PENGGARON KIDUL ,5,3,11.3,92,0,-1.14,0.52,-2.14,Gizi Kurang,Tidak Stunting
+Balita 555,L ,11/04/19,tubagus dwi septiaji ,PLAMONGAN SARI ,1,2,14,105,0,-0.64,1.49,-2.25,Gizi Kurang,Tidak Stunting
+Balita 556,P ,01/11/19,heni ,PLAMONGAN SARI ,1,11,9.4,87,14,-3.01,-1.83,-2.77,Gizi Kurang,Tidak Stunting
+Balita 557,L ,19/05/18,BUDI ,PLAMONGAN SARI ,2,11,11.6,97,13.5,-2.99,-1.93,-2.91,Gizi Kurang,Tidak Stunting
+Balita 558,L ,19/11/21,WONO BASUKI ,PLAMONGAN SARI ,4,2,6.8,69,13,-2.6,-1.64,-2.35,Gizi Kurang,Tidak Stunting
+Balita 559,P ,30/09/20,sumaryanto ,PLAMONGAN SARI ,2,2,7.5,73.5,12,-3.48,-3.63,-2.09,Gizi Kurang,Stunting
+Balita 560,P ,08/11/19,RIBUT ,PLAMONGAN SARI ,1,11,10.1,88,14,-2.38,-1.56,-2.15,Gizi Kurang,Tidak Stunting
+Balita 561,P ,08/11/19,handoyo ,PLAMONGAN SARI ,3,11,10.1,88,14,-2.38,-1.56,-2.15,Gizi Kurang,Tidak Stunting
+Balita 562,L ,14/02/20,SONY CAHYO GUMILAR ,PLAMONGAN SARI ,6,14,10.9,90,13,-1.8,-0.77,-2.15,Gizi Kurang,Tidak Stunting
+Balita 563,L ,28/05/20,anton swarsono ,PLAMONGAN SARI ,2,13,11.4,92,0,-0.99,0.67,-2.03,Gizi Kurang,Tidak Stunting
+Balita 564,P ,19/09/21,dadi ari siswono ,PLAMONGAN SARI ,5,12,6.6,71,14,-2.53,-1.11,-2.74,Gizi Kurang,Tidak Stunting
+Balita 565,L ,05/11/21,SLAMET MARYONO ,TLOGOMULYO ,3,4,7.5,73,13,-1.9,-0.3,-2.4,Gizi Kurang,Tidak Stunting
+Balita 566,P ,29/05/22,KASMURI ,TLOGOMULYO ,3,7,4.9,60,12,-1.88,-0.55,-2.06,Gizi Kurang,Tidak Stunting
+Balita 567,L ,08/10/21,ARYADI ,TLOGOMULYO ,2,4,5.7,57,,-0.94,-2.15,1.23,Resiko Gizi Lebih,Stunting
+Balita 568,P ,18/07/19,SURYA N ,TLOGOMULYO ,7,7,8.6,78.4,13.5,-3.26,-3.67,-1.47,Gizi Baik,Stunting
+Balita 569,L ,29/04/20,ARIEF PRABOWO ,TLOGOMULYO ,3,2,8.9,78,14,-2.2,-2.02,-1.69,Gizi Baik,Stunting
+Balita 570,L ,21/11/19,FATUROHMAN ,TLOGOMULYO ,1,4,8.2,75,14,-3.58,-4.26,-2.01,Gizi Kurang,Stunting
+Balita 571,P ,13/11/19,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,8.2,79,13.5,-3.12,-2.48,-2.34,Gizi Kurang,Stunting
+Balita 572,L ,02/03/20,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,9.6,76,15,-1.81,-3.46,-0.13,Gizi Baik,Stunting
+Balita 573,P ,22/04/17,AHMAD NAIM ,TLOGOSARI WETAN ,3,2,11.3,91,14,-3.26,-3.57,-1.52,Gizi Baik,Stunting
+Balita 574,P ,14/02/18,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,11.6,86.6,14.8,-2.41,-3.64,-0.19,Gizi Baik,Stunting
+Balita 575,L ,28/08/18,yudi iswanto ,TLOGOSARI WETAN ,2,3,10.1,90.7,13.2,-3.32,-2.18,-3.32,Gizi Buruk,Stunting
+Balita 576,L ,08/04/18,JUMIYATI SIWY ,TLOGOSARI WETAN ,1,4,12.5,92.3,14.5,-1.93,-2.32,-0.9,Gizi Baik,Stunting
+Balita 577,L ,30/01/22,MUSLIMIN ,PALEBON ,4,5,3,48,,-2.81,-3.07,-0.27,Gizi Baik,Stunting
+Balita 578,L ,24/01/22,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,3,47,,-2.35,-3.17,0.39,Gizi Baik,Stunting
+Balita 579,L ,24/01/22,ponco wahyudi ,PEDURUNGAN KIDUL ,4,1,2.7,49,,-3.05,-2.13,-2.21,Gizi Kurang,Stunting
+Balita 580,L ,04/05/18,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,13.5,93,15,-1.23,-2.03,-0.08,Gizi Baik,Stunting
+Balita 581,L ,04/06/20,DEDI SUPRIYANTO ,PEDURUNGAN KIDUL ,3,1,11.5,77,15,0.24,-2.35,1.76,Resiko Gizi Lebih,Stunting
+Balita 582,P ,23/01/20,AZIZ DULRAHMAN ,PEDURUNGAN KIDUL ,8,1,8,78,12.8,-3.02,-2.31,-2.4,Gizi Kurang,Stunting
+Balita 583,L ,03/07/21,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,6.8,63.3,12.5,-1.54,-2.26,-0.09,Gizi Baik,Stunting
+Balita 584,L ,26/01/21,RONY ,PEDURUNGAN KIDUL ,4,2,7.2,67.9,15,-2.55,-3.08,-1.22,Gizi Baik,Stunting
+Balita 585,L ,24/04/17,RIFAN SETIAWAN ,PEDURUNGAN KIDUL ,5,5,11.6,92.2,0,-3.28,-3.52,-1.84,Gizi Baik,Stunting
+Balita 586,P ,21/03/18,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,11.8,92.8,0,-2.18,-2.05,-1.4,Gizi Baik,Stunting
+Balita 587,P ,01/04/18,SUKOCO ,PEDURUNGAN KIDUL ,8,5,8.6,86.2,0,-4.46,-3.74,-3.44,Gizi Buruk,Stunting
+Balita 588,P ,29/06/19,satria dyan kurniawan ,PEDURUNGAN KIDUL ,1,7,8.3,82.5,0,-3.65,-2.5,-3.09,Gizi Buruk,Stunting
+Balita 589,L ,21/09/18,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,10,79.8,0,-3.29,-4.98,-0.49,Gizi Baik,Stunting
+Balita 590,P ,20/11/19,REZA RESTU PERMADI ,PEDURUNGAN KIDUL ,2,5,9.1,80.5,13,-2.22,-2.05,-1.47,Gizi Baik,Stunting
+Balita 591,L ,04/05/19,ARI BAYU ,PEDURUNGAN KIDUL ,8,5,10,82.7,14.3,-2.69,-3.12,-1.32,Gizi Baik,Stunting
+Balita 592,L ,15/01/22,rizal c ,PEDURUNGAN KIDUL ,4,5,2.4,47,,-3.06,-2.51,-2.15,Gizi Kurang,Stunting
+Balita 593,L ,25/01/22,ANGGA PRANANDA ,PEDURUNGAN LOR ,4,4,2.8,49,,-2.9,-2.2,-1.78,Gizi Baik,Stunting
+Balita 594,L ,13/01/18,AGUS IKWANTO / SURTIANINGSIH ,PEDURUNGAN LOR ,7,3,13.6,98,15,-2.26,-2.57,-1.07,Gizi Baik,Stunting
+Balita 595,P ,26/04/21,FADIL ASROR ,PEDURUNGAN LOR ,1,7,8,75,13,-2.5,-2.7,-1.53,Gizi Baik,Stunting
+Balita 596,L ,22/08/18,wahyu nugroho ,PEDURUNGAN TENGAH ,3,12,11,93,14,-3.44,-2.96,-2.73,Gizi Kurang,Stunting
+Balita 597,L ,01/07/19,AMAT GUNAWAN / EVI MAIS ,PEDURUNGAN TENGAH ,,1,11.7,90,14.5,-2.24,-2.53,-1.22,Gizi Baik,Stunting
+Balita 598,P ,12/07/18,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,11.5,90,0,-2.99,-3.58,-1.09,Gizi Baik,Stunting
+Balita 599,L ,23/07/19,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,10.5,88,0,-3.08,-2.96,-2.13,Gizi Kurang,Stunting
+Balita 600,L ,09/09/19,RICKY ,PEDURUNGAN TENGAH ,1,1,10,84,0,-3.34,-3.79,-1.67,Gizi Baik,Stunting
+Balita 601,P ,05/05/20,didik tri ariyanto ,PEDURUNGAN TENGAH ,8,9,10.3,81,0,-2,-3.14,-0.16,Gizi Baik,Stunting
+Balita 602,L ,30/01/23,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,3,50,,-2.81,-2.04,-1.7,Gizi Baik,Stunting
+Balita 603,L ,28/01/23,AGUS DARMAWAN ,PEDURUNGAN TENGAH ,5,2,2.6,49,,-3.56,-2.41,-2.67,Gizi Kurang,Stunting
+Balita 604,P ,30/09/20,SAEFUL ,PEDURUNGAN TENGAH ,3,10,8.1,76,13,-3.41,-3.68,-1.78,Gizi Baik,Stunting
+Balita 605,L ,04/12/20,ASWANDI ,PEDURUNGAN TENGAH ,1,15,8.2,77,14,-3.54,-3.55,-2.51,Gizi Kurang,Stunting
+Balita 606,L ,21/01/18,HERWANSYAH / IDA ,PEDURUNGAN TENGAH ,,1,14.5,96,15,-1.74,-2.97,0.17,Gizi Baik,Stunting
+Balita 607,P ,04/03/22,Nur Rofik ,PENGGARON KIDUL ,5,2,5.5,62,13,-3.64,-3.91,-1.66,Gizi Baik,Stunting
+Balita 608,L ,02/03/20,Muhamad Bukhori ,PENGGARON KIDUL ,1,2,10.9,86,14,-2.12,-2.45,-1.12,Gizi Baik,Stunting
+Balita 609,P ,09/01/18,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,18,96,16,-0.08,-2.82,2.56,Gizi Lebih,Stunting
+Balita 610,P ,19/02/18,SUDARMADI ,PENGGARON KIDUL ,3,1,11.9,85.5,16,-3.01,-4.93,0.36,Gizi Baik,Stunting
+Balita 611,L ,14/02/18,SYAIUN M HAIDAR ,PENGGARON KIDUL ,7,1,13,98,0,-2.54,-2.46,-1.64,Gizi Baik,Stunting
+Balita 612,L ,21/01/21,SLAMET SHOLIKIN ,PENGGARON KIDUL ,4,1,13.35,80,19,0.87,-2.25,2.69,Gizi Lebih,Stunting
+Balita 613,L ,31/03/21,NURUL IRMA ,PENGGARON KIDUL ,5,1,8.8,79,0,-2.45,-2.21,-1.9,Gizi Baik,Stunting
+Balita 614,L ,24/06/21,muhammad sugiarto ,PENGGARON KIDUL ,6,3,9,76.4,16.5,-1.85,-2.36,-1.02,Gizi Baik,Stunting
+Balita 615,L ,30/06/21,Bayu Wijianto ,PENGGARON KIDUL ,8,3,9.1,77,15.5,-1.73,-2.11,-1.02,Gizi Baik,Stunting
+Balita 616,L ,31/03/22,SUNARIYAH ,PENGGARON KIDUL ,1,3,5.9,65,13,-3.72,-3.27,-2.63,Gizi Kurang,Stunting
+Balita 617,L ,17/02/20,suni ,PENGGARON KIDUL ,6,3,11.3,88,16,-1.88,-2.01,-1.18,Gizi Baik,Stunting
+Balita 618,L ,22/06/20,MUSLIHIN ,PENGGARON KIDUL ,4,3,9.5,84.2,,-2.95,-2.4,-2.39,Gizi Kurang,Stunting
+Balita 619,L ,08/08/20,novi hermawan ,PENGGARON KIDUL ,5,3,10,83.5,14,-2.34,-2.31,-1.53,Gizi Baik,Stunting
+Balita 620,L ,28/03/18,dimas prasetyo ,PENGGARON KIDUL ,5,3,13.9,97,,-1.94,-2.56,-0.57,Gizi Baik,Stunting
+Balita 621,L ,11/05/18,Wardiyono ,PENGGARON KIDUL ,4,3,12.5,95.5,,-2.68,-2.75,-1.6,Gizi Baik,Stunting
+Balita 622,P ,01/01/19,Agil Ponco ,PENGGARON KIDUL ,5,3,11.1,89,,-2.87,-3.23,-1.27,Gizi Baik,Stunting
+Balita 623,L ,23/02/19,AHMAD FARID ,PENGGARON KIDUL ,3,5,11.9,90.5,,-2.44,-2.91,-1.12,Gizi Baik,Stunting
+Balita 624,L ,28/05/20,TOLIK WIDODO ,PENGGARON KIDUL ,1,5,10,86,47,-2.6,-2.03,-2.23,Gizi Kurang,Stunting
+Balita 625,P ,10/11/20,SUMARNO ,PENGGARON KIDUL ,1,1,10.5,78.1,,-1.03,-2.82,0.7,Gizi Baik,Stunting
+Balita 626,L ,19/11/20,Bangkit Perwira Negara ,PENGGARON KIDUL ,6,3,9.3,78.5,,-2.58,-3.2,-1.25,Gizi Baik,Stunting
+Balita 627,L ,20/10/21,LILI SUGIATI ,PENGGARON KIDUL ,5,1,9.5,72,17,-0.67,-2.67,0.82,Gizi Baik,Stunting
+Balita 628,L ,25/10/21,Fikri Azmi ,PENGGARON KIDUL ,4,2,7.6,72,16,-2.65,-2.61,-1.92,Gizi Baik,Stunting
+Balita 629,P ,08/05/19,ARIF ,PENGGARON KIDUL ,7,3,11.6,87.3,15,-2.16,-3.14,-0.36,Gizi Baik,Stunting
+Balita 630,L ,22/01/19,Agustinus Haryadi ,PENGGARON KIDUL ,6,3,13.7,93,15,-1.38,-2.44,0.1,Gizi Baik,Stunting
+Balita 631,P ,17/03/21,Muryanto ,PENGGARON KIDUL ,3,2,7.8,75,13,-2.98,-3.08,-1.83,Gizi Baik,Stunting
+Balita 632,L ,25/02/21,M. SUHARI ,PENGGARON KIDUL ,1,6,8.2,76,12.5,-3.26,-3.35,-2.26,Gizi Kurang,Stunting
+Balita 633,P ,26/10/20,khoirun ,PENGGARON KIDUL ,3,4,8.5,80,0,-2.92,-2.35,-2.15,Gizi Kurang,Stunting
+Balita 634,L ,15/10/20,AGUS SUSANTO ,PENGGARON KIDUL ,4,3,9.5,75.2,15,-2.53,-4.44,-0.23,Gizi Baik,Stunting
+Balita 635,L ,18/01/20,SONY CAHYO GUMILAR ,PLAMONGAN SARI ,6,14,10.5,85.9,14,-2.59,-2.72,-1.57,Gizi Baik,Stunting
+Balita 636,P ,22/12/19,saekhudin ,PLAMONGAN SARI ,3,2,8.3,81,13,-4.15,-3.79,-2.7,Gizi Kurang,Stunting
+Balita 637,L ,27/09/20,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,9,81.4,0,-3.06,-2.64,-2.34,Gizi Kurang,Stunting
+Balita 638,P ,16/07/20,NADHIF ,PLAMONGAN SARI ,1,3,10.4,82.7,0,-1.63,-2.24,-0.46,Gizi Baik,Stunting
+Balita 639,L ,27/02/20,dadi ari siswono ,PLAMONGAN SARI ,5,12,10.1,83.6,0,-2.79,-3.16,-1.43,Gizi Baik,Stunting
+Balita 640,L ,31/01/19,anton swarsono ,PLAMONGAN SARI ,2,13,12,94,14.5,-2.42,-2.15,-1.8,Gizi Baik,Stunting
+Balita 641,L ,19/09/19,sumaryanto ,PLAMONGAN SARI ,2,2,11.65,90.4,0,-2.06,-2.09,-1.37,Gizi Baik,Stunting
+Balita 642,P ,30/06/19,handoyo ,PLAMONGAN SARI ,3,11,11.65,87.9,0,-1.99,-2.8,-0.45,Gizi Baik,Stunting
+Balita 643,P ,21/06/19,WONO BASUKI ,PLAMONGAN SARI ,4,2,11,87.1,0,-2.49,-3.03,-0.92,Gizi Baik,Stunting
+Balita 644,P ,31/03/19,tubagus dwi septiaji ,PLAMONGAN SARI ,1,2,13.4,91,16.5,-1.14,-2.42,0.43,Gizi Baik,Stunting
+Balita 645,L ,21/08/18,TRI AGUS W ,TLOGOMULYO ,2,4,12,94.9,14.3,-2.79,-2.53,-2.01,Gizi Kurang,Stunting
+Balita 646,P ,09/05/18,SURYA N ,TLOGOMULYO ,7,7,14,95,14,-1.61,-2.68,0.09,Gizi Baik,Stunting
+Balita 647,P ,30/01/23,FATUROHMAN ,TLOGOMULYO ,1,4,2.3,47,,-3.98,-3.04,-2.77,Gizi Kurang,Stunting
+Balita 648,P ,30/01/23,kiswanto ,TLOGOMULYO ,3,7,3.2,48,,-1.89,-2.53,0.35,Gizi Baik,Stunting
+Balita 649,L ,22/11/21,KASMURI ,TLOGOMULYO ,3,7,7,68,13.1,-3.22,-3.91,-1.61,Gizi Baik,Stunting
+Balita 650,P ,02/11/21,SLAMET MARYONO ,TLOGOMULYO ,3,4,7.3,70.5,12.5,-2.16,-2.29,-1.4,Gizi Baik,Stunting
+Balita 651,L ,22/11/20,yudi iswanto ,TLOGOSARI WETAN ,2,3,9.6,80.2,14.2,-2.27,-2.85,-1.08,Gizi Baik,Stunting
+Balita 652,L ,11/01/20,eric devanda ,TLOGOSARI WETAN ,7,2,10.65,86.5,14,-2.48,-2.58,-1.55,Gizi Baik,Stunting
+Balita 653,P ,10/06/20,MOHAMMAD AL BAKHIR ,TLOGOSARI WETAN ,11,3,10.25,79.3,15,-1.89,-3.4,0.18,Gizi Baik,Stunting
+Balita 654,P ,10/06/20,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,9.6,78.2,14.8,-2.45,-3.7,-0.31,Gizi Baik,Stunting
+Balita 655,P ,09/06/20,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,10,84,14,-2.1,-2.09,-1.25,Gizi Baik,Stunting
+Balita 656,L ,26/08/19,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,10.6,89.1,0,-2.91,-2.52,-2.29,Gizi Kurang,Stunting
+Balita 657,L ,13/07/19,ASMUI ,PALEBON ,2,1,11.7,88.8,0,-2.21,-2.78,-0.93,Gizi Baik,Stunting
+Balita 658,L ,17/07/18,JELLI SETIAWATI ,PALEBON ,6,1,10,89.5,0,-4.14,-4.03,-2.99,Gizi Kurang,Stunting
+Balita 659,P ,24/11/22,feru cahyanto ,PALEBON ,3,1,3.72,50.5,11.5,-1.99,-2.76,0.8,Gizi Baik,Stunting
+Balita 660,L ,31/01/23,SUROTO ,PALEBON ,7,1,3,50,,-2.89,-2.11,-1.7,Gizi Baik,Stunting
+Balita 661,P ,15/01/23,FENDI ANDREAS HANAFI ,PALEBON ,4,1,2.4,47,,-2.72,-2.07,-2.26,Gizi Kurang,Stunting
+Balita 662,P ,14/03/22,SURADI ,PALEBON ,4,7,6.8,66,0,-1.85,-2.25,-0.8,Gizi Baik,Stunting
+Balita 663,P ,19/11/21,SONY N ,PALEBON ,1,2,7.2,69.2,14,-2.19,-2.61,-1.18,Gizi Baik,Stunting
+Balita 664,L ,30/01/22,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,8.2,78.5,13,-3.35,-2.93,-2.69,Gizi Kurang,Stunting
+Balita 665,P ,30/12/20,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,9.4,79.2,13,-1.73,-2.35,-0.62,Gizi Baik,Stunting
+Balita 666,P ,04/09/21,MUHAMMAD TAQWA P.S ,PEDURUNGAN KIDUL ,3,1,7.4,71.5,14,-2.44,-2.65,-1.53,Gizi Baik,Stunting
+Balita 667,L ,23/06/21,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,8.2,74.7,0,-2.7,-3.02,-1.74,Gizi Baik,Stunting
+Balita 668,L ,10/04/21,AGUNG ,PEDURUNGAN KIDUL ,3,2,8.4,69.5,0,-2.85,-5.47,0.13,Gizi Baik,Stunting
+Balita 669,L ,09/11/20,SLAMET ,PEDURUNGAN KIDUL ,8,2,8.5,76.4,0,-3.37,-4.15,-1.73,Gizi Baik,Stunting
+Balita 670,L ,27/09/20,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,10.3,83,13.5,-1.91,-2.16,-1.03,Gizi Baik,Stunting
+Balita 671,P ,25/08/20,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,10.2,80.5,0,-1.63,-2.63,-0.15,Gizi Baik,Stunting
+Balita 672,P ,30/11/19,SUKOCO ,PEDURUNGAN KIDUL ,8,5,11.4,86.7,14.5,-1.71,-2.42,-0.41,Gizi Baik,Stunting
+Balita 673,L ,17/08/19,ROCHMAT CATUR RIVAI ,PEDURUNGAN KIDUL ,2,5,13.2,90.5,14,-1.13,-2.22,0.19,Gizi Baik,Stunting
+Balita 674,L ,08/10/21,FATUR ,PEDURUNGAN KIDUL ,4,8,6.3,58.3,14,-0.76,-2.45,1.56,Resiko Gizi Lebih,Stunting
+Balita 675,L ,26/10/21,ANDRIANTO EKO PUTRO ,PEDURUNGAN KIDUL ,1,10,6.2,58,14,-0.53,-2.07,1.56,Resiko Gizi Lebih,Stunting
+Balita 676,P ,18/07/19,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,8.7,79.1,0,-3.29,-3.45,-1.66,Gizi Baik,Stunting
+Balita 677,L ,18/06/21,HIDAYATULLAH ,PEDURUNGAN LOR ,6,7,7,66,14.5,-2.14,-2.57,-0.86,Gizi Baik,Stunting
+Balita 678,L ,23/07/19,ANGGA PRANANDA ,PEDURUNGAN LOR ,4,4,9.7,85,0,-2.77,-2.36,-2.15,Gizi Kurang,Stunting
+Balita 679,P ,19/01/20,agung ,PEDURUNGAN LOR ,6,7,10.1,82,15,-4.07,-5.72,-0.86,Gizi Baik,Stunting
+Balita 680,L ,25/02/22,nastain ,PEDURUNGAN LOR ,6,7,2.6,47,15,-3.35,-3.24,-1.22,Gizi Baik,Stunting
+Balita 681,P ,03/02/22,AGUS IKWANTO / SURTIANINGSIH ,PEDURUNGAN LOR ,7,3,2.8,45,15,-0.96,-2.11,0.89,Gizi Baik,Stunting
+Balita 682,L ,02/03/20,FADIL ASROR ,PEDURUNGAN LOR ,1,7,9.8,76.5,16,-1.77,-3.52,0,Gizi Baik,Stunting
+Balita 683,L ,29/04/20,JIMAN ,PEDURUNGAN LOR ,5,1,9.1,78.8,16,-2.15,-2.27,-1.44,Gizi Baik,Stunting
+Balita 684,L ,04/09/20,BAYU G ,PEDURUNGAN LOR ,7,7,2.75,45,16,-1.3,-2.58,1.27,Resiko Gizi Lebih,Stunting
+Balita 685,L ,28/02/22,PRIYO PRAMONO / SULASTRI ,PEDURUNGAN LOR ,4,7,3,49,16,-2.66,-2.41,-0.97,Gizi Baik,Stunting
+Balita 686,L ,22/02/22,ANNUR DANANG M ,PEDURUNGAN TENGAH ,3,8,3.05,48,14,-2.08,-2.51,-0.09,Gizi Baik,Stunting
+Balita 687,P ,19/05/19,LUKMANUL HAKIM / RATNA R.P ,PEDURUNGAN TENGAH ,,1,8.3,84.8,12.3,-3.88,-2.28,-3.66,Gizi Buruk,Stunting
+Balita 688,L ,15/03/21,EKA ,PEDURUNGAN TENGAH ,4,2,9.6,69.5,15,0.2,-2.12,1.71,Resiko Gizi Lebih,Stunting
+Balita 689,L ,08/04/18,wahyu nugroho ,PEDURUNGAN TENGAH ,3,12,12.6,92.7,16,-1.94,-2.34,-0.89,Gizi Baik,Stunting
+Balita 690,L ,26/02/22,sukimin ,PEDURUNGAN TENGAH ,2,11,3,49,13,-2.51,-2.27,-0.97,Gizi Baik,Stunting
+Balita 691,P ,21/07/20,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,9,84,13,-3.62,-3.27,-2.32,Gizi Kurang,Stunting
+Balita 692,P ,23/01/20,ALFAN SURYA RAHMAWAN ,PEDURUNGAN TENGAH ,4,2,8.5,78,14,-2.61,-2.51,-1.67,Gizi Baik,Stunting
+Balita 693,L ,04/06/20,ROY ,PEDURUNGAN TENGAH ,5,1,11.7,78,15,0.27,-2.21,1.74,Resiko Gizi Lebih,Stunting
+Balita 694,L ,03/07/21,didik tri ariyanto ,PEDURUNGAN TENGAH ,8,9,7,64.1,13,-1.62,-2.46,-0.09,Gizi Baik,Stunting
+Balita 695,L ,27/11/21,muhammad eko setiadi ,PEDURUNGAN TENGAH ,1,2,5.1,55.1,16,-1.05,-2.08,1.24,Resiko Gizi Lebih,Stunting
+Balita 696,P ,29/06/19,AGUS DARMAWAN ,PEDURUNGAN TENGAH ,5,2,8.4,81.3,13.5,-3.62,-2.94,-2.63,Gizi Kurang,Stunting
+Balita 697,L ,24/04/17,SAEFUL ,PEDURUNGAN TENGAH ,3,10,11.8,92.6,13.8,-3.22,-3.54,-1.71,Gizi Baik,Stunting
+Balita 698,L ,12/05/19,ASWANDI ,PEDURUNGAN TENGAH ,1,15,13.5,83.5,17.5,-0.21,-2.98,2.09,Gizi Lebih,Stunting
+Balita 699,P ,21/03/18,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,12,93.2,18,-2.12,-2.08,-1.29,Gizi Baik,Stunting
+Balita 700,P ,01/04/18,DICKY APRILIATMIKO SETYAWAN ,PEDURUNGAN TENGAH ,1,15,8.9,86.5,18,-4.3,-3.61,-3.29,Gizi Buruk,Stunting
+Balita 701,L ,21/09/18,HERWANSYAH / IDA ,PEDURUNGAN TENGAH ,,1,10.2,80.3,16,-3.23,-4.98,-0.35,Gizi Baik,Stunting
+Balita 702,L ,19/07/19,hendri ,PEDURUNGAN TENGAH ,4,8,12,86,15,-3.18,-5.11,0.09,Gizi Baik,Stunting
+Balita 703,L ,14/02/20,khoirun ,PENGGARON KIDUL ,3,4,2.9,47,14,-1.76,-2.43,0.02,Gizi Baik,Stunting
+Balita 704,P ,02/05/17,Nur Rofik ,PENGGARON KIDUL ,5,2,14,88.9,15.1,-1.69,-4.09,1.36,Resiko Gizi Lebih,Stunting
+Balita 705,L ,09/11/20,Muhamad Bukhori ,PENGGARON KIDUL ,1,2,7,70,13,-3.43,-3.57,-2.32,Gizi Kurang,Stunting
+Balita 706,P ,26/04/21,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,7.4,75.5,12,-3.35,-2.83,-2.58,Gizi Kurang,Stunting
+Balita 707,L ,08/10/20,SUDARMADI ,PENGGARON KIDUL ,3,1,9.1,81.5,12,-3.05,-2.75,-2.22,Gizi Kurang,Stunting
+Balita 708,P ,12/07/18,RUBIATUN ,PENGGARON KIDUL ,2,1,11.4,90,13,-3.12,-3.67,-1.19,Gizi Baik,Stunting
+Balita 709,P ,05/05/20,ROMI ,PENGGARON KIDUL ,9,3,10,82,14,-2.36,-3.01,-0.74,Gizi Baik,Stunting
+Balita 710,L ,22/08/18,HERU SETIAWAN ,PLAMONGAN SARI ,3,1,11,93,14,-3.5,-3.06,-2.73,Gizi Kurang,Stunting
+Balita 711,L ,09/09/19,Pungki ,PLAMONGAN SARI ,3,2,10.5,84,15,-3.04,-4.08,-0.87,Gizi Baik,Stunting
+Balita 712,L ,01/07/19,ZAKUL ,PLAMONGAN SARI ,,3,12,91,15,-2.1,-2.56,-0.97,Gizi Baik,Stunting
+Balita 713,P ,04/03/22,HENDRA ,PLAMONGAN SARI ,,3,5.4,62.3,12,-4.03,-4.33,-2.01,Gizi Kurang,Stunting
+Balita 714,P ,30/09/20,saekhudin ,PLAMONGAN SARI ,3,2,8.5,76.5,12.5,-3.22,-3.82,-1.33,Gizi Baik,Stunting
+Balita 715,L ,21/02/18,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,14.1,96,14,-1.96,-2.97,-0.18,Gizi Baik,Stunting
+Balita 716,L ,21/11/19,NADHIF ,PLAMONGAN SARI ,1,3,9.75,87,13.5,-3.4,-2.8,-2.84,Gizi Kurang,Stunting
+Balita 717,L ,04/12/20,anton swarsono ,PLAMONGAN SARI ,2,13,8.2,78,14,-3.67,-3.46,-2.74,Gizi Kurang,Stunting
+Balita 718,L ,31/03/22,sumaryanto ,PLAMONGAN SARI ,2,2,6.5,65.5,14,-3.21,-3.64,-1.59,Gizi Baik,Stunting
+Balita 719,L ,24/06/21,handoyo ,PLAMONGAN SARI ,3,11,9,78,15,-2.01,-2.09,-1.39,Gizi Baik,Stunting
+Balita 720,L ,31/03/21,WONO BASUKI ,PLAMONGAN SARI ,4,2,9.1,79.5,,-2.29,-2.28,-1.59,Gizi Baik,Stunting
+Balita 721,L ,21/01/21,tubagus dwi septiaji ,PLAMONGAN SARI ,1,2,13.55,80.7,,0.87,-2.23,2.72,Gizi Lebih,Stunting
+Balita 722,L ,08/08/20,erina ,PLAMONGAN SARI ,2,11,10.2,84.2,14,-2.28,-2.29,-1.47,Gizi Baik,Stunting
+Balita 723,L ,22/06/20,winda sulistyaningsih ,TLOGOMULYO ,3,2,9.7,84.9,,-2.86,-2.34,-2.31,Gizi Kurang,Stunting
+Balita 724,L ,22/02/22,ANDI KUSWOYO ,TLOGOMULYO ,3,4,7,70,12,-2.84,-2.28,-2.32,Gizi Kurang,Stunting
+Balita 725,L ,13/03/18,SURYA N ,TLOGOMULYO ,7,7,13.8,100,15,-2.08,-2.03,-1.32,Gizi Baik,Stunting
+Balita 726,L ,28/03/18,asroh ,TLOGOMULYO ,4,5,14.4,99,15,-1.73,-2.22,-0.57,Gizi Baik,Stunting
+Balita 727,L ,11/05/18,ARYADI ,TLOGOMULYO ,2,4,12.8,96.2,,-2.54,-2.66,-1.44,Gizi Baik,Stunting
+Balita 728,P ,14/11/18,KASMURI ,TLOGOMULYO ,3,7,12.2,95,14.5,-2.28,-2.11,-1.48,Gizi Baik,Stunting
+Balita 729,P ,01/01/19,lukman mutalib ,TLOGOSARI WETAN ,9,2,11.4,89.7,,-2.7,-3.14,-1.12,Gizi Baik,Stunting
+Balita 730,L ,23/02/19,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,12.1,91.2,15,-2.38,-2.86,-1.07,Gizi Baik,Stunting
+Balita 731,L ,20/05/20,REMI YONO ,TLOGOSARI WETAN ,8,2,10.2,85.3,14.9,-2.53,-2.39,-1.77,Gizi Baik,Stunting
+Balita 732,L ,28/05/20,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,10,86,16,-2.69,-2.18,-2.23,Gizi Kurang,Stunting
+Balita 733,P ,10/11/20,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,10.8,78.8,,-0.89,-2.75,0.86,Gizi Baik,Stunting
+Balita 734,L ,19/11/20,fatchur ,TLOGOSARI WETAN ,8,3,9,80,14,-2.98,-2.92,-2.01,Gizi Kurang,Stunting
+Balita 735,P ,05/10/18,m abid ,TLOGOSARI WETAN ,8,3,10.9,92,15,-3.27,-2.96,-2.17,Gizi Kurang,Stunting
+Balita 736,L ,21/10/19,ALEX ISTIYANTO ,TLOGOSARI WETAN ,5,2,11.3,88,15.6,-2.29,-2.68,-1.18,Gizi Baik,Stunting
+Balita 737,P ,25/08/21,chorus ,TLOGOSARI WETAN ,7,2,7.9,71,13,-2.06,-3.16,-0.64,Gizi Baik,Stunting
+Balita 738,P ,10/03/21,erik ,TLOGOSARI WETAN ,3,2,7.75,78,12,-3.17,-2.34,-2.62,Gizi Kurang,Stunting
+Balita 739,P ,08/05/19,YUSUF ,TLOGOSARI WETAN ,3,2,11.8,89.5,16,-2.12,-2.74,-0.67,Gizi Baik,Stunting
+Balita 740,L ,25/10/21,yudi iswanto ,TLOGOSARI WETAN ,2,3,7.5,72,14,-2.97,-3.03,-2.09,Gizi Kurang,Stunting
+Balita 741,L ,25/02/21,WAHYUNI/SUSANTO ,TLOGOSARI WETAN ,2,3,8.2,78.6,13.3,-3.37,-2.94,-2.72,Gizi Kurang,Stunting
+Balita 742,L ,20/10/21,VEBRU ADRIANTO ,TLOGOSARI WETAN ,3,1,10,73,17,-0.37,-2.62,1.14,Resiko Gizi Lebih,Stunting
+Balita 743,P ,24/05/19,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,13.5,92,15.5,-1.02,-2.09,0.3,Gizi Baik,Stunting
+Balita 744,P ,17/03/21,MUHAMAD ADIB ,PALEBON ,8,3,7.9,75,0,-2.98,-3.25,-1.68,Gizi Baik,Stunting
+Balita 745,L ,22/01/19,EKO SETIAWAN ,PALEBON ,3,11,14,93,0,-1.26,-2.52,0.37,Gizi Baik,Stunting
+Balita 746,L ,18/01/20,ANDRIYANTO ,PALEBON ,6,1,10,86.4,14.2,-3.08,-2.73,-2.34,Gizi Kurang,Stunting
+Balita 747,L ,21/08/18,TRI CIPTO SURYO NUSWANTORO ,PALEBON ,2,1,12.15,94.4,14.5,-2.76,-2.75,-1.73,Gizi Baik,Stunting
+Balita 748,P ,09/05/18,feru cahyanto ,PALEBON ,3,1,13.95,95.6,14.2,-1.71,-2.64,-0.07,Gizi Baik,Stunting
+Balita 749,L ,27/09/20,subakti ghufron ,PALEBON ,7,1,8.8,82.6,12.8,-3.33,-2.43,-2.95,Gizi Kurang,Stunting
+Balita 750,P ,12/12/21,SUROTO ,PALEBON ,7,1,7.5,70.6,0,-1.85,-2.11,-1.12,Gizi Baik,Stunting
+Balita 751,P ,26/10/20,NUR RAKHIM ,PALEBON ,4,1,8.8,81.7,0,-2.73,-2.02,-2.17,Gizi Kurang,Stunting
+Balita 752,P ,31/03/19,MISKUN ,PALEBON ,1,1,13.4,93,15.4,-1.21,-2.05,0.01,Gizi Baik,Stunting
+Balita 753,L ,27/02/20,ROBERTUS ,PALEBON ,2,2,10.25,84.7,13.5,-2.74,-2.97,-1.55,Gizi Baik,Stunting
+Balita 754,L ,15/10/20,ADIYANTO ,PALEBON ,1,6,9.4,77,15,-2.71,-4.02,-0.79,Gizi Baik,Stunting
+Balita 755,P ,22/12/19,ZUBAIDI ,PALEBON ,1,7,8.25,81.5,11.6,-4.25,-3.76,-2.9,Gizi Kurang,Stunting
+Balita 756,L ,19/09/19,SURADI ,PALEBON ,4,7,11.95,90.9,0,-1.92,-2.07,-1.16,Gizi Baik,Stunting
+Balita 757,P ,30/06/19,ARIF B. ,PALEBON ,2,2,12.15,88.5,15.2,-1.72,-2.75,-0.11,Gizi Baik,Stunting
+Balita 758,P ,21/06/19,eko nugroho ,PALEBON ,2,7,11.3,87.6,0,-2.35,-3.03,-0.73,Gizi Baik,Stunting
+Balita 759,P ,24/11/22,SABAMSAHAT ,PEDURUNGAN KIDUL ,4,10,4.52,52.5,11.5,-1.39,-2.73,1.55,Resiko Gizi Lebih,Stunting
+Balita 760,L ,22/11/21,BAGUS ARDI SAPUTRA ,PEDURUNGAN KIDUL ,7,5,7.5,70.5,13.1,-2.82,-3.32,-1.61,Gizi Baik,Stunting
+Balita 761,P ,02/11/21,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,7.73,72,14,-1.87,-2.12,-1.16,Gizi Baik,Stunting
+Balita 762,L ,11/01/20,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,10.95,87.5,14,-2.34,-2.46,-1.46,Gizi Baik,Stunting
+Balita 763,P ,10/06/20,YULI TRIYADI ,PEDURUNGAN KIDUL ,8,5,10.55,80.3,15,-1.77,-3.29,0.27,Gizi Baik,Stunting
+Balita 764,P ,10/06/20,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,9.9,79.2,14.8,-2.31,-3.59,-0.19,Gizi Baik,Stunting
+Balita 765,L ,26/08/19,ROCHMAT CATUR RIVAI ,PEDURUNGAN KIDUL ,2,5,10.9,90.1,0,-2.76,-2.4,-2.17,Gizi Kurang,Stunting
+Balita 766,L ,13/07/19,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,11.3,90.7,14,-2.58,-2.44,-1.84,Gizi Baik,Stunting
+Balita 767,L ,17/07/18,ANGGIT ,PEDURUNGAN KIDUL ,2,7,10.1,89.6,0,-4.12,-3.95,-3.06,Gizi Buruk,Stunting
+Balita 768,L ,10/02/23,IWAN S. ,PEDURUNGAN KIDUL ,4,8,3.1,47,,-1.01,-2.07,0.75,Gizi Baik,Stunting
+Balita 769,L ,19/02/23,REVI K. ,PEDURUNGAN KIDUL ,4,8,2.7,48,,-2.65,-2.29,-1.48,Gizi Baik,Stunting
+Balita 770,P ,04/09/21,BAGUS A. ,PEDURUNGAN KIDUL ,4,8,7.4,73,14,-2.62,-2.43,-1.94,Gizi Baik,Stunting
+Balita 771,L ,23/06/21,FATUR ,PEDURUNGAN KIDUL ,4,8,8.5,76.3,14,-2.53,-2.74,-1.71,Gizi Baik,Stunting
+Balita 772,L ,10/04/21,ANDRIANTO EKO PUTRO ,PEDURUNGAN KIDUL ,1,10,8.7,69.5,0,-2.67,-5.65,0.55,Gizi Baik,Stunting
+Balita 773,L ,27/09/20,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,10.5,84,15.5,-1.86,-2.06,-1.05,Gizi Baik,Stunting
+Balita 774,P ,25/08/20,FATHUN NIAM ,PEDURUNGAN KIDUL ,5,1,10.5,81.5,0,-1.48,-2.48,-0.06,Gizi Baik,Stunting
+Balita 775,P ,30/11/19,HESTI ,PEDURUNGAN KIDUL ,6,2,11.7,86.2,14.5,-1.6,-2.69,0,Gizi Baik,Stunting
+Balita 776,L ,17/08/19,SEPTIANA ,PEDURUNGAN KIDUL ,5,2,13.5,91.5,14,-1.01,-2.06,0.24,Gizi Baik,Stunting
+Balita 777,L ,21/02/23,EDHO ANGGIE SAPUTRA ,PEDURUNGAN KIDUL ,8,1,2,46,,-4.46,-3.47,-3.55,Gizi Buruk,Stunting
+Balita 778,L ,24/03/22,suharwanto ,PEDURUNGAN KIDUL ,4,1,3,47,,-2.35,-3.17,0.39,Gizi Baik,Stunting
+Balita 779,L ,27/03/22,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,3.1,49,,-2.36,-2.35,-0.6,Gizi Baik,Stunting
+Balita 780,P ,27/12/18,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,11,87,0,-2.12,-2.52,-0.89,Gizi Baik,Stunting
+Balita 781,L ,29/04/20,EVITA ,PEDURUNGAN KIDUL ,3,2,9.3,79.3,,-2.12,-2.39,-1.27,Gizi Baik,Stunting
+Balita 782,P ,02/09/21,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,5.9,61,,-1.84,-2.23,-0.42,Gizi Baik,Stunting
+Balita 783,L ,28/10/21,AGUNG ,PEDURUNGAN KIDUL ,3,2,6.5,59,,-0.91,-2.71,1.52,Resiko Gizi Lebih,Stunting
+Balita 784,L ,29/03/22,HERI SULISTIYONO ,PEDURUNGAN KIDUL ,7,2,3,49,,-2.74,-2.48,-0.97,Gizi Baik,Stunting
+Balita 785,P ,17/05/18,KHOIRUN ,PEDURUNGAN KIDUL ,1,7,11,84,0,-2.76,-4.15,-0.15,Gizi Baik,Stunting
+Balita 786,L ,18/01/18,DEVYAN APRILIYANTO ,PEDURUNGAN KIDUL ,3,1,14,95,0,-1.37,-2.21,-0.05,Gizi Baik,Stunting
+Balita 787,L ,08/06/18,BOGI WICAKSONO ,PEDURUNGAN KIDUL ,6,10,11,93,0,-2.98,-2.15,-2.73,Gizi Kurang,Stunting
+Balita 788,L ,20/10/18,edy darmawan  ,PEDURUNGAN KIDUL ,6,1,12,90,16,-1.92,-2.35,-0.9,Gizi Baik,Stunting
+Balita 789,L ,08/11/18,PRIYO PRAMONO / SULASTRI ,PEDURUNGAN LOR ,4,7,12,90,16,-1.86,-2.27,-0.9,Gizi Baik,Stunting
+Balita 790,L ,02/03/20,agung ,PEDURUNGAN LOR ,6,7,9,80,0,-2.7,-2.46,-2.0,Gizi Kurang,Stunting
+Balita 791,L ,12/09/19,AGUS IKWANTO / SURTIANINGSIH ,PEDURUNGAN LOR ,7,3,10,84,0,-2.46,-2.36,-1.67,Gizi Baik,Stunting
+Balita 792,L ,24/01/20,YUDIARTO ,PEDURUNGAN LOR ,1,8,12,82,0,-0.36,-2.1,1.06,Resiko Gizi Lebih,Stunting
+Balita 793,L ,25/02/20,FADIL ASROR ,PEDURUNGAN LOR ,1,7,9,80,0,-2.73,-2.5,-2.0,Gizi Kurang,Stunting
+Balita 794,L ,05/04/20,JIMAN ,PEDURUNGAN LOR ,5,1,10,81,0,-1.63,-2.09,-0.75,Gizi Baik,Stunting
+Balita 795,P ,22/08/21,rafi ,PEDURUNGAN LOR ,2,8,6,60,0,-1.96,-3.07,0.23,Gizi Baik,Stunting
+Balita 796,L ,08/08/19,nur fitri ,PEDURUNGAN LOR ,1,8,9,84,0,-3.44,-2.56,-3.04,Gizi Buruk,Stunting
+Balita 797,L ,05/05/20,arif ,PEDURUNGAN LOR ,5,1,10,80,0,-1.45,-2.11,-0.53,Gizi Baik,Stunting
+Balita 798,P ,02/02/20,sukimin ,PEDURUNGAN TENGAH ,2,11,10,75,0,-1.32,-3.8,0.97,Gizi Baik,Stunting
+Balita 799,P ,12/07/17,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,14,80,0,-1.6,-5.91,3.33,Obesitas,Stunting
+Balita 800,L ,22/02/18,ROY ,PEDURUNGAN TENGAH ,5,1,10,80,0,-3.87,-5.61,-0.68,Gizi Baik,Stunting
+Balita 801,L ,04/04/19,didik tri ariyanto ,PEDURUNGAN TENGAH ,8,9,11,86,0,-2.14,-2.8,-0.81,Gizi Baik,Stunting
+Balita 802,P ,14/11/18,SAEFUL ,PEDURUNGAN TENGAH ,3,10,10,90,0,-3.03,-2.1,-2.59,Gizi Kurang,Stunting
+Balita 803,L ,24/03/22,ASWANDI ,PEDURUNGAN TENGAH ,1,15,3,49,,-2.35,-2.13,-0.97,Gizi Baik,Stunting
+Balita 804,L ,28/03/22,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,2.9,48,,-2.89,-2.93,-0.66,Gizi Baik,Stunting
+Balita 805,L ,08/04/18,DICKY APRILIATMIKO SETYAWAN ,PEDURUNGAN TENGAH ,1,15,12.8,93.3,,-1.88,-2.29,-0.82,Gizi Baik,Stunting
+Balita 806,L ,15/03/21,RUBIATUN ,PENGGARON KIDUL ,2,1,9.8,70.2,,0.17,-2.27,1.73,Resiko Gizi Lebih,Stunting
+Balita 807,L ,26/03/22,MUHAMMAD TASHIL ,PENGGARON KIDUL ,6,1,3,48,,-2.51,-2.79,-0.27,Gizi Baik,Stunting
+Balita 808,L ,18/03/22,PRIHATIN ,PENGGARON KIDUL ,7,1,2.8,48,,-2.33,-2.21,-1.06,Gizi Baik,Stunting
+Balita 809,P ,29/04/19,ARIF RHAHMAN CHAKIM ,PENGGARON KIDUL ,7,1,7,65.9,13,-1.66,-2.4,-0.44,Gizi Baik,Stunting
+Balita 810,L ,03/07/21,Nur Rofik ,PENGGARON KIDUL ,5,2,7,64.5,13.5,-1.93,-2.85,-0.25,Gizi Baik,Stunting
+Balita 811,P ,08/02/18,Muhamad Bukhori ,PENGGARON KIDUL ,1,2,13,95,0,-1.66,-2.08,-0.6,Gizi Baik,Stunting
+Balita 812,P ,02/05/17,sutono ,PENGGARON KIDUL ,5,2,14.2,91,,-1.65,-3.73,1.06,Resiko Gizi Lebih,Stunting
+Balita 813,L ,23/07/19,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,11,88,16,-2.83,-3.33,-1.34,Gizi Baik,Stunting
+Balita 814,P ,26/04/21,Sabarudin ,PENGGARON KIDUL ,7,2,7.3,76,12.5,-3.58,-2.87,-2.87,Gizi Kurang,Stunting
+Balita 815,L ,08/10/20,khoirun ,PENGGARON KIDUL ,3,4,9.2,82,12,-3.05,-2.96,-2.03,Gizi Kurang,Stunting
+Balita 816,P ,12/07/18,ZAENAL KUMAIDI ,PENGGARON KIDUL ,3,5,12,91,16,-2.78,-3.54,-0.82,Gizi Baik,Stunting
+Balita 817,P ,05/05/20,hasan anwar ,PENGGARON KIDUL ,1,6,11,82,15,-1.66,-3.16,0.34,Gizi Baik,Stunting
+Balita 818,L ,22/08/18,a. toyib ,PENGGARON KIDUL ,8,3,12,93.5,14.5,-2.91,-3.04,-1.69,Gizi Baik,Stunting
+Balita 819,L ,09/09/19,Muh Rosidi ,PENGGARON KIDUL ,2,3,10,85,15,-3.47,-3.76,-1.95,Gizi Baik,Stunting
+Balita 820,L ,01/07/19,MUHAMAD JAMALLUDIN ,PENGGARON KIDUL ,1,3,10.5,92,16,-3.27,-2.27,-3.12,Gizi Buruk,Stunting
+Balita 821,P ,18/07/19,ZAKUL ,PLAMONGAN SARI ,,3,10.6,87,14,-2.88,-3.18,-1.33,Gizi Baik,Stunting
+Balita 822,P ,04/03/22,HENDRA ,PLAMONGAN SARI ,,3,5.8,63,14,-3.62,-4.27,-1.48,Gizi Baik,Stunting
+Balita 823,P ,30/09/20,saekhudin ,PLAMONGAN SARI ,3,2,8.5,76.5,12.5,-3.29,-3.91,-1.33,Gizi Baik,Stunting
+Balita 824,L ,02/03/20,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,11.4,87,16,-1.91,-2.46,-0.81,Gizi Baik,Stunting
+Balita 825,L ,21/11/19,handoyo ,PLAMONGAN SARI ,3,11,10,88,15,-3.28,-2.66,-2.78,Gizi Kurang,Stunting
+Balita 826,L ,04/12/20,NADHIF ,PLAMONGAN SARI ,1,3,8.3,78,14,-3.67,-3.63,-2.58,Gizi Kurang,Stunting
+Balita 827,L ,31/03/21,anton swarsono ,PLAMONGAN SARI ,2,13,9.4,80.5,,-2.19,-2.29,-1.41,Gizi Baik,Stunting
+Balita 828,L ,24/06/21,erina ,PLAMONGAN SARI ,2,11,9.3,79,,-1.89,-2.07,-1.21,Gizi Baik,Stunting
+Balita 829,L ,31/03/22,IKA PUTRI UTAMI ,PLAMONGAN SARI ,1,14,6.8,67.5,,-3.07,-3.28,-1.8,Gizi Baik,Stunting
+Balita 830,L ,22/06/20,winda sulistyaningsih ,TLOGOMULYO ,3,2,9.9,85.9,,-2.78,-2.23,-2.33,Gizi Kurang,Stunting
+Balita 831,L ,08/08/20,SURYA N ,TLOGOMULYO ,7,7,10.4,85.2,,-2.21,-2.17,-1.5,Gizi Baik,Stunting
+Balita 832,L ,21/01/21,asroh ,TLOGOMULYO ,4,5,13.5,81.5,0,0.69,-2.21,2.52,Gizi Lebih,Stunting
+Balita 833,P ,10/03/21,ARYADI ,TLOGOMULYO ,2,4,7.95,79,,-3.09,-2.25,-2.55,Gizi Kurang,Stunting
+Balita 834,P ,25/08/21,KASMURI ,TLOGOMULYO ,3,7,8.1,71.5,13,-2.01,-3.26,-0.49,Gizi Baik,Stunting
+Balita 835,L ,22/02/22,purnadi ,TLOGOMULYO ,5,6,7.2,71,,-2.72,-2.14,-2.3,Gizi Kurang,Stunting
+Balita 836,L ,28/03/18,NIKEN PRATIWI ,TLOGOMULYO ,3,4,15,100,15.5,-1.47,-2.09,-0.29,Gizi Baik,Stunting
+Balita 837,L ,11/05/18,WIDOWATI ,TLOGOMULYO ,3,4,13,97.2,,-2.49,-2.56,-1.46,Gizi Baik,Stunting
+Balita 838,P ,05/10/18,lukman mutalib ,TLOGOSARI WETAN ,9,2,10.9,93,13,-3.31,-2.8,-2.39,Gizi Kurang,Stunting
+Balita 839,P ,01/01/19,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,11.6,90.7,,-2.65,-3.04,-1.14,Gizi Baik,Stunting
+Balita 840,L ,23/02/19,ALEX ISTIYANTO ,TLOGOSARI WETAN ,5,2,12.3,92.2,,-2.3,-2.71,-1.08,Gizi Baik,Stunting
+Balita 841,L ,21/10/19,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,11.5,89,,-2.24,-2.56,-1.2,Gizi Baik,Stunting
+Balita 842,L ,20/05/20,REMI YONO ,TLOGOSARI WETAN ,8,2,10.6,86.6,14.8,-2.29,-2.17,-1.64,Gizi Baik,Stunting
+Balita 843,L ,28/05/20,YUSUF ,TLOGOSARI WETAN ,3,2,10.2,87,,-2.61,-2.05,-2.25,Gizi Kurang,Stunting
+Balita 844,P ,10/11/20,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,11,79.8,,-0.91,-2.7,0.84,Gizi Baik,Stunting
+Balita 845,L ,19/11/20,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,9.2,81,,-2.9,-2.79,-1.96,Gizi Baik,Stunting
+Balita 846,L ,22/01/19,VEBRU ADRIANTO ,TLOGOSARI WETAN ,3,1,14,94,0,-1.33,-2.38,0.16,Gizi Baik,Stunting
+Balita 847,P ,08/05/19,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,12,90,16,-2.06,-2.74,-0.59,Gizi Baik,Stunting
+Balita 848,L ,25/10/21,feru cahyanto ,PALEBON ,3,1,8.5,73,16,-2.01,-2.96,-0.82,Gizi Baik,Stunting
+Balita 849,L ,25/02/21,FENDI ANDREAS HANAFI ,PALEBON ,4,1,8.2,78.6,13.5,-3.49,-3.16,-2.72,Gizi Kurang,Stunting
+Balita 850,P ,17/03/21,SONY N. ,PALEBON ,1,2,8,75,13,-3.01,-3.46,-1.53,Gizi Baik,Stunting
+Balita 851,L ,27/02/20,ZUBAIDI ,PALEBON ,1,7,10.45,85.7,13.5,-2.66,-2.83,-1.57,Gizi Baik,Stunting
+Balita 852,P ,26/10/20,SUROTO ,PALEBON ,7,1,9,82.2,0,-2.66,-2.06,-2.03,Gizi Kurang,Stunting
+Balita 853,L ,15/10/20,EKO SETIAWAN ,PALEBON ,3,11,9.6,78,15,-2.64,-3.87,-0.75,Gizi Baik,Stunting
+Balita 854,L ,27/09/20,ponco wahyudi ,PEDURUNGAN KIDUL ,4,1,9,83.6,12.8,-3.24,-2.31,-2.93,Gizi Kurang,Stunting
+Balita 855,L ,18/01/20,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,10.2,86.5,14.2,-3,-2.83,-2.11,Gizi Kurang,Stunting
+Balita 856,P ,22/12/19,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,8.57,82.5,13,-4.06,-3.63,-2.7,Gizi Kurang,Stunting
+Balita 857,P ,21/06/19,AGUNG ,PEDURUNGAN KIDUL ,3,2,11.5,88.6,0,-2.28,-2.9,-0.76,Gizi Baik,Stunting
+Balita 858,P ,30/06/19,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,12.8,89.5,15.2,-1.39,-2.62,0.25,Gizi Baik,Stunting
+Balita 859,L ,21/08/18,IWAN S. ,PEDURUNGAN KIDUL ,4,8,12.35,94.4,14.5,-2.69,-2.84,-1.52,Gizi Baik,Stunting
+Balita 860,P ,09/05/18,REVI K. ,PEDURUNGAN KIDUL ,4,8,13.5,95.6,16,-2.01,-2.73,-0.44,Gizi Baik,Stunting
+Balita 861,L ,10/02/23,FATUR ,PEDURUNGAN KIDUL ,4,8,4.1,50,0,-0.46,-2.26,2.26,Gizi Lebih,Stunting
+Balita 862,P ,24/11/22,ANDRIANTO EKO PUTRO ,PEDURUNGAN KIDUL ,1,10,5.52,55.5,11.5,-0.69,-2.35,1.75,Resiko Gizi Lebih,Stunting
+Balita 863,L ,22/11/21,SABAMSAHAT ,PEDURUNGAN KIDUL ,4,10,6.93,70.9,12,-3.63,-3.48,-2.76,Gizi Kurang,Stunting
+Balita 864,P ,02/11/21,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,7.78,72.5,13,-1.98,-2.26,-1.22,Gizi Baik,Stunting
+Balita 865,P ,10/06/20,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,10.8,82.5,15.5,-1.68,-2.84,0.01,Gizi Baik,Stunting
+Balita 866,P ,10/06/20,FATHUN NIAM ,PEDURUNGAN KIDUL ,5,1,10.1,80.6,14.8,-2.25,-3.35,-0.29,Gizi Baik,Stunting
+Balita 867,L ,11/01/20,HESTI ,PEDURUNGAN KIDUL ,6,2,10.6,87.2,14.5,-2.69,-2.67,-1.8,Gizi Baik,Stunting
+Balita 868,L ,26/08/19,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,11.1,90.3,0,-2.69,-2.47,-1.98,Gizi Baik,Stunting
+Balita 869,L ,13/07/19,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,11.75,92.1,15,-2.33,-2.2,-1.65,Gizi Baik,Stunting
+Balita 870,P ,29/06/19,ROCHMAT CATUR RIVAI ,PEDURUNGAN KIDUL ,2,5,10.5,91.4,13.5,-3.02,-2.2,-2.49,Gizi Kurang,Stunting
+Balita 871,P ,01/04/18,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,9.08,92.6,12.5,-4.74,-3.48,-4.38,Gizi Buruk,Stunting
+Balita 872,L ,21/09/18,MUHAMMAD TAQWA P.S ,PEDURUNGAN KIDUL ,3,1,11.25,86.6,15,-3.33,-4.51,-0.87,Gizi Baik,Stunting
+Balita 873,L ,17/07/18,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,10.1,89.6,12.8,-4.16,-4.03,-3.06,Gizi Buruk,Stunting
+Balita 874,L ,17/08/19,FAIZA NIKEN ,PEDURUNGAN KIDUL ,7,2,14.1,91.5,16.5,-0.73,-2.18,0.78,Gizi Baik,Stunting
+Balita 875,P ,30/11/19,FADIL ASROR ,PEDURUNGAN LOR ,1,7,11.5,86.5,15.5,-1.82,-2.75,-0.26,Gizi Baik,Stunting
+Balita 876,L ,19/03/20,YUDIARTO ,PEDURUNGAN LOR ,1,8,10.6,86.5,14.5,-2.48,-2.51,-1.61,Gizi Baik,Stunting
+Balita 877,P ,25/08/20,RUBIYANTO ,PEDURUNGAN LOR ,2,5,10.8,82.5,0,-1.36,-2.37,0.01,Gizi Baik,Stunting
+Balita 878,L ,09/11/20,AGUS SUTRISNO ,PEDURUNGAN LOR ,8,1,9.1,78.4,0,-3.04,-3.66,-1.5,Gizi Baik,Stunting
+Balita 879,L ,10/04/21,TERRY OCTA MARENDRA ,PEDURUNGAN TENGAH ,2,15,9,69.1,0,-2.5,-5.96,1.09,Resiko Gizi Lebih,Stunting
+Balita 880,L ,23/06/21,sukimin ,PEDURUNGAN TENGAH ,2,11,8.8,77.3,0,-2.36,-2.64,-1.51,Gizi Baik,Stunting
+Balita 881,P ,04/09/21,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,7.7,74,0,-2.42,-2.35,-1.73,Gizi Baik,Stunting
+Balita 882,L ,23/07/19,ROY ,PEDURUNGAN TENGAH ,5,1,10,86,15.5,-2.71,-2.41,-2.03,Gizi Kurang,Stunting
+Balita 883,P ,18/07/19,SAEFUL ,PEDURUNGAN TENGAH ,3,10,8.9,81,13.2,-3.29,-3.21,-1.85,Gizi Baik,Stunting
+Balita 884,L ,18/06/21,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,7.9,68,0,-1.54,-2.68,-0.1,Gizi Baik,Stunting
+Balita 885,P ,13/11/19,ASWANDI ,PEDURUNGAN TENGAH ,1,15,9.1,82,46,-2.66,-2.26,-1.84,Gizi Baik,Stunting
+Balita 886,L ,02/03/20,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,10.2,80,,-1.7,-2.84,-0.29,Gizi Baik,Stunting
+Balita 887,L ,16/01/20,anisah ,PEDURUNGAN TENGAH ,1,13,11.7,82,0,-0.77,-2.41,0.76,Gizi Baik,Stunting
+Balita 888,P ,13/09/19,siti yuliyati ,PEDURUNGAN TENGAH ,7,13,12,83,0,-0.62,-2.43,1.05,Resiko Gizi Lebih,Stunting
+Balita 889,L ,19/12/19,nova triana adriati ,PEDURUNGAN TENGAH ,4,13,12.4,82,0,-0.38,-2.59,1.45,Resiko Gizi Lebih,Stunting
+Balita 890,L ,23/09/19,hasan anwar ,PENGGARON KIDUL ,1,6,12.7,83,0,-0.51,-2.8,1.5,Resiko Gizi Lebih,Stunting
+Balita 891,P ,06/07/19,Dwi setiawan ,PENGGARON KIDUL ,4,6,12.4,84,0,-0.62,-2.54,1.17,Resiko Gizi Lebih,Stunting
+Balita 892,P ,18/01/19,Sony Setiawan  ,PENGGARON KIDUL ,3,2,12.3,83,0,-1.26,-3.6,1.32,Resiko Gizi Lebih,Stunting
+Balita 893,P ,10/10/19,Nur Rofik ,PENGGARON KIDUL ,5,2,12.6,83,0,-0.13,-2.27,1.58,Resiko Gizi Lebih,Stunting
+Balita 894,P ,04/02/21,Muhamad Bukhori ,PENGGARON KIDUL ,1,2,9.4,68,0,-0.1,-3.34,2.05,Gizi Lebih,Stunting
+Balita 895,L ,20/05/20,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,11.6,74,0,-0.29,-4.12,2.39,Gizi Lebih,Stunting
+Balita 896,P ,25/06/20,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,11,73,0,-0.04,-3.49,2.25,Gizi Lebih,Stunting
+Balita 897,L ,10/01/20,MUHAMMAD TASHIL ,PENGGARON KIDUL ,6,1,11.4,74.1,0,-1.01,-5.08,2.35,Gizi Lebih,Stunting
+Balita 898,P ,15/01/20,ARIF RHAHMAN CHAKIM ,PENGGARON KIDUL ,7,1,11.7,73.9,0,-0.31,-4.51,2.83,Gizi Lebih,Stunting
+Balita 899,P ,24/02/20,Sabarudin ,PENGGARON KIDUL ,7,2,11.5,73,0,-0.27,-4.54,2.85,Gizi Lebih,Stunting
+Balita 900,P ,18/03/20,ZAENAL KUMAIDI ,PENGGARON KIDUL ,3,5,11.4,73,0,-0.23,-4.4,2.77,Gizi Lebih,Stunting
+Balita 901,L ,27/03/20,a. toyib ,PENGGARON KIDUL ,8,3,11.9,74.1,0,-0.31,-4.66,2.83,Gizi Lebih,Stunting
+Balita 902,L ,01/05/20,khoirun ,PENGGARON KIDUL ,3,4,11.7,73.6,0,-0.3,-4.6,2.77,Gizi Lebih,Stunting
+Balita 903,L ,01/05/20,Muh Rosidi ,PENGGARON KIDUL ,2,3,11.4,73.2,0,-0.52,-4.74,2.58,Gizi Lebih,Stunting
+Balita 904,L ,15/07/20,MUHAMAD JAMALLUDIN ,PENGGARON KIDUL ,1,3,12,73.2,0,0.3,-4.22,3.16,Obesitas,Stunting
+Balita 905,L ,23/07/20,sumaryanto ,PLAMONGAN SARI ,2,2,11.9,73.1,0,0.26,-4.19,3.09,Obesitas,Stunting
+Balita 906,L ,05/08/20,HENDRA ,PLAMONGAN SARI ,,3,11,74.2,0,-0.37,-3.71,1.92,Resiko Gizi Lebih,Stunting
+Balita 907,L ,25/08/20,NADHIF ,PLAMONGAN SARI ,1,3,11.6,72.9,0,0.21,-4,2.86,Gizi Lebih,Stunting
+Balita 908,P ,30/09/20,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,12.7,73.4,0,1.59,-2.74,3.84,Obesitas,Stunting
+Balita 909,P ,07/10/20,handoyo ,PLAMONGAN SARI ,3,11,12,73.2,0,1.18,-2.74,3.25,Obesitas,Stunting
+Balita 910,P ,27/10/20,anton swarsono ,PLAMONGAN SARI ,2,13,11.8,73.7,0,1.16,-2.37,2.96,Gizi Lebih,Stunting
+Balita 911,L ,15/12/20,SUPRIYADI ,PLAMONGAN SARI ,3,12,11.2,73.6,0,0.52,-2.65,2.28,Gizi Lebih,Stunting
+Balita 912,L ,01/01/21,ade saputra ,TLOGOMULYO ,5,6,10.2,71.3,0,-0.23,-3.35,1.86,Resiko Gizi Lebih,Stunting
+Balita 913,P ,04/03/21,SURYA N ,TLOGOMULYO ,7,7,10.2,68.7,0,0.73,-2.74,2.69,Gizi Lebih,Stunting
+Balita 914,P ,30/03/21,asroh ,TLOGOMULYO ,4,5,9.5,68,0,0.32,-2.67,2.16,Gizi Lebih,Stunting
+Balita 915,L ,28/04/21,ARYADI ,TLOGOMULYO ,2,4,9.1,65.3,0,-0.5,-4.34,2.52,Gizi Lebih,Stunting
+Balita 916,P ,03/05/21,KASMURI ,TLOGOMULYO ,3,7,9.4,64.2,0,0.46,-3.69,3.22,Obesitas,Stunting
+Balita 917,P ,06/05/21,ALEX ISTIYANTO ,TLOGOSARI WETAN ,5,2,9.5,64.3,0,0.57,-3.61,3.3,Obesitas,Stunting
+Balita 918,P ,13/04/22,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,2.6,45,,-1.47,-2.23,0.6,Gizi Baik,Stunting
+Balita 919,P ,20/05/18,REMI YONO ,TLOGOSARI WETAN ,8,2,15,91,,-0.4,-2.57,1.65,Resiko Gizi Lebih,Stunting
+Balita 920,L ,13/11/20,YUSUF ,TLOGOSARI WETAN ,3,2,8.5,75,0,-2.07,-2.32,-1.37,Gizi Baik,Stunting
+Balita 921,L ,21/01/21,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,8.2,72,,-2,-2.67,-0.96,Gizi Baik,Stunting
+Balita 922,L ,10/10/18,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,12.1,90,,-1.93,-2.66,-0.63,Gizi Baik,Stunting
+Balita 923,L ,16/07/20,VEBRU ADRIANTO ,TLOGOSARI WETAN ,3,1,11.5,78,,-0.01,-2.43,1.55,Resiko Gizi Lebih,Stunting
+Balita 924,L ,09/08/19,M. RIZKA MAFAZA/NOVIKA ,TLOGOSARI WETAN ,6,4,12,84,0,-1.14,-2.75,0.59,Gizi Baik,Stunting
+Balita 925,P ,16/02/19,OKI HERMAWAN ,PALEBON ,2,4,12,83,0,-1.36,-3.48,1.05,Resiko Gizi Lebih,Stunting
+Balita 926,L ,18/08/19,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,11.9,84,0,-1.19,-2.71,0.49,Gizi Baik,Stunting
+Balita 927,P ,07/10/20,FENDI ANDREAS HANAFI ,PALEBON ,4,1,11,73.7,0,0.5,-2.57,2.25,Gizi Lebih,Stunting
+Balita 928,L ,14/12/20,SONY N. ,PALEBON ,1,2,11,74.2,0,0.35,-2.43,1.92,Resiko Gizi Lebih,Stunting
+Balita 929,L ,11/06/21,ZUBAIDI ,PALEBON ,1,7,8.5,61,0,-0.79,-5.56,3.53,Obesitas,Stunting
+Balita 930,L ,13/11/18,hadi sucipto ,PALEBON ,7,1,12.7,92,0,-1.44,-2.01,-0.48,Gizi Baik,Stunting
+Balita 931,P ,02/04/20,EKO SETIAWAN ,PALEBON ,3,11,10,80,0,-1.17,-2.05,-0.1,Gizi Baik,Stunting
+Balita 932,L ,03/12/21,HENDRATAMA ,PALEBON ,1,10,6,59,,-1.69,-2.83,0.59,Gizi Baik,Stunting
+Balita 933,L ,11/12/21,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,6,59,,-1.52,-2.59,0.59,Gizi Baik,Stunting
+Balita 934,L ,17/08/21,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,7,64,0,-1.81,-2.85,-0.04,Gizi Baik,Stunting
+Balita 935,L ,11/12/20,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,11.6,74,0,0.81,-2.28,2.39,Gizi Lebih,Stunting
+Balita 936,P ,11/03/19,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,12.3,84,0,-1.09,-3.12,1.09,Resiko Gizi Lebih,Stunting
+Balita 937,L ,05/06/21,REVI K. ,PEDURUNGAN KIDUL ,4,8,9.4,66,0,0.07,-3.5,2.64,Gizi Lebih,Stunting
+Balita 938,P ,23/04/20,ANDRIANTO EKO PUTRO ,PEDURUNGAN KIDUL ,1,10,11.5,73,0,0.01,-4.16,2.85,Gizi Lebih,Stunting
+Balita 939,P ,13/10/20,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,11.7,73.2,0,1.02,-2.69,2.98,Gizi Lebih,Stunting
+Balita 940,P ,13/10/20,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,11.4,73.4,0,0.81,-2.62,2.68,Gizi Lebih,Stunting
+Balita 941,P ,10/11/20,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,12,73.6,0,1.36,-2.26,3.16,Obesitas,Stunting
+Balita 942,L ,17/12/20,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,11.1,74.3,0,0.45,-2.36,2,Resiko Gizi Lebih,Stunting
+Balita 943,L ,27/05/21,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,9.3,63.4,0,-0.09,-4.74,3.51,Obesitas,Stunting
+Balita 944,P ,17/06/21,intan permatasari ,PEDURUNGAN KIDUL ,4,8,8.6,61.6,0,0.06,-4.1,3.27,Obesitas,Stunting
+Balita 945,P ,04/09/21,RUBIYANTO ,PEDURUNGAN LOR ,2,5,8,61.5,0,0.17,-2.86,2.58,Gizi Lebih,Stunting
+Balita 946,L ,27/04/22,YUDIARTO ,PEDURUNGAN LOR ,1,8,3,49,,-2.59,-2.35,-0.97,Gizi Baik,Stunting
+Balita 947,L ,26/04/22,FADIL ASROR ,PEDURUNGAN LOR ,1,7,3,49,,-2.51,-2.27,-0.97,Gizi Baik,Stunting
+Balita 948,L ,08/04/18,nova triana adriati ,PEDURUNGAN TENGAH ,4,13,13,95,,-1.82,-2.16,-0.84,Gizi Baik,Stunting
+Balita 949,L ,15/03/21,TERRY OCTA MARENDRA ,PEDURUNGAN TENGAH ,2,15,10,71.5,0,0.15,-2.17,1.57,Resiko Gizi Lebih,Stunting
+Balita 950,L ,25/04/22,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,3,49,,-2.43,-2.2,-0.97,Gizi Baik,Stunting
+Balita 951,L ,23/12/21,anisah ,PEDURUNGAN TENGAH ,1,13,6,59,,-1.23,-2.18,0.59,Gizi Baik,Stunting
+Balita 952,L ,17/07/18,ROY ,PEDURUNGAN TENGAH ,5,1,9.3,87,14,-4.16,-3.75,-3.26,Gizi Buruk,Stunting
+Balita 953,L ,21/09/18,SAEFUL ,PEDURUNGAN TENGAH ,3,10,9.8,79,12,-3.65,-5.5,-0.56,Gizi Baik,Stunting
+Balita 954,P ,21/03/18,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,12.2,93.5,15.9,-2.13,-2.22,-1.17,Gizi Baik,Stunting
+Balita 955,P ,29/06/19,ASWANDI ,PEDURUNGAN TENGAH ,1,15,8.7,82.3,0,-3.53,-2.95,-2.46,Gizi Kurang,Stunting
+Balita 956,L ,04/06/20,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,12.9,79.7,14.7,0.75,-2.29,2.5,Gizi Lebih,Stunting
+Balita 957,P ,01/04/18,hasan anwar ,PENGGARON KIDUL ,1,6,8.8,86.3,12.5,-4.46,-4.01,-3.2,Gizi Buruk,Stunting
+Balita 958,P ,10/02/20,Dwi setiawan ,PENGGARON KIDUL ,4,6,11.5,74,0,0.82,-2.29,2.49,Gizi Lebih,Stunting
+Balita 959,P ,13/05/21,Sony Setiawan  ,PENGGARON KIDUL ,3,2,9.7,67,0,0.78,-2.47,2.65,Gizi Lebih,Stunting
+Balita 960,L ,22/01/21,Nur Rofik ,PENGGARON KIDUL ,5,2,9.4,68,0,-0.85,-4.42,1.96,Resiko Gizi Lebih,Stunting
+Balita 961,L ,10/05/21,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,9.6,68,0,0.07,-3.04,2.2,Gizi Lebih,Stunting
+Balita 962,L ,02/01/20,Sabarudin ,PENGGARON KIDUL ,7,2,11.9,73,0,-0.68,-5.46,3.12,Obesitas,Stunting
+Balita 963,P ,06/03/20,a. toyib ,PENGGARON KIDUL ,8,3,11.7,73.6,0,-0.08,-4.29,2.9,Gizi Lebih,Stunting
+Balita 964,P ,18/04/20,khoirun ,PENGGARON KIDUL ,3,4,12,73.9,0,0.33,-3.92,3.09,Obesitas,Stunting
+Balita 965,L ,15/05/20,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,11.9,73.1,0,-0.08,-4.68,3.09,Obesitas,Stunting
+Balita 966,L ,03/07/20,NADHIF ,PLAMONGAN SARI ,1,3,12,72.9,0,0.23,-4.41,3.25,Obesitas,Stunting
+Balita 967,L ,13/07/20,anton swarsono ,PLAMONGAN SARI ,2,13,11.4,73.4,0,-0.17,-4.17,2.53,Gizi Lebih,Stunting
+Balita 968,P ,22/09/20,sumaryanto ,PLAMONGAN SARI ,2,2,11.5,73.7,0,0.77,-2.72,2.7,Gizi Lebih,Stunting
+Balita 969,P ,20/03/21,handoyo ,PLAMONGAN SARI ,3,11,9.9,68.5,0,0.59,-2.61,2.44,Gizi Lebih,Stunting
+Balita 970,P ,09/04/21,SUTARNO ,TLOGOMULYO ,2,7,9,65,0,-0.05,-3.69,2.51,Gizi Lebih,Stunting
+Balita 971,P ,16/04/21,winda sulistyaningsih ,TLOGOMULYO ,3,2,9.5,65.7,0,0.43,-3.33,2.83,Gizi Lebih,Stunting
+Balita 972,P ,17/04/21,ELY WISNU BAHTIAR ,TLOGOMULYO ,3,8,9,65.5,0,0,-3.4,2.35,Gizi Lebih,Stunting
+Balita 973,P ,29/04/21,ade saputra ,TLOGOMULYO ,5,6,9,65.5,0,0.08,-3.24,2.35,Gizi Lebih,Stunting
+Balita 974,P ,03/05/21,asroh ,TLOGOMULYO ,4,5,9,63.4,0,0.11,-4,3.05,Obesitas,Stunting
+Balita 975,P ,26/06/21,KASMURI ,TLOGOMULYO ,3,7,8.2,61.5,0,-0.26,-4.01,2.82,Gizi Lebih,Stunting
+Balita 976,L ,22/04/22,ARYADI ,TLOGOMULYO ,2,4,2.2,48,,-4.06,-2.51,-3.86,Gizi Buruk,Stunting
+Balita 977,P ,02/05/17,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,14.2,95,,-1.71,-2.97,0.24,Gizi Baik,Stunting
+Balita 978,L ,06/05/20,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,10,79,,-1.59,-2.68,-0.32,Gizi Baik,Stunting
+Balita 979,L ,09/09/19,YUWONO ,TLOGOSARI WETAN ,7,1,10,85,15,-3.54,-3.87,-1.95,Gizi Baik,Stunting
+Balita 980,P ,12/07/18,REMI YONO ,TLOGOSARI WETAN ,8,2,12.4,91,16,-2.6,-3.63,-0.44,Gizi Baik,Stunting
+Balita 981,L ,01/07/19,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,10.5,93,16,-3.32,-2.12,-3.34,Gizi Buruk,Stunting
+Balita 982,P ,26/04/21,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,7.3,76,12.5,-3.68,-3.05,-2.87,Gizi Kurang,Stunting
+Balita 983,L ,08/10/20,FERI SAFIQU A ,PALEBON ,8,3,9.5,83,13,-2.88,-2.84,-1.87,Gizi Baik,Stunting
+Balita 984,L ,22/08/18,hadi sucipto ,PALEBON ,7,1,12,94,15,-2.96,-3,-1.8,Gizi Baik,Stunting
+Balita 985,P ,05/05/20,OKI HERMAWAN ,PALEBON ,2,4,11,83,15,-1.74,-3.01,0.1,Gizi Baik,Stunting
+Balita 986,P ,30/09/20,FENDI ANDREAS HANAFI ,PALEBON ,4,1,8.5,76.5,12.5,-3.39,-4.06,-1.33,Gizi Baik,Stunting
+Balita 987,P ,04/03/22,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,5.7,64,14,-3.96,-4.32,-2.09,Gizi Kurang,Stunting
+Balita 988,L ,04/12/20,EKO SETIAWAN ,PALEBON ,3,11,8.3,78,14,-3.74,-3.77,-2.58,Gizi Kurang,Stunting
+Balita 989,L ,21/11/19,HENDRI RASMINTO ,PEDURUNGAN KIDUL ,3,1,9.9,88,13,-3.44,-2.81,-2.92,Gizi Kurang,Stunting
+Balita 990,L ,31/03/22,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,6.5,66,0,-3.54,-4.14,-1.79,Gizi Baik,Stunting
+Balita 991,L ,31/03/21,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,9.7,81.5,,-1.99,-2.09,-1.24,Gizi Baik,Stunting
+Balita 992,L ,22/06/20,ponco wahyudi ,PEDURUNGAN KIDUL ,4,1,10.1,86.4,,-2.7,-2.24,-2.21,Gizi Kurang,Stunting
+Balita 993,L ,08/08/20,REVI K. ,PEDURUNGAN KIDUL ,4,8,10.6,85.7,,-2.14,-2.18,-1.39,Gizi Baik,Stunting
+Balita 994,L ,22/02/22,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,7.5,72,,-2.54,-2.13,-2.09,Gizi Kurang,Stunting
+Balita 995,P ,25/08/21,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,8.4,72.5,,-1.85,-3.17,-0.35,Gizi Baik,Stunting
+Balita 996,P ,22/03/21,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,8.15,77,13,-2.96,-2.77,-1.94,Gizi Baik,Stunting
+Balita 997,P ,10/03/21,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,8.25,80,,-2.91,-2.16,-2.34,Gizi Kurang,Stunting
+Balita 998,L ,11/05/18,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,13.2,97.7,,-2.43,-2.54,-1.38,Gizi Baik,Stunting
+Balita 999,P ,05/10/18,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,11.1,93.5,,-3.25,-2.81,-2.28,Gizi Kurang,Stunting
+Balita 1000,P ,01/01/19,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,11.8,91.2,,-2.58,-3.03,-1.06,Gizi Baik,Stunting
+Balita 1001,L ,23/02/19,RUBIYANTO ,PEDURUNGAN LOR ,2,5,12.5,92.7,,-2.24,-2.7,-0.99,Gizi Baik,Stunting
+Balita 1002,L ,21/10/19,YUDIARTO ,PEDURUNGAN LOR ,1,8,11.7,89.5,,-2.18,-2.56,-1.1,Gizi Baik,Stunting
+Balita 1003,L ,20/05/20,FADIL ASROR ,PEDURUNGAN LOR ,1,7,10.8,87.1,,-2.24,-2.22,-1.53,Gizi Baik,Stunting
+Balita 1004,L ,28/05/20,TERRY OCTA MARENDRA ,PEDURUNGAN TENGAH ,2,15,10.4,87.5,,-2.53,-2.07,-2.13,Gizi Kurang,Stunting
+Balita 1005,P ,10/11/20,nova triana adriati ,PEDURUNGAN TENGAH ,4,13,10.2,80.5,0,-1.67,-2.68,-0.15,Gizi Baik,Stunting
+Balita 1006,L ,19/11/20,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,9.4,81.5,,-2.82,-2.82,-1.81,Gizi Baik,Stunting
+Balita 1007,P ,08/05/19,anisah ,PEDURUNGAN TENGAH ,1,13,12.5,91.1,16,-1.8,-2.57,-0.37,Gizi Baik,Stunting
+Balita 1008,L ,25/02/21,ROY ,PEDURUNGAN TENGAH ,5,1,8.2,78.6,13.5,-3.55,-3.28,-2.72,Gizi Kurang,Stunting
+Balita 1009,P ,17/03/21,SAEFUL ,PEDURUNGAN TENGAH ,3,10,8,75,13,-3.15,-3.66,-1.53,Gizi Baik,Stunting
+Balita 1010,L ,25/10/21,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,8.6,74,16,-2.04,-2.84,-0.95,Gizi Baik,Stunting
+Balita 1011,L ,22/01/19,ASWANDI ,PEDURUNGAN TENGAH ,1,15,14,95,15,-1.4,-2.25,-0.05,Gizi Baik,Stunting
+Balita 1012,L ,18/01/20,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,10,86.6,14,-3.23,-2.94,-2.4,Gizi Kurang,Stunting
+Balita 1013,P ,09/05/18,a. toyib ,PENGGARON KIDUL ,8,3,13.65,95.7,15.5,-1.99,-2.8,-0.34,Gizi Baik,Stunting
+Balita 1014,L ,21/08/18,Sony Setiawan  ,PENGGARON KIDUL ,3,2,12.45,94.2,15.3,-2.69,-2.99,-1.37,Gizi Baik,Stunting
+Balita 1015,L ,27/09/20,Dwi setiawan ,PENGGARON KIDUL ,4,6,9.15,84.5,13,-3.21,-2.23,-2.97,Gizi Kurang,Stunting
+Balita 1016,P ,26/10/20,hasan anwar ,PENGGARON KIDUL ,1,6,8.9,82.8,14,-2.9,-2.09,-2.32,Gizi Kurang,Stunting
+Balita 1017,L ,15/10/20,khoirun ,PENGGARON KIDUL ,3,4,9.9,79,15,-2.48,-3.74,-0.59,Gizi Baik,Stunting
+Balita 1018,L ,27/02/20,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,10.4,86.7,13.5,-2.79,-2.7,-1.91,Gizi Baik,Stunting
+Balita 1019,P ,22/12/19,Sabarudin ,PENGGARON KIDUL ,7,2,9.05,83.9,14.2,-3.75,-3.4,-2.41,Gizi Kurang,Stunting
+Balita 1020,P ,30/06/19,Taufiq ,PLAMONGAN SARI ,4,1,13.25,90.5,16,-1.21,-2.51,0.41,Gizi Baik,Stunting
+Balita 1021,P ,24/11/22,sumaryanto ,PLAMONGAN SARI ,2,2,5,57,14,-2.27,-2.67,-0.18,Gizi Baik,Stunting
+Balita 1022,L ,22/11/21,MUSTOFA ,PLAMONGAN SARI ,,3,7.74,70.9,13.5,-2.85,-3.76,-1.34,Gizi Baik,Stunting
+Balita 1023,P ,02/11/21,NADHIF ,PLAMONGAN SARI ,1,3,7.62,72.8,13.5,-2.33,-2.46,-1.54,Gizi Baik,Stunting
+Balita 1024,P ,10/06/20,HABIB ,PLAMONGAN SARI ,,3,10.95,83,16,-1.66,-2.85,0.05,Gizi Baik,Stunting
+Balita 1025,P ,10/06/20,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,10,81.2,14,-2.43,-3.33,-0.54,Gizi Baik,Stunting
+Balita 1026,L ,11/01/20,handoyo ,PLAMONGAN SARI ,3,11,10.8,88.2,14.5,-2.62,-2.54,-1.82,Gizi Baik,Stunting
+Balita 1027,L ,26/08/19,heni ,PLAMONGAN SARI ,1,11,10.9,90.5,13.5,-2.9,-2.53,-2.27,Gizi Kurang,Stunting
+Balita 1028,L ,13/07/19,erina ,PLAMONGAN SARI ,2,11,11.95,92.1,15,-2.26,-2.31,-1.43,Gizi Baik,Stunting
+Balita 1029,L ,21/09/18,LUTFI/AMBAR ,PLAMONGAN SARI ,0,3,11.45,87.6,15,-3.26,-4.37,-0.91,Gizi Baik,Stunting
+Balita 1030,L ,17/07/18,ibnu ,PLAMONGAN SARI ,0,3,10.8,90,14.4,-3.77,-4.02,-2.27,Gizi Kurang,Stunting
+Balita 1031,P ,11/12/21,HENDRO ,TLOGOMULYO ,4,1,8,70,15,-1.68,-3.04,-0.22,Gizi Baik,Stunting
+Balita 1032,L ,17/06/21,SUTARNO ,TLOGOMULYO ,2,7,8,78,14,-3.33,-2.66,-2.9,Gizi Kurang,Stunting
+Balita 1033,L ,19/03/20,ade saputra ,TLOGOMULYO ,5,6,10.6,87.5,15.5,-2.57,-2.39,-1.88,Gizi Baik,Stunting
+Balita 1034,P ,25/08/20,eddra darma putra ,TLOGOMULYO ,1,2,11,83.5,0,-1.33,-2.28,-0.03,Gizi Baik,Stunting
+Balita 1035,L ,17/08/19,SURYA N ,TLOGOMULYO ,7,7,14.3,92.5,16.5,-0.71,-2.06,0.74,Gizi Baik,Stunting
+Balita 1036,P ,04/09/21,asroh ,TLOGOMULYO ,4,5,7.9,75,0,-2.38,-2.32,-1.68,Gizi Baik,Stunting
+Balita 1037,L ,10/04/21,risas fauzi ,TLOGOMULYO ,3,1,9.2,70.1,0,-2.44,-5.8,1.02,Resiko Gizi Lebih,Stunting
+Balita 1038,L ,23/06/21,JATMIKO ,TLOGOMULYO ,5,1,9,78.3,13.5,-2.3,-2.54,-1.46,Gizi Baik,Stunting
+Balita 1039,L ,09/11/20,ARYADI ,TLOGOMULYO ,2,4,8.9,78.4,13.5,-3.31,-3.82,-1.78,Gizi Baik,Stunting
+Balita 1040,P ,30/11/19,NURUL HUDA ,TLOGOMULYO ,4,1,11.5,86.5,15.5,-1.91,-2.88,-0.26,Gizi Baik,Stunting
+Balita 1041,L ,27/04/23,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,2.9,49,,-2.82,-2.35,-1.37,Gizi Baik,Stunting
+Balita 1042,P ,18/07/19,TEGUH HARI PRAYOGO ,TLOGOSARI WETAN ,7,1,9.1,81.3,13.2,-3.24,-3.31,-1.67,Gizi Baik,Stunting
+Balita 1043,L ,23/07/19,YUWONO ,TLOGOSARI WETAN ,7,1,10.2,86.4,15.5,-2.64,-2.47,-1.89,Gizi Baik,Stunting
+Balita 1044,L ,02/03/20,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,10.4,81,0,-1.67,-2.52,-0.43,Gizi Baik,Stunting
+Balita 1045,P ,13/09/19,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,12,83,0,-0.74,-2.6,1.05,Resiko Gizi Lebih,Stunting
+Balita 1046,L ,19/12/19,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,12.4,82,0,-0.5,-2.77,1.45,Resiko Gizi Lebih,Stunting
+Balita 1047,L ,23/09/19,REMI YONO ,TLOGOSARI WETAN ,8,2,12.7,83,0,-0.62,-2.96,1.5,Resiko Gizi Lebih,Stunting
+Balita 1048,P ,06/07/19,TRI CIPTO SURYO NUSWANTORO ,PALEBON ,2,1,12.4,84,0,-0.73,-2.69,1.17,Resiko Gizi Lebih,Stunting
+Balita 1049,P ,04/02/21,FERI SAFIQU A ,PALEBON ,8,3,9.4,68,0,-0.28,-3.67,2.05,Gizi Lebih,Stunting
+Balita 1050,L ,20/05/20,OKI HERMAWAN ,PALEBON ,2,4,11.6,74,0,-0.43,-4.32,2.39,Gizi Lebih,Stunting
+Balita 1051,P ,25/06/20,FENDI ANDREAS HANAFI ,PALEBON ,4,1,11,73,0,-0.19,-3.72,2.25,Gizi Lebih,Stunting
+Balita 1052,L ,10/01/20,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,11.4,74.1,0,-1.13,-5.23,2.35,Gizi Lebih,Stunting
+Balita 1053,P ,15/01/20,ZUBAIDI ,PALEBON ,1,7,11.7,73.9,0,-0.44,-4.68,2.83,Gizi Lebih,Stunting
+Balita 1054,P ,24/02/20,HENDRI RASMINTO ,PEDURUNGAN KIDUL ,3,1,11.5,73,0,-0.4,-4.72,2.85,Gizi Lebih,Stunting
+Balita 1055,P ,18/03/20,REVI K. ,PEDURUNGAN KIDUL ,4,8,11.4,73,0,-0.37,-4.58,2.77,Gizi Lebih,Stunting
+Balita 1056,L ,27/03/20,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,11.9,74.1,0,-0.44,-4.83,2.83,Gizi Lebih,Stunting
+Balita 1057,L ,01/05/20,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,11.7,73.6,0,-0.44,-4.79,2.77,Gizi Lebih,Stunting
+Balita 1058,L ,01/05/20,ponco wahyudi ,PEDURUNGAN KIDUL ,4,1,11.4,73.2,0,-0.66,-4.92,2.58,Gizi Lebih,Stunting
+Balita 1059,L ,15/07/20,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,12,73.2,0,0.14,-4.44,3.16,Obesitas,Stunting
+Balita 1060,L ,23/07/20,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,11.9,73.1,0,0.11,-4.42,3.09,Obesitas,Stunting
+Balita 1061,L ,05/08/20,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,11,74.2,0,-0.52,-3.94,1.92,Resiko Gizi Lebih,Stunting
+Balita 1062,L ,25/08/20,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,11.6,72.9,0,0.05,-4.24,2.86,Gizi Lebih,Stunting
+Balita 1063,P ,30/09/20,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,12.7,73.4,0,1.44,-3.02,3.84,Obesitas,Stunting
+Balita 1064,P ,07/10/20,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,12,73.2,0,1.03,-3.02,3.25,Obesitas,Stunting
+Balita 1065,P ,27/10/20,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,11.8,73.7,0,1,-2.67,2.96,Gizi Lebih,Stunting
+Balita 1066,L ,15/12/20,FATMAWATI MUNIR ,PEDURUNGAN KIDUL ,9,5,11.2,73.6,0,0.34,-2.98,2.28,Gizi Lebih,Stunting
+Balita 1067,P ,04/03/21,RUBIYANTO ,PEDURUNGAN LOR ,2,5,10.2,68.7,0,0.55,-3.1,2.69,Gizi Lebih,Stunting
+Balita 1068,P ,30/03/21,YUDIARTO ,PEDURUNGAN LOR ,1,8,9.5,68,0,0.13,-3.05,2.16,Gizi Lebih,Stunting
+Balita 1069,L ,28/04/21,ALI MUNAWAR ,PEDURUNGAN TENGAH ,2,8,9.1,65.3,0,-0.71,-4.73,2.52,Gizi Lebih,Stunting
+Balita 1070,P ,03/05/21,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,9.4,64.2,0,0.26,-4.07,3.22,Obesitas,Stunting
+Balita 1071,P ,06/05/21,anisah ,PEDURUNGAN TENGAH ,1,13,9.5,64.3,0,0.37,-4,3.3,Obesitas,Stunting
+Balita 1072,P ,22/01/20,ROY ,PEDURUNGAN TENGAH ,5,1,11.6,72.9,0,-0.45,-4.9,2.96,Gizi Lebih,Stunting
+Balita 1073,L ,11/04/20,SAEFUL ,PEDURUNGAN TENGAH ,3,10,11.5,73.7,0,-0.65,-4.84,2.55,Gizi Lebih,Stunting
+Balita 1074,L ,12/06/20,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,12,73.2,0,0.01,-4.62,3.16,Obesitas,Stunting
+Balita 1075,P ,29/07/20,ASWANDI ,PEDURUNGAN TENGAH ,1,15,11,73.7,0,0.01,-3.4,2.25,Gizi Lebih,Stunting
+Balita 1076,L ,19/09/20,noer ,PEDURUNGAN TENGAH ,3,9,11.7,73.2,0,0.29,-3.89,2.87,Gizi Lebih,Stunting
+Balita 1077,L ,21/12/20,AGUNG ,PEDURUNGAN TENGAH ,1,13,11.4,73.4,0,0.57,-2.93,2.53,Gizi Lebih,Stunting
+Balita 1078,L ,28/01/21,MOH. SUBKHAN ,PEDURUNGAN TENGAH ,1,15,10.2,70,0,-0.21,-3.82,2.25,Gizi Lebih,Stunting
+Balita 1079,P ,20/04/21,AGUS SETIYANTO ,PEDURUNGAN TENGAH ,3,15,9.8,68.7,0,0.55,-2.44,2.29,Gizi Lebih,Stunting
+Balita 1080,L ,12/10/21,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,8.4,65,0,0.05,-2.02,1.72,Resiko Gizi Lebih,Stunting
+Balita 1081,L ,03/09/21,a. toyib ,PENGGARON KIDUL ,8,3,8.5,65,0,-0.28,-2.83,1.85,Resiko Gizi Lebih,Stunting
+Balita 1082,L ,20/03/21,Sony Setiawan  ,PENGGARON KIDUL ,3,2,8.3,69.5,0,-1.77,-3.45,-0.01,Gizi Baik,Stunting
+Balita 1083,P ,11/08/21,Dwi setiawan ,PENGGARON KIDUL ,4,6,7.1,65,0,-1.29,-2.27,0.03,Gizi Baik,Stunting
+Balita 1084,L ,31/05/21,hasan anwar ,PENGGARON KIDUL ,1,6,8.5,69,0,-1.07,-2.67,0.44,Gizi Baik,Stunting
+Balita 1085,L ,09/11/21,khoirun ,PENGGARON KIDUL ,3,4,7,66,0,-1.98,-2.27,-0.86,Gizi Baik,Stunting
+Balita 1086,P ,13/02/21,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,9.5,70,0,-0.12,-2.82,1.63,Resiko Gizi Lebih,Stunting
+Balita 1087,P ,07/05/21,Sabarudin ,PENGGARON KIDUL ,7,2,7.7,69,0,-1.34,-2.15,-0.36,Gizi Baik,Stunting
+Balita 1088,L ,04/02/21,TITIS F ,PENGGARON KIDUL ,4,4,9.8,73,0,-0.55,-2.62,0.9,Gizi Baik,Stunting
+Balita 1089,L ,30/11/20,Taufiq ,PLAMONGAN SARI ,4,1,10.1,76.5,0,-0.66,-2.03,0.36,Gizi Baik,Stunting
+Balita 1090,L ,11/08/20,LUTFI/AMBAR ,PLAMONGAN SARI ,0,3,10,78,0,-1.31,-2.54,-0.1,Gizi Baik,Stunting
+Balita 1091,L ,21/11/20,RIBUT ,PLAMONGAN SARI ,1,11,8.6,74,0,-2.14,-3.02,-0.95,Gizi Baik,Stunting
+Balita 1092,P ,28/01/20,handoyo ,PLAMONGAN SARI ,3,11,11,82,0,-0.87,-2.2,0.5,Gizi Baik,Stunting
+Balita 1093,P ,06/11/21,heni ,PLAMONGAN SARI ,1,11,6.4,56,0,-1.23,-4.52,2.95,Gizi Lebih,Stunting
+Balita 1094,L ,29/04/20,erina ,PLAMONGAN SARI ,2,11,9,81,0,-2.72,-2.38,-2.07,Gizi Kurang,Stunting
+Balita 1095,L ,25/02/21,MUSTOFA ,PLAMONGAN SARI ,,3,10.5,73.6,0,0.22,-2.08,1.54,Resiko Gizi Lebih,Stunting
+Balita 1096,L ,09/08/19,HABIB ,PLAMONGAN SARI ,,3,12,84,0,-1.24,-2.9,0.59,Gizi Baik,Stunting
+Balita 1097,P ,16/02/19,NADHIF ,PLAMONGAN SARI ,1,3,12,83,0,-1.46,-3.61,1.05,Resiko Gizi Lebih,Stunting
+Balita 1098,L ,18/08/19,Muhammad Misbachul Anam ,PLAMONGAN SARI ,3,10,11.9,84,0,-1.28,-2.86,0.49,Gizi Baik,Stunting
+Balita 1099,P ,07/10/20,anton swarsono ,PLAMONGAN SARI ,2,13,11,73.7,0,0.34,-2.86,2.25,Gizi Lebih,Stunting
+Balita 1100,L ,14/12/20,sumaryanto ,PLAMONGAN SARI ,2,2,11,74.2,0,0.17,-2.76,1.92,Resiko Gizi Lebih,Stunting
+Balita 1101,L ,12/04/21,WONO BASUKI ,PLAMONGAN SARI ,4,2,8.2,71,0,-1.74,-2.54,-0.65,Gizi Baik,Stunting
+Balita 1102,L ,26/05/22,jumanto ,PLAMONGAN SARI ,3,2,3,49,,-2.51,-2.27,-0.97,Gizi Baik,Stunting
+Balita 1103,P ,18/11/21,ade saputra ,TLOGOMULYO ,5,6,6.5,60.5,,-0.93,-2.27,0.86,Gizi Baik,Stunting
+Balita 1104,P ,03/02/20,eddra darma putra ,TLOGOMULYO ,1,2,11,82,,-0.84,-2.16,0.5,Gizi Baik,Stunting
+Balita 1105,L ,11/12/20,TRI AGUS W ,TLOGOMULYO ,2,4,11.6,74,0,0.63,-2.88,2.57,Gizi Lebih,Stunting
+Balita 1106,P ,11/03/19,weny prawitosari ,TLOGOMULYO ,3,2,12.3,84,0,-1.19,-3.25,1.09,Resiko Gizi Lebih,Stunting
+Balita 1107,L ,05/06/21,SURYA N ,TLOGOMULYO ,7,7,9.4,66,0,-0.16,-3.95,2.64,Gizi Lebih,Stunting
+Balita 1108,P ,23/04/20,risas fauzi ,TLOGOMULYO ,3,1,11.5,73,0,-0.13,-4.36,2.85,Gizi Lebih,Stunting
+Balita 1109,P ,13/10/20,JATMIKO ,TLOGOMULYO ,5,1,11.7,73.2,0,0.86,-2.97,2.98,Gizi Lebih,Stunting
+Balita 1110,P ,13/10/20,asroh ,TLOGOMULYO ,4,5,11.4,73.4,0,0.66,-2.9,2.68,Gizi Lebih,Stunting
+Balita 1111,P ,10/11/20,FATUROHMAN ,TLOGOMULYO ,1,4,12,73.6,0,1.21,-2.57,3.16,Obesitas,Stunting
+Balita 1112,L ,17/12/20,ARYADI ,TLOGOMULYO ,2,4,11.1,74.3,0,0.27,-2.69,2,Resiko Gizi Lebih,Stunting
+Balita 1113,L ,27/05/21,kiswanto ,TLOGOMULYO ,3,7,9.3,63.4,0,-0.31,-5.15,3.51,Obesitas,Stunting
+Balita 1114,P ,17/06/21,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,8.6,61.6,0,-0.16,-4.51,3.27,Obesitas,Stunting
+Balita 1115,P ,04/09/21,ALEX ISTIYANTO ,TLOGOSARI WETAN ,5,2,8.3,62.4,0,0.18,-3.01,2.6,Gizi Lebih,Stunting
+Balita 1116,P ,19/05/19,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,8.7,87,0,-3.77,-2.12,-3.67,Gizi Buruk,Stunting
+Balita 1117,L ,06/10/21,MUHAMAD TAOFIK ,TLOGOSARI WETAN ,11,3,6.9,60,0,-1.83,-4.48,1.65,Resiko Gizi Lebih,Stunting
+Balita 1118,L ,23/05/22,YUWONO ,TLOGOSARI WETAN ,7,1,3,49,,-2.27,-2.06,-0.97,Gizi Baik,Stunting
+Balita 1119,L ,31/05/22,TEGUH HARI PRAYOGO ,TLOGOSARI WETAN ,7,1,3.1,49,,-2.66,-2.62,-0.6,Gizi Baik,Stunting
+Balita 1120,L ,24/05/22,REMI YONO ,TLOGOSARI WETAN ,8,2,2.9,49,,-2.58,-2.13,-1.37,Gizi Baik,Stunting
+Balita 1121,L ,21/09/18,YUSUF ,TLOGOSARI WETAN ,3,2,10,79.3,12,-3.58,-5.52,-0.38,Gizi Baik,Stunting
+Balita 1122,P ,01/04/18,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,8.9,86.5,12.5,-4.44,-4.07,-3.12,Gizi Buruk,Stunting
+Balita 1123,P ,21/03/18,m abid ,TLOGOSARI WETAN ,8,3,12.4,93.7,15.9,-2.08,-2.29,-1.02,Gizi Baik,Stunting
+Balita 1124,P ,29/06/19,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,8.7,82.8,0,-3.63,-2.98,-2.6,Gizi Kurang,Stunting
+Balita 1125,L ,04/06/20,VEBRU ADRIANTO ,TLOGOSARI WETAN ,3,1,12.7,80.4,14.6,0.5,-2.24,2.19,Gizi Lebih,Stunting
+Balita 1126,P ,10/02/20,SARTONO ,PALEBON ,4,1,11.5,74,0,0.66,-2.58,2.49,Gizi Lebih,Stunting
+Balita 1127,P ,13/05/21,AHMAD NOVIYANTO ,PALEBON ,7,3,9.7,67,0,0.57,-2.88,2.65,Gizi Lebih,Stunting
+Balita 1128,L ,22/01/21,EKO SETIAWAN ,PALEBON ,3,11,9.4,68,0,-1.03,-4.73,1.96,Resiko Gizi Lebih,Stunting
+Balita 1129,L ,10/05/21,TRI CIPTO SURYO NUSWANTORO ,PALEBON ,2,1,9.6,68,0,-0.15,-3.47,2.2,Gizi Lebih,Stunting
+Balita 1130,L ,02/01/20,FERI SAFIQU A ,PALEBON ,8,3,11.9,73,0,-0.79,-5.59,3.12,Obesitas,Stunting
+Balita 1131,P ,06/03/20,OKI HERMAWAN ,PALEBON ,2,4,11.7,73.6,0,-0.21,-4.47,2.9,Gizi Lebih,Stunting
+Balita 1132,P ,18/04/20,MIFTAKHUL HUDA ,PALEBON ,4,6,12,73.9,0,0.19,-4.12,3.09,Obesitas,Stunting
+Balita 1133,L ,15/05/20,DAVID ,PALEBON ,8,9,11.9,73.1,0,-0.22,-4.87,3.09,Obesitas,Stunting
+Balita 1134,L ,13/07/20,YUNI ,PALEBON ,1,9,11.4,73.4,0,-0.32,-4.38,2.53,Gizi Lebih,Stunting
+Balita 1135,P ,22/09/20,MASKUR ,PALEBON ,5,9,11.5,73.7,0,0.62,-2.99,2.7,Gizi Lebih,Stunting
+Balita 1136,P ,20/03/21,EDI GANJAR UTAMA ,PALEBON ,7,9,9.9,68.5,0,0.41,-2.98,2.44,Gizi Lebih,Stunting
+Balita 1137,P ,09/04/21,ARIF WIDIYATMOKO ,PALEBON ,6,9,9,65,0,-0.24,-4.06,2.51,Gizi Lebih,Stunting
+Balita 1138,P ,16/04/21,SURADI ,PALEBON ,4,7,9.5,65.7,0,0.24,-3.71,2.83,Gizi Lebih,Stunting
+Balita 1139,P ,17/04/21,FENDI ANDREAS HANAFI ,PALEBON ,4,1,9,65.5,0,-0.19,-3.77,2.35,Gizi Lebih,Stunting
+Balita 1140,P ,29/04/21,ponco wahyudi ,PEDURUNGAN KIDUL ,4,1,9,65.5,0,-0.12,-3.62,2.35,Gizi Lebih,Stunting
+Balita 1141,P ,03/05/21,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,9,63.4,0,-0.09,-4.38,3.05,Obesitas,Stunting
+Balita 1142,P ,26/06/21,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,8.2,61.5,0,-0.48,-4.43,2.82,Gizi Lebih,Stunting
+Balita 1143,L ,17/07/18,suharwanto ,PEDURUNGAN KIDUL ,4,1,8.8,84,0,-4.58,-4.45,-3.32,Gizi Buruk,Stunting
+Balita 1144,P ,01/08/20,MUHAMMAD ILHAM HASAN ,PEDURUNGAN KIDUL ,2,1,11.25,76.5,0,0.2,-2.49,1.9,Resiko Gizi Lebih,Stunting
+Balita 1145,L ,18/02/20,HENDRI RASMINTO ,PEDURUNGAN KIDUL ,3,1,11.6,83,0,-0.81,-2.26,0.59,Gizi Baik,Stunting
+Balita 1146,L ,19/12/20,MURNI ,PEDURUNGAN KIDUL ,1,2,9.4,75.5,0,-1.19,-2.16,-0.26,Gizi Baik,Stunting
+Balita 1147,L ,24/04/20,ROCHMAT CATUR RIVAI ,PEDURUNGAN KIDUL ,2,5,11,81,0,-0.98,-2.42,0.4,Gizi Baik,Stunting
+Balita 1148,L ,10/05/22,REVI K. ,PEDURUNGAN KIDUL ,4,8,3.2,46,0,-0.3,-2.05,2.16,Gizi Lebih,Stunting
+Balita 1149,P ,02/05/17,RIZKY FAUZI ,PEDURUNGAN KIDUL ,2,10,14.4,95.7,,-1.68,-2.92,0.26,Gizi Baik,Stunting
+Balita 1150,L ,06/05/20,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,10.2,80,0,-1.57,-2.62,-0.29,Gizi Baik,Stunting
+Balita 1151,L ,15/05/22,ROCHMADYANTO ,PEDURUNGAN KIDUL ,9,5,2.8,47,,-2.08,-2.51,-0.37,Gizi Baik,Stunting
+Balita 1152,L ,24/05/22,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,2.9,49,,-2.58,-2.13,-1.37,Gizi Baik,Stunting
+Balita 1153,P ,23/08/19,MUHAMAD ULFI ,PEDURUNGAN KIDUL ,6,5,11.2,87.2,15,-2.5,-3.24,-0.73,Gizi Baik,Stunting
+Balita 1154,P ,12/07/18,AHMAT ROHKMATUSSAIRIL ANWAR ,PEDURUNGAN KIDUL ,4,1,11.8,91.3,14.2,-3.06,-3.68,-1.08,Gizi Baik,Stunting
+Balita 1155,P ,05/05/20,SHOKHEH REZKI RAKHMAWAN ,PEDURUNGAN KIDUL ,8,1,10.2,85.5,14,-2.51,-2.72,-1.22,Gizi Baik,Stunting
+Balita 1156,L ,01/07/19,ZULY SETIOBUDI ,PEDURUNGAN KIDUL ,6,5,12.4,94,14,-2.06,-2.01,-1.38,Gizi Baik,Stunting
+Balita 1157,L ,09/09/19,HAKIM ,PEDURUNGAN KIDUL ,1,7,10.2,85,0,-3.46,-3.97,-1.69,Gizi Baik,Stunting
+Balita 1158,P ,26/04/21,RUBIYANTO ,PEDURUNGAN LOR ,2,5,7.8,79.5,0,-3.34,-2.25,-2.9,Gizi Kurang,Stunting
+Balita 1159,L ,08/10/20,YUDIARTO ,PEDURUNGAN LOR ,1,8,9.6,83,0,-2.89,-2.8,-1.92,Gizi Baik,Stunting
+Balita 1160,L ,22/08/18,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,12.5,94,0,-2.71,-3.12,-1.27,Gizi Baik,Stunting
+Balita 1161,P ,01/06/18,anisah ,PEDURUNGAN TENGAH ,1,13,12.6,95.9,15.1,-2.64,-2.82,-1.3,Gizi Baik,Stunting
+Balita 1162,P ,30/09/20,Zega ,PEDURUNGAN TENGAH ,2,9,8.6,77,12.5,-3.46,-4.16,-1.31,Gizi Baik,Stunting
+Balita 1163,L ,21/11/19,ROY ,PEDURUNGAN TENGAH ,5,1,9.2,88.3,13,-4.03,-2.87,-3.9,Gizi Buruk,Stunting
+Balita 1164,L ,04/12/20,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,8.3,80.4,13.3,-3.89,-3.33,-3.14,Gizi Buruk,Stunting
+Balita 1165,L ,02/03/20,ASWANDI ,PEDURUNGAN TENGAH ,1,15,12,88,16,-1.69,-2.51,-0.42,Gizi Baik,Stunting
+Balita 1166,P ,04/03/22,noer ,PEDURUNGAN TENGAH ,3,9,6,65.5,12,-3.78,-4.14,-2.06,Gizi Kurang,Stunting
+Balita 1167,L ,31/05/23,AGUNG ,PEDURUNGAN TENGAH ,1,13,4,50,,-0.86,-2.11,1.56,Resiko Gizi Lebih,Stunting
+Balita 1168,L ,31/03/22,AGUS SETIYANTO ,PEDURUNGAN TENGAH ,3,15,6.64,66.5,0,-3.55,-4.32,-1.72,Gizi Baik,Stunting
+Balita 1169,L ,22/06/20,ALI MUNAWAR ,PEDURUNGAN TENGAH ,2,8,10.3,86.9,0,-2.63,-2.44,-1.9,Gizi Baik,Stunting
+Balita 1170,L ,08/08/20,putra bagus setiawan / yunita dwi widiastuti ,PEDURUNGAN TENGAH ,3,8,10.8,85,13.8,-2.13,-2.63,-0.96,Gizi Baik,Stunting
+Balita 1171,L ,21/01/21,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,13.9,82.5,,0.68,-2.3,2.64,Gizi Lebih,Stunting
+Balita 1172,L ,22/02/22,Sabarudin ,PENGGARON KIDUL ,7,2,8,73,,-2.18,-2.19,-1.58,Gizi Baik,Stunting
+Balita 1173,P ,25/08/21,Sony Setiawan  ,PENGGARON KIDUL ,3,2,8.9,73.5,,-1.55,-3.14,0.05,Gizi Baik,Stunting
+Balita 1174,P ,22/03/21,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,8.3,78,13.2,-2.97,-2.72,-1.96,Gizi Baik,Stunting
+Balita 1175,P ,10/03/21,Dwi setiawan ,PENGGARON KIDUL ,4,6,8.75,80.6,0,-2.56,-2.02,-1.96,Gizi Baik,Stunting
+Balita 1176,L ,11/05/18,hasan anwar ,PENGGARON KIDUL ,1,6,13.4,98.2,,-2.37,-2.53,-1.3,Gizi Baik,Stunting
+Balita 1177,P ,05/10/18,a. toyib ,PENGGARON KIDUL ,8,3,11,95,12.9,-3.4,-2.63,-2.72,Gizi Kurang,Stunting
+Balita 1178,P ,01/01/19,khoirun ,PENGGARON KIDUL ,3,4,11,91.7,0,-3.2,-3.01,-1.99,Gizi Baik,Stunting
+Balita 1179,L ,23/02/19,TRI SUKMA DENY ,PENGGARON KIDUL ,5,1,12.7,93.2,,-2.18,-2.68,-0.89,Gizi Baik,Stunting
+Balita 1180,L ,01/05/19,Fandi Ahmad Husain ,PENGGARON KIDUL ,7,2,16.5,94,0,0.05,-2.25,2.13,Gizi Lebih,Stunting
+Balita 1181,L ,21/10/19,Ali Maftuh ,PENGGARON KIDUL ,3,4,11.3,90,15,-2.54,-2.55,-1.67,Gizi Baik,Stunting
+Balita 1182,L ,20/05/20,ALI MAFTUH ,PENGGARON KIDUL ,3,4,10.6,88,0,-2.49,-2.12,-2.01,Gizi Kurang,Stunting
+Balita 1183,L ,28/05/20,hasan anwar ,PENGGARON KIDUL ,1,6,10.6,88,,-2.46,-2.08,-2.01,Gizi Kurang,Stunting
+Balita 1184,P ,10/11/20,MEI SUMARNI ,PENGGARON KIDUL ,4,1,10,83.5,14,-1.96,-2.01,-1.12,Gizi Baik,Stunting
+Balita 1185,L ,19/11/20,MUSTOFA ,PLAMONGAN SARI ,,3,9.1,82.8,12.5,-3.24,-2.7,-2.56,Gizi Kurang,Stunting
+Balita 1186,L ,25/10/21,HABIB ,PLAMONGAN SARI ,,3,7.8,77,13.5,-3.11,-2.12,-2.99,Gizi Kurang,Stunting
+Balita 1187,L ,25/02/21,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,8,79,12.3,-3.87,-3.4,-3.13,Gizi Buruk,Stunting
+Balita 1188,L ,06/01/22,NADHIF ,PLAMONGAN SARI ,1,3,7.8,71.5,15,-2.71,-3.4,-1.44,Gizi Baik,Stunting
+Balita 1189,P ,30/04/20,Muhammad Misbachul Anam ,PLAMONGAN SARI ,3,10,10.9,83.5,15,-1.94,-3.05,-0.13,Gizi Baik,Stunting
+Balita 1190,P ,08/05/19,anton swarsono ,PLAMONGAN SARI ,2,13,12.5,92,16,-1.89,-2.5,-0.57,Gizi Baik,Stunting
+Balita 1191,P ,17/03/21,Taufiq ,PLAMONGAN SARI ,4,1,8.2,75.5,13,-3.12,-3.75,-1.36,Gizi Baik,Stunting
+Balita 1192,L ,22/01/19,LUTFI/AMBAR ,PLAMONGAN SARI ,0,3,14.2,96,15,-1.37,-2.15,-0.09,Gizi Baik,Stunting
+Balita 1193,L ,15/10/20,RIBUT ,PLAMONGAN SARI ,1,11,9.09,79.1,14.6,-3.3,-3.86,-1.67,Gizi Baik,Stunting
+Balita 1194,P ,26/10/20,sumaryanto ,PLAMONGAN SARI ,2,2,9.2,83.1,14,-2.73,-2.2,-2,Gizi Baik,Stunting
+Balita 1195,L ,27/02/20,handoyo ,PLAMONGAN SARI ,3,11,8.4,85.1,11.8,-4.42,-3.26,-4.16,Gizi Buruk,Stunting
+Balita 1196,P ,22/12/19,heni ,PLAMONGAN SARI ,1,11,8.4,85.1,11.8,-4.37,-3.32,-3.6,Gizi Buruk,Stunting
+Balita 1197,P ,30/06/19,jumanto ,PLAMONGAN SARI ,3,2,12.7,91.6,15.4,-1.62,-2.37,-0.3,Gizi Baik,Stunting
+Balita 1198,L ,18/01/20,erina ,PLAMONGAN SARI ,2,11,10,86.9,14.3,-3.3,-2.99,-2.48,Gizi Kurang,Stunting
+Balita 1199,P ,09/05/18,WONO BASUKI ,PLAMONGAN SARI ,4,2,13.95,97.7,15.5,-1.89,-2.47,-0.5,Gizi Baik,Stunting
+Balita 1200,L ,21/08/18,ARIEF PRABOWO ,TLOGOMULYO ,3,2,12.75,96.2,15.3,-2.56,-2.64,-1.5,Gizi Baik,Stunting
+Balita 1201,P ,24/11/22,purnadi ,TLOGOMULYO ,5,6,5.8,59,14,-1.58,-2.51,0.35,Gizi Baik,Stunting
+Balita 1202,P ,11/12/21,M ARIEF S ,TLOGOMULYO ,4,5,8.3,72,15,-1.53,-2.61,-0.35,Gizi Baik,Stunting
+Balita 1203,L ,22/11/21,ISTIQOMAH ,TLOGOMULYO ,1,4,8.04,72.9,13.5,-2.66,-3.28,-1.48,Gizi Baik,Stunting
+Balita 1204,P ,02/11/21,first ryan sukma nuryanto ,TLOGOMULYO ,1,8,7.92,74.8,13.5,-2.16,-2.05,-1.6,Gizi Baik,Stunting
+Balita 1205,L ,17/06/21,ade saputra ,TLOGOMULYO ,5,6,8.9,78,14,-2.54,-2.88,-1.53,Gizi Baik,Stunting
+Balita 1206,P ,10/06/20,eddra darma putra ,TLOGOMULYO ,1,2,11.15,84.8,13.2,-1.61,-2.51,-0.19,Gizi Baik,Stunting
+Balita 1207,P ,10/06/20,rahman ,TLOGOMULYO ,4,5,10.2,83,14,-2.36,-2.99,-0.76,Gizi Baik,Stunting
+Balita 1208,L ,11/01/20,ARIEF PRABOWO ,TLOGOMULYO ,3,2,11,90,14.5,-2.54,-2.19,-2.03,Gizi Kurang,Stunting
+Balita 1209,L ,26/08/19,TRI AGUS W ,TLOGOMULYO ,2,4,11.1,92.3,13.5,-2.83,-2.2,-2.45,Gizi Kurang,Stunting
+Balita 1210,L ,13/07/19,YUSUF P ,TLOGOMULYO ,3,1,12,91.6,14.7,-2.35,-2.61,-1.27,Gizi Baik,Stunting
+Balita 1211,L ,21/09/18,JATMIKO ,TLOGOMULYO ,5,1,11.65,89.4,15,-3.19,-4.04,-1.13,Gizi Baik,Stunting
+Balita 1212,L ,17/07/18,asroh ,TLOGOMULYO ,4,5,11,92.5,14.2,-3.7,-3.55,-2.62,Gizi Kurang,Stunting
+Balita 1213,L ,29/08/19,maskun ,TLOGOMULYO ,3,5,13.2,94,0,-1.46,-2.03,-0.43,Gizi Baik,Stunting
+Balita 1214,P ,04/09/21,weny prawitosari ,TLOGOMULYO ,3,2,8.4,75,12.1,-2.01,-2.6,-0.96,Gizi Baik,Stunting
+Balita 1215,L ,23/06/21,kateno ,TLOGOMULYO ,1,1,8.2,78.9,14.8,-3.25,-2.59,-2.79,Gizi Kurang,Stunting
+Balita 1216,L ,10/04/21,SURYA N ,TLOGOMULYO ,7,7,9.5,72.1,0,-2.29,-5.32,0.79,Gizi Baik,Stunting
+Balita 1217,L ,09/11/20,AHMAD KHOIRUR ROKHIM ,TLOGOMULYO ,1,4,8.7,77.5,14.5,-3.58,-4.24,-1.87,Gizi Baik,Stunting
+Balita 1218,L ,19/03/20,wahyu a ,TLOGOMULYO ,3,1,10.9,87.2,14.2,-2.41,-2.6,-1.44,Gizi Baik,Stunting
+Balita 1219,P ,30/11/19,YOHANES ,TLOGOMULYO ,4,1,11.7,88.3,15.1,-1.86,-2.56,-0.5,Gizi Baik,Stunting
+Balita 1220,L ,17/08/19,ARYADI ,TLOGOMULYO ,2,4,14.6,93,15.3,-0.61,-2.05,0.88,Gizi Baik,Stunting
+Balita 1221,L ,04/05/19,kiswanto ,TLOGOMULYO ,3,7,11.7,91.4,14.5,-2.69,-2.87,-1.55,Gizi Baik,Stunting
+Balita 1222,P ,26/08/20,ABDUL ROSID ,TLOGOMULYO ,2,1,11,84.9,0,-1.52,-2.18,-0.37,Gizi Baik,Stunting
+Balita 1223,L ,20/10/20,KHOLISON ,TLOGOMULYO ,2,4,9.3,72,0,-1.76,-4.31,0.57,Gizi Baik,Stunting
+Balita 1224,L ,29/04/20,WIDOWATI ,TLOGOMULYO ,3,4,10,81.5,0,-1.9,-2.17,-1.03,Gizi Baik,Stunting
+Balita 1225,P ,03/05/21,SUKIRNO ,TLOGOMULYO ,4,4,10,67,0,0.62,-3.29,2.96,Gizi Lebih,Stunting
+Balita 1226,P ,07/06/20,M FAUZAN ,TLOGOMULYO ,3,5,12.7,73.5,0,0.76,-4.06,3.81,Obesitas,Stunting
+Balita 1227,L ,03/09/21,SOLIKHUDIN ,TLOGOMULYO ,2,5,8.9,66,0,-0.11,-2.87,2.02,Gizi Lebih,Stunting
+Balita 1228,P ,01/05/20,SUPRAPTO ,TLOGOMULYO ,2,5,12,78,0,0.14,-2.94,2.28,Gizi Lebih,Stunting
+Balita 1229,L ,28/06/22,FAUZI ,TLOGOMULYO ,2,5,3,49,,-2.66,-2.41,-0.97,Gizi Baik,Stunting
+Balita 1230,L ,12/04/21,MUHAMAD TAOFIK ,TLOGOSARI WETAN ,11,3,8.5,72,0,-1.51,-2.33,-0.52,Gizi Baik,Stunting
+Balita 1231,L ,10/09/21,CHUSNUL CHULUQ ,TLOGOSARI WETAN ,1,3,8,67,0,-1.02,-2.31,0.4,Gizi Baik,Stunting
+Balita 1232,P ,30/06/22,ASYIK MUNABAH ,TLOGOSARI WETAN ,4,4,2.8,48,,-2.8,-2.53,-1.15,Gizi Baik,Stunting
+Balita 1233,P ,12/11/21,ALEX ISTIYANTO ,TLOGOSARI WETAN ,5,2,6.6,62.7,0,-1.27,-2.08,0.09,Gizi Baik,Stunting
+Balita 1234,L ,19/11/20,TEGUH HARI PRAYOGO ,TLOGOSARI WETAN ,7,1,10.4,77.2,,-0.64,-2.24,0.55,Gizi Baik,Stunting
+Balita 1235,P ,03/02/20,REMI YONO ,TLOGOSARI WETAN ,8,2,11.2,82.2,,-0.85,-2.15,0.49,Gizi Baik,Stunting
+Balita 1236,L ,05/10/21,YUSUF ,TLOGOSARI WETAN ,3,2,7.2,66.5,,-1.83,-2.24,-0.7,Gizi Baik,Stunting
+Balita 1237,P ,19/05/19,YUWONO ,TLOGOSARI WETAN ,7,1,8.9,87.2,,-3.7,-2.25,-3.46,Gizi Buruk,Stunting
+Balita 1238,P ,04/09/21,marni ,TLOGOSARI WETAN ,3,3,8.5,62.6,,0.1,-3.44,2.76,Gizi Lebih,Stunting
+Balita 1239,P ,10/11/20,nurul ,TLOGOSARI WETAN ,7,1,12.2,73.8,,1.17,-2.8,3.29,Obesitas,Stunting
+Balita 1240,L ,06/10/21,BAYU APRIL SETYANTO ,TLOGOSARI WETAN ,1,4,7.5,65,0,-1.36,-2.72,0.38,Gizi Baik,Stunting
+Balita 1241,L ,17/06/22,fatchur ,TLOGOSARI WETAN ,8,3,3,48,,-1.78,-2.14,-0.27,Gizi Baik,Stunting
+Balita 1242,L ,08/04/18,abdul m s ,TLOGOSARI WETAN ,4,1,13.5,96,0,-1.7,-2.03,-0.72,Gizi Baik,Stunting
+Balita 1243,L ,11/06/22,teguh hari ,TLOGOSARI WETAN ,7,1,2.8,47,,-1.76,-2.16,-0.37,Gizi Baik,Stunting
+Balita 1244,L ,19/06/22,DARTIK ARIYANI ,TLOGOSARI WETAN ,2,4,4.8,48,,1.4,-2.29,4.91,Obesitas,Stunting
+Balita 1245,L ,25/06/22,VEBRU ADRIANTO ,TLOGOSARI WETAN ,3,1,2.8,47,,-2.9,-3.24,-0.37,Gizi Baik,Stunting
+Balita 1246,L ,17/07/18,AGUS DHINI TEGUH PRASETYA ,PALEBON ,5,3,9,84.2,0,-4.46,-4.45,-3.1,Gizi Buruk,Stunting
+Balita 1247,P ,01/04/18,MIFTAKHUL HUDA ,PALEBON ,4,6,9.2,86.7,0,-4.29,-4.12,-2.77,Gizi Kurang,Stunting
+Balita 1248,P ,29/06/19,ZUBAIDI ,PALEBON ,1,7,8.9,83,0,-3.55,-3.27,-2.19,Gizi Kurang,Stunting
+Balita 1249,P ,21/03/18,SURADI ,PALEBON ,4,7,12.6,94,0,-2.03,-2.34,-0.9,Gizi Baik,Stunting
+Balita 1250,L ,04/06/20,FENDI ANDREAS HANAFI ,PALEBON ,4,1,12.9,80.6,0,0.49,-2.42,2.33,Gizi Lebih,Stunting
+Balita 1251,P ,13/05/21,ERA NUR RAMADHANTI ,PALEBON ,1,7,10,70,0,0.68,-2.03,2.15,Gizi Lebih,Stunting
+Balita 1252,P ,03/05/21,suharwanto ,PEDURUNGAN KIDUL ,4,1,9.5,65,0,0.2,-4.04,3.05,Obesitas,Stunting
+Balita 1253,P ,23/06/22,MUHAMMAD ILHAM HASAN ,PEDURUNGAN KIDUL ,2,1,4.8,48,,1.49,-2.09,4.72,Obesitas,Stunting
+Balita 1254,P ,05/05/20,MURNI ,PEDURUNGAN KIDUL ,1,2,10.5,86,15,-2.37,-2.56,-1.19,Gizi Baik,Stunting
+Balita 1255,L ,08/10/20,INDAH JARWATI ,PEDURUNGAN KIDUL ,1,2,10,84,13,-2.65,-2.69,-1.67,Gizi Baik,Stunting
+Balita 1256,P ,18/07/19,KRISTYANTO ,PEDURUNGAN KIDUL ,8,5,11.2,91,15,-2.67,-2.59,-1.62,Gizi Baik,Stunting
+Balita 1257,L ,01/07/19,IWAN S. ,PEDURUNGAN KIDUL ,4,8,12.6,94.4,15,-2,-2.19,-1.1,Gizi Baik,Stunting
+Balita 1258,P ,21/10/20,REVI K. ,PEDURUNGAN KIDUL ,4,8,9.1,84.5,0,-3.01,-2.08,-2.5,Gizi Kurang,Stunting
+Balita 1259,P ,26/07/22,LANTIP W. ,PEDURUNGAN KIDUL ,2,8,5,66.5,0,-4.38,-2.25,-4.44,Gizi Buruk,Stunting
+Balita 1260,P ,01/03/21,RIZKY FAUZI ,PEDURUNGAN KIDUL ,2,10,9,78,15,-2.55,-3.33,-0.85,Gizi Baik,Stunting
+Balita 1261,P ,23/08/19,Hanif Septa Aryanto ,PEDURUNGAN KIDUL ,1,11,11.2,87.2,15,-2.59,-3.36,-0.73,Gizi Baik,Stunting
+Balita 1262,P ,12/07/18,ILHAM TEGUH ,PEDURUNGAN KIDUL ,8,1,12.1,92.3,16,-2.91,-3.52,-1,Gizi Baik,Stunting
+Balita 1263,L ,09/09/19,PRIYO PRAMONO / SULASTRI ,PEDURUNGAN LOR ,4,7,10.5,85.5,0,-3.32,-4.13,-1.27,Gizi Baik,Stunting
+Balita 1264,L ,23/07/19,RUBIYANTO ,PEDURUNGAN LOR ,2,5,10.9,90.5,0,-3.14,-3.08,-2.1,Gizi Kurang,Stunting
+Balita 1265,P ,26/04/21,YUDIARTO ,PEDURUNGAN LOR ,1,8,7.4,76.5,0,-3.89,-3.4,-2.82,Gizi Kurang,Stunting
+Balita 1266,L ,22/08/18,GENI TANTONO ,PEDURUNGAN TENGAH ,2,10,12.8,95,0,-2.59,-3.01,-1.18,Gizi Baik,Stunting
+Balita 1267,P ,04/03/22,anisah ,PEDURUNGAN TENGAH ,1,13,6.1,66.5,12,-3.78,-4.01,-2.23,Gizi Kurang,Stunting
+Balita 1268,L ,21/11/19,Zega ,PEDURUNGAN TENGAH ,2,9,9.6,88.5,13,-3.79,-2.91,-3.43,Gizi Buruk,Stunting
+Balita 1269,L ,04/12/20,ROY ,PEDURUNGAN TENGAH ,5,1,8.3,80.5,13.5,-3.94,-3.39,-3.16,Gizi Buruk,Stunting
+Balita 1270,P ,30/09/20,ARIES BOEDI HARYANTO ,PEDURUNGAN TENGAH ,4,2,8.8,77.6,12.5,-3.34,-4.07,-1.18,Gizi Baik,Stunting
+Balita 1271,P ,10/05/21,AGUNG ,PEDURUNGAN TENGAH ,1,13,9.4,78.9,16,-1.78,-2.29,-0.71,Gizi Baik,Stunting
+Balita 1272,L ,02/03/20,AGUS SETIYANTO ,PEDURUNGAN TENGAH ,3,15,12,89,16,-1.78,-2.39,-0.66,Gizi Baik,Stunting
+Balita 1273,L ,22/06/20,KHABIB ABDUL ROHMAN ,PENGGARON KIDUL ,3,1,10.5,87.3,0,-2.55,-2.47,-1.76,Gizi Baik,Stunting
+Balita 1274,L ,08/08/20,Muhamad Bukhori ,PENGGARON KIDUL ,1,2,11,85.2,14,-2.01,-2.62,-0.79,Gizi Baik,Stunting
+Balita 1275,L ,21/01/21,Ahmad Gunawan ,PENGGARON KIDUL ,5,2,14.1,83.5,,0.69,-2.18,2.58,Gizi Lebih,Stunting
+Balita 1276,L ,31/03/22,khoirun ,PENGGARON KIDUL ,3,4,6.7,67,0,-3.65,-4.49,-1.8,Gizi Baik,Stunting
+Balita 1277,P ,05/10/18,hasan anwar ,PENGGARON KIDUL ,1,6,11,95,0,-3.43,-2.68,-2.72,Gizi Kurang,Stunting
+Balita 1278,P ,01/01/19,a. toyib ,PENGGARON KIDUL ,8,3,11.1,92.8,0,-3.2,-2.87,-2.13,Gizi Kurang,Stunting
+Balita 1279,L ,23/02/19,Sony Setiawan  ,PENGGARON KIDUL ,3,2,12.9,93.7,,-2.13,-2.68,-0.8,Gizi Baik,Stunting
+Balita 1280,L ,01/05/19,Dwi setiawan ,PENGGARON KIDUL ,4,6,16.7,95.2,0,0.06,-2.09,2.03,Gizi Lebih,Stunting
+Balita 1281,L ,21/10/19,MASHARI ,PENGGARON KIDUL ,1,4,11.6,90.5,0,-2.41,-2.56,-1.45,Gizi Baik,Stunting
+Balita 1282,P ,07/05/20,MAYANG ,PENGGARON KIDUL ,2,4,10.2,82,0,-2.6,-3.58,-0.51,Gizi Baik,Stunting
+Balita 1283,L ,20/05/20,RINA NOVIANA ,PENGGARON KIDUL ,4,4,10.7,88.6,0,-2.5,-2.12,-2.04,Gizi Kurang,Stunting
+Balita 1284,L ,28/05/20,SHERLYANA MAYANGSARI ,PLAMONGAN SARI ,8,14,10.8,88.5,,-2.4,-2.11,-1.89,Gizi Baik,Stunting
+Balita 1285,P ,10/11/20,MUSTOFA ,PLAMONGAN SARI ,,3,10.1,84.2,0,-2.01,-2.01,-1.18,Gizi Baik,Stunting
+Balita 1286,L ,19/11/20,HENDRA ,PLAMONGAN SARI ,,3,9.3,83.5,0,-3.12,-2.59,-2.47,Gizi Kurang,Stunting
+Balita 1287,L ,29/10/22,Muhammad Misbachul Anam ,PLAMONGAN SARI ,3,10,8.5,65,,0.14,-2.06,1.85,Resiko Gizi Lebih,Stunting
+Balita 1288,L ,23/08/22,LIS HIDAYATI ,PLAMONGAN SARI ,2,12,7.9,68,0,-1.21,-2.01,-0.1,Gizi Baik,Stunting
