@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from pygrowup_erknet import Calculator
 from pandas.tseries.offsets import DateOffset
+import os
 
 # ==============================================================================
 # 1. SETUP DAN FUNGSI
@@ -59,12 +60,12 @@ except KeyError:
 # ==============================================================================
 # 3. MEMBUAT KOLOM BARU
 # ==============================================================================
-print(">>> 3. Membuat kolom 'usia_terkoreksi' dan 'tanggal_pengecekan'...")
+print(">>> 3. Membuat kolom 'usia' dan 'tanggal_pengecekan'...")
 
 # --- Membuat kolom usia baru menggunakan fungsi tebak_usia_bulan ---
 # Menerapkan fungsi ke setiap baris data
 # Note: Ini mungkin butuh waktu beberapa saat jika datanya besar
-df['usia_terkoreksi'] = df.apply(
+df['usia'] = df.apply(
     lambda row: tebak_usia_bulan(
         jk=row['jk'], 
         tinggi_cm=row['tinggi'], 
@@ -73,16 +74,16 @@ df['usia_terkoreksi'] = df.apply(
     ),
     axis=1
 )
-print("- Kolom 'usia_terkoreksi' berhasil dibuat.")
+print("- Kolom 'usia' berhasil dibuat.")
 
 # Hapus baris di mana usia tidak bisa ditebak
-df.dropna(subset=['usia_terkoreksi'], inplace=True)
-df['usia_terkoreksi'] = df['usia_terkoreksi'].astype(int)
+df.dropna(subset=['usia'], inplace=True)
+df['usia'] = df['usia'].astype(int)
 
 # --- Membuat kolom tanggal pengecekan ---
 # Menambahkan usia (dalam bulan) ke tanggal lahir
 df['tanggal_pengecekan_dt'] = df.apply(
-    lambda row: row['tgl_lahir'] + DateOffset(months=row['usia_terkoreksi']),
+    lambda row: row['tgl_lahir'] + DateOffset(months=row['usia']),
     axis=1
 )
 
@@ -108,7 +109,7 @@ print(">>> 4. Finalisasi dan menyimpan data...")
 # Memilih dan mengatur urutan kolom untuk file final
 kolom_final = [
     'jk', 'tgl_lahir', 'berat', 'tinggi', 
-    'usia_terkoreksi', 'tanggal_pengecekan',
+    'usia', 'tanggal_pengecekan',
     'zs_bb_u', 'zs_tb_u', 'zs_bb_tb', 
     'status_gizi', 'status_stunting', 'desa_kel'
 ]
