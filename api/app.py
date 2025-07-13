@@ -1,49 +1,46 @@
-import joblib
-import pandas as pd
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import traceback
+import sys
+import os
 
-# 1. Memuat semua model yang dibutuhkan
-rf_model = joblib.load('../random_forest_model.pkl')
-kmeans_model = joblib.load('../kmeans_model.pkl')
-scaler = joblib.load('../scaler.pkl')
+# Impor fungsi utama dan model dari file predict.py
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-# 2. Contoh ada data anak baru
-data_anak_baru = {
-    'usia': 12,
-    'berat': 7.5,
-    'tinggi': 72.1,
-    'lila': 13.1,
-    'rt': 3,
-    'rw': 5,
-    'zs_bb_u': -2.5,
-    'zs_tb_u': -3.1,
-    'zs_bb_tb': -1.9,
-    'jk_P': 1 # Misal jenis kelamin perempuan
-}
-df_baru = pd.DataFrame([data_anak_baru])
+from predict import proses_input_anak
+app = Flask(__name__)
 
-# ==========================================================
-# PENGGUNAAN MODEL RANDOM FOREST UNTUK PREDIKSI STUNTING
-# ==========================================================
-# Pastikan urutan kolom sama seperti saat training
-kolom_rf = ['usia', 'rt', 'rw', 'berat', 'tinggi', 'lila', 'zs_bb_u', 'zs_tb_u', 'zs_bb_tb', 'jk_P']
-prediksi_stunting = rf_model.predict(df_baru[kolom_rf])
+CORS(app)  # Mengizinkan akses dari berbagai origin (opsional, jika frontend beda domain)
 
-# Mengubah hasil prediksi (misal 0) kembali ke label (misal 'Stunting')
-# Anda perlu menyimpan LabelEncoder (le) atau mappingnya jika ingin hasil berupa teks
-label_mapping = {0: 'Stunting', 1: 'Tidak Stunting'}
-print(f"Hasil Prediksi Stunting: {label_mapping[prediksi_stunting[0]]}")
+@app.route('/')
+def index():
+    return jsonify({"message": "Stunting Prediction API is running."})
 
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        # Ambil data JSON dari body request
+        data = request.json
 
-# ==========================================================
-# PENGGUNAAN MODEL K-MEANS UNTUK MENENTUKAN CLUSTER
-# ==========================================================
-# Pilih fitur yang relevan untuk clustering
-kolom_cluster = ['usia', 'berat', 'tinggi', 'lila', 'zs_bb_u', 'zs_tb_u', 'zs_bb_tb']
-data_untuk_cluster = df_baru[kolom_cluster]
+        # Validasi input (pastikan field penting ada)
+        required_fields = ['jk', 'usia', 'berat', 'tinggi']
+        for field in required_fields:
+            if field not in data:
+                return jsonify({'error': f"Missing required field: {field}"}), 400
 
-# Skalakan data baru menggunakan scaler yang sudah disimpan!
-data_scaled = scaler.transform(data_untuk_cluster)
+        # Jalankan prediksi
+        hasil = proses_input_anak({
+            'jk': data['jk'],
+            'usia': data['usia'],
+            'berat': data['berat'],
+            'tinggi': data['tinggi']
+        })
+        return jsonify(hasil)
 
-# Prediksi cluster
-prediksi_cluster = kmeans_model.predict(data_scaled)
-print(f"Anak ini masuk ke dalam Cluster: {prediksi_cluster[0]}")
+    
+    except Exception as e:
+        traceback.print_exc()
+        return jsonify({'error': str(e), 'line': traceback.format_exc()}), 500
+
+if __name__ == '__main__':
+    app.run(debug=True)
