@@ -1,0 +1,83 @@
+>>> 1. Memuat dan Mempersiapkan Data...
+Data awal berhasil dimuat.
+
+Mapping Label Status Stunting: {'RESIKO STUNTING': 0, 'STUNTING': 1, 'TIDAK STUNTING': 2}
+
+Model akan dilatih dengan 4 fitur.
+
+>>> 2. Melatih Model Klasifikasi Random Forest...
+
+Akurasi Model: 94.96%
+
+Laporan Klasifikasi (Multikelas):
+                 precision    recall  f1-score   support
+
+RESIKO STUNTING       0.73      0.47      0.57        17
+       STUNTING       0.97      0.99      0.98       168
+ TIDAK STUNTING       0.95      0.97      0.96        73
+
+       accuracy                           0.95       258
+      macro avg       0.88      0.81      0.84       258
+   weighted avg       0.94      0.95      0.94       258
+
+
+>>> Menganalisis Faktor Paling Berpengaruh...
+Peringkat 10 Fitur Teratas:
+    Fitur  Pentingnya
+2  tinggi    0.441658
+0    usia    0.285642
+1   berat    0.252442
+3    jk_P    0.020258
+
+>>> 3. Melakukan Analisis Clustering dengan K-Means...
+
+Data berhasil dikelompokkan ke dalam 4 cluster.
+
+Karakteristik Rata-rata per Cluster:
+              usia      berat     tinggi   zs_bb_u   zs_tb_u  zs_bb_tb
+cluster                                                               
+0        21.289216  10.975490  73.405882 -0.119412 -3.379069  2.233137
+1        41.852507  12.823451  99.631268 -1.292389  0.273628 -2.147935
+2        37.117308  10.138942  85.405000 -2.770538 -2.750000 -1.759846
+3         8.000000   5.804018  62.745536 -2.142500 -1.847054 -1.386116
+
+Distribusi Status Stunting Rinci per Cluster:
+status_stunting  RESIKO STUNTING  STUNTING  TIDAK STUNTING
+cluster                                                   
+0                       0.000000  1.000000        0.000000
+1                       0.017699  0.091445        0.890855
+2                       0.103846  0.871154        0.025000
+3                       0.098214  0.678571        0.223214
+
+>>> 3.5 Menghitung Profil Dominan per Desa untuk Pemetaan...
+
+--- Tabel Profil Dominan per Desa (Data untuk Peta) ---
+cluster             0    1    2   3  profil_dominan
+desa_kel                                           
+PALEBON            28   35   45  27               2
+PEDURUNGAN KIDUL   39  111  122  59               2
+PEDURUNGAN LOR      5   25   29  11               2
+PEDURUNGAN TENGAH  22   62   70  29               2
+PENGGARON KIDUL    37   41   84  21               2
+PLAMONGAN SARI     24   19   66  15               2
+TLOGOMULYO         30   36   53  38               2
+TLOGOSARI WETAN    19   10   51  24               2
+
+Data profil dominan per desa berhasil disimpan di: 'data/profil_dominan_desa.csv'
+
+--- Tabel Persentase Komposisi Cluster per Desa ---
+cluster            persen_cluster_0  persen_cluster_1  persen_cluster_2  persen_cluster_3
+desa_kel                                                                                 
+PALEBON                       20.74             25.93             33.33             20.00
+PEDURUNGAN KIDUL              11.78             33.53             36.86             17.82
+PEDURUNGAN LOR                 7.14             35.71             41.43             15.71
+PEDURUNGAN TENGAH             12.02             33.88             38.25             15.85
+PENGGARON KIDUL               20.22             22.40             45.90             11.48
+PLAMONGAN SARI                19.35             15.32             53.23             12.10
+TLOGOMULYO                    19.11             22.93             33.76             24.20
+TLOGOSARI WETAN               18.27              9.62             49.04             23.08
+
+Data persentase komposisi per desa berhasil disimpan di: 'data/profil_persentase_desa.csv'
+
+>>> 4. Menyimpan Model Final...
+Semua model (realistis) berhasil disimpan di folder 'models/'
