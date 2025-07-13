@@ -51,35 +51,35 @@ def tebak_usia_bulan(jk, tinggi_cm, berat_kg, target_zs_tb_u, tolerance=0.2):
 
 
 
-jk = input("Jenis Kelamin (L/P): ")
-tinggi_cm = float(input("Tinggi (cm): "))
-berat_kg = float(input("Berat (kg): "))
-target_zs_tb_u = float(input("Z-score TB/U Target: "))
-
-usia_bulan_prediksi, selisih = tebak_usia_bulan(jk, tinggi_cm, berat_kg, target_zs_tb_u)
-
-print(f"Perkiraan usia balita: {usia_bulan_prediksi} bulan (selisih Z-score: {round(selisih, 2)})")
-
-
-if usia_bulan_prediksi is not None:
-    print(f"Perkiraan usia balita: {usia_bulan_prediksi} bulan")
-    zscore = hitung_zscore_balita(jk, usia_bulan_prediksi, berat_kg, tinggi_cm)
-    print(f"Hasil Z-score pada usia tersebut: {zscore}")
-else:
-    print("Gagal memprediksi usia.")
-
-
-# input from terminal
 # jk = input("Jenis Kelamin (L/P): ")
-# usia_bulan = int(input("Usia (bulan): "))
-# berat_kg = float(input("Berat (kg): "))
 # tinggi_cm = float(input("Tinggi (cm): "))
-
-# jk = input("Jenis Kelamin (L/P): ")
-# usia_bulan = float(input("Usia (bulan): "))
 # berat_kg = float(input("Berat (kg): "))
-# tinggi_cm = float(input("Tinggi (cm): "))
+# target_zs_tb_u = float(input("Z-score TB/U Target: "))
 
-# # hitung zscore
-# zscore = hitung_zscore_balita(jk, usia_bulan, berat_kg, tinggi_cm)
-# print(zscore)
+# usia_bulan_prediksi, selisih = tebak_usia_bulan(jk, tinggi_cm, berat_kg, target_zs_tb_u)
+
+# print(f"Perkiraan usia balita: {usia_bulan_prediksi} bulan (selisih Z-score: {round(selisih, 2)})")
+
+
+# if usia_bulan_prediksi is not None:
+#     print(f"Perkiraan usia balita: {usia_bulan_prediksi} bulan")
+#     zscore = hitung_zscore_balita(jk, usia_bulan_prediksi, berat_kg, tinggi_cm)
+#     print(f"Hasil Z-score pada usia tersebut: {zscore}")
+# else:
+#     print("Gagal memprediksi usia.")
+
+
+# # input from terminal
+# # jk = input("Jenis Kelamin (L/P): ")
+# # usia_bulan = int(input("Usia (bulan): "))
+# # berat_kg = float(input("Berat (kg): "))
+# # tinggi_cm = float(input("Tinggi (cm): "))
+
+# # jk = input("Jenis Kelamin (L/P): ")
+# # usia_bulan = float(input("Usia (bulan): "))
+# # berat_kg = float(input("Berat (kg): "))
+# # tinggi_cm = float(input("Tinggi (cm): "))
+
+# # # hitung zscore
+# # zscore = hitung_zscore_balita(jk, usia_bulan, berat_kg, tinggi_cm)
+# # print(zscore)
