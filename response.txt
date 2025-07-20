@@ -49,6 +49,8 @@ cluster
 2                       0.103846  0.871154        0.025000
 3                       0.098214  0.678571        0.223214
 
+>>> 3.6 Membuat Visualisasi Sebaran Cluster...
+
 >>> 3.5 Menghitung Profil Dominan per Desa untuk Pemetaan...
 
 --- Tabel Profil Dominan per Desa (Data untuk Peta) ---
@@ -66,18 +68,24 @@ TLOGOSARI WETAN    19   10   51  24               2
 Data profil dominan per desa berhasil disimpan di: 'data/profil_dominan_desa.csv'
 
 --- Tabel Persentase Komposisi Cluster per Desa ---
-cluster            persen_cluster_0  persen_cluster_1  persen_cluster_2  persen_cluster_3
-desa_kel                                                                                 
-PALEBON                       20.74             25.93             33.33             20.00
-PEDURUNGAN KIDUL              11.78             33.53             36.86             17.82
-PEDURUNGAN LOR                 7.14             35.71             41.43             15.71
-PEDURUNGAN TENGAH             12.02             33.88             38.25             15.85
-PENGGARON KIDUL               20.22             22.40             45.90             11.48
-PLAMONGAN SARI                19.35             15.32             53.23             12.10
-TLOGOMULYO                    19.11             22.93             33.76             24.20
-TLOGOSARI WETAN               18.27              9.62             49.04             23.08
+cluster            persen_cluster_0  ...  persen_cluster_3
+desa_kel                             ...                  
+PALEBON                       20.74  ...             20.00
+PEDURUNGAN KIDUL              11.78  ...             17.82
+PEDURUNGAN LOR                 7.14  ...             15.71
+PEDURUNGAN TENGAH             12.02  ...             15.85
+PENGGARON KIDUL               20.22  ...             11.48
+PLAMONGAN SARI                19.35  ...             12.10
+TLOGOMULYO                    19.11  ...             24.20
+TLOGOSARI WETAN               18.27  ...             23.08
+
+[8 rows x 4 columns]
 
 Data persentase komposisi per desa berhasil disimpan di: 'data/profil_persentase_desa.csv'
 
+>>> 3.7 Menyimpan Data Ringkasan Cluster...
+Data ringkasan cluster berhasil disimpan.
+
 >>> 4. Menyimpan Model Final...
 Semua model (realistis) berhasil disimpan di folder 'models/'
+DataFrame lengkap dengan cluster berhasil disimpan.
