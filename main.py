@@ -209,3 +209,7 @@ joblib.dump(le, os.path.join(output_dir, 'label_encoder_multiclass.pkl'))
 model_columns = list(X.columns)
 joblib.dump(model_columns, os.path.join(output_dir, 'model_columns_realistis.pkl'))
 print(f"Semua model (realistis) berhasil disimpan di folder '{output_dir}/'")
+
+
+df.to_csv('data/data_lengkap_teranalisis.csv', index=False)
+print("DataFrame lengkap dengan cluster berhasil disimpan.")
